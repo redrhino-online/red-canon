@@ -9,7 +9,7 @@ has an output. Each station has a gate you must pass before moving on.
 ```mermaid
 flowchart LR
     A[Plan] --> B[Market] --> C[Message]
-    C --> D[Offer] --> E[Funnel] --> F[Traffic]
+    C --> D[Offer] --> E[Funnel] --> F[Traffic] --> G[Enroll]
 ```
 
 ## Public structure mapping
@@ -34,10 +34,10 @@ public structure to the internal stations.
 | Engage Opportunity | Funnel | Brand, record, edit | Funnel | 16, 17, 18 |
 | Engage Opportunity | Traffic | Set up tracking | Traffic | 22 |
 | Engage Opportunity | Traffic | Launch the campaign | Traffic | 22, 23 |
-| Engage Opportunity | Traffic | Tune one thing at a time | Traffic | 23, 24 |
-| Engage Opportunity | Retargeting | Split audiences | Retargeting | 33, 34 |
-| Engage Opportunity | Retargeting | Show focused ads | Retargeting | 33, 34 |
-| Engage Opportunity | Retargeting | Measure and repeat | Retargeting | 33, 34 |
+| Engage Opportunity | Traffic | Retarget and tune one thing at a time | Traffic | 23, 24, 33, 34 |
+| Engage Opportunity | Enroll | Frame the call | Enroll | 35, 36, 37, 38, 39 |
+| Engage Opportunity | Enroll | Diagnose the gap | Enroll | 40, 41, 42 |
+| Engage Opportunity | Enroll | Invite and handle objections | Enroll | 43, 44, 45, 46, 47, 48, 49 |
 | Develop Audience | Content | Turn nine steps into a content list | Content | 26, 27 |
 | Develop Audience | Content | Publish on site, email, chat, and social | Content | 25, 28, 29, 31 |
 | Develop Audience | Content | Promote and reuse | Content | 30, 32 |
@@ -147,7 +147,8 @@ and converts. Pages follow a clean brand.
 
 ## Station 5: Traffic
 
-**Goal**: turn on paid ads the right way.
+**Goal**: turn on paid ads the right way, and bring back the people who got
+stuck.
 
 **What happens**:
 
@@ -156,13 +157,15 @@ and converts. Pages follow a clean brand.
 - Launch and then leave it alone for about 10 days.
 - Watch a few key numbers.
 - Change only one thing at a time.
+- Split retargeting audiences by where they stopped. Show a focused ad to each
+  group.
 
-**Output**: a live ad campaign and a metrics dashboard.
+**Output**: a live ad campaign, a retargeting plan, and a metrics dashboard.
 
 **Gate**: enough leads per day to learn. Do not touch a new campaign too early.
 Only fix things up the funnel, one step at a time.
 
-**Sessions**: 22, 23, 24.
+**Sessions**: 22, 23, 24, 33, 34.
 
 ## Station 6: Content engine
 
@@ -181,23 +184,26 @@ Only fix things up the funnel, one step at a time.
 
 **Sessions**: 25, 26, 27, 28, 29, 30, 31, 32.
 
-## Station 7: Retargeting
+## Station 7: Enroll
 
-**Goal**: bring back the people who got stuck.
+**Goal**: turn a booked call into a paying client.
 
 **What happens**:
 
-- Add tracking and goals.
-- Split audiences by where they stopped.
-- Show a focused ad to each group.
-- Measure and repeat.
+- Frame the call: set the time, purpose, and outcome. Check intent.
+- Audit the lead against the product roadmap. Ask for exact numbers. Do not
+  solve or pitch yet.
+- Check commitment, value, and confidence at each gate.
+- Give a short plan. Invite with no pressure.
+- Answer objections with questions. Track why each call ends.
+- Offer a paid strategy call for high-ticket offers.
 
-**Output**: a retargeting plan and a set of ads.
+**Output**: an enrollment script, a question set, and a checkpoint list.
 
-**Gate**: follow the six steps in order. Target, exclude, and ignore the right
-people.
+**Gate**: every gate passes before the invite. A clear yes or a clear no is a
+win. Early calls with the wrong lead are a success.
 
-**Sessions**: 33, 34.
+**Sessions**: 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49.
 
 ## The run line
 
@@ -238,7 +244,7 @@ promises.
 | Funnel | Script right, pages live | Page conversion, show rate |
 | Traffic | Enough leads to learn | Cost per lead, return on ad spend |
 | Content | Content fits the offer | Views, visits, audience growth |
-| Retargeting | Six steps in order | Return on ad spend lift |
+| Enroll | Every gate passes before the invite | Show rate, close rate, call length |
 | Service | Results match goals | Completion, results |
 | Partnership | Every client has a next step | Renewal, referrals |
 

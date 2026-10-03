@@ -37,6 +37,40 @@ Parts to build for this layer:
 - A simple scorecard for each client.
 - A case study template.
 
+## Enrollment service
+
+The canon teaches the enrollment call (sessions 35 to 49). We turn it into a
+done-for-you asset. This is a white-glove add-on in the Serve stage.
+
+**Goal**: help the client enroll more customers without feeling pushy or fake.
+
+**What happens**:
+
+- We write the sales script from the client's one currency and roadmap.
+- We build the question set: exact current numbers, goal numbers, and gaps.
+- We set the checkpoints: intent, commitment, value, confidence, and desire.
+- We write answers to the common objections.
+- We practice with the client and their team using role play.
+- We review recorded calls and note where each call ended.
+
+**Output**: a ready enrollment script, a question guide, and a checkpoint card.
+
+**Gate**: the script is clear, the gates are in order, and the team can run it
+without pressure.
+
+```mermaid
+flowchart LR
+    A[Script] --> B[Questions] --> C[Checkpoints] --> D[Practice]
+```
+
+Parts to build for this layer:
+
+- An enrollment script template tied to the product roadmap.
+- A question bank keyed to the one currency.
+- A one-page checkpoint card.
+- An objection answer sheet.
+- A role-play drill guide.
+
 ## Partnership line
 
 A one-time program is a project. A partnership is a relationship. This is our
@@ -75,6 +109,7 @@ Parts to build for this layer:
 Each station can become its own playbook. For example:
 
 - A playbook for the message station.
+- A playbook for the enrollment service.
 - A playbook for delivery and client success.
 - A playbook for the partnership and renewal loop.
 

@@ -48,14 +48,14 @@ We turn interest into a paying client.
 
 ```mermaid
 flowchart LR
-    A[Funnel] --> B[Traffic] --> C[Retargeting]
+    A[Funnel] --> B[Traffic] --> C[Enroll]
 ```
 
 | Motion | Step 1 | Step 2 | Step 3 |
 |---|---|---|---|
 | Funnel | Script the authority video | Build the four pages | Brand, record, edit |
-| Traffic | Set up tracking | Launch the campaign | Tune one thing at a time |
-| Retargeting | Split audiences | Show focused ads | Measure and repeat |
+| Traffic | Set up tracking | Launch the campaign | Retarget and tune one thing at a time |
+| Enroll | Frame the call | Diagnose the gap | Invite and handle objections |
 
 ## Phase 3: Develop Audience
 

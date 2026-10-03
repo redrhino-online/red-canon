@@ -45,6 +45,15 @@ flowchart LR
     A[Your IP] --> B[We organize and build] --> C[Your RED portfolio]
 ```
 
+We also design and implement your enrollment script. That means the words, the
+questions, and the checkpoints your team uses on the call. We practice it with
+you until it feels natural, not pushy.
+
+```mermaid
+flowchart LR
+    A[Script] --> B[Questions] --> C[Checkpoints] --> D[Practice]
+```
+
 We do not serve your customers. That work stays with you. We build the machine.
 You run it with your customers.
 

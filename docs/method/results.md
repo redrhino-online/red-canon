@@ -16,8 +16,9 @@ Here is each asset and how it grows.
 | Signature solution | Offer work | It collects examples and proof | It organizes the program |
 | Client Engine | Build and launch | Each motion feeds the next | It runs the system |
 | Program content | Offer work | One module at a time | It is the product |
-| Funnel | Funnel work | Small tests improve it | It wins clients |
+| Funnel | Funnel work | Small tests improve it | It books calls |
 | Authority video | Funnel work | New versions over time | It warms cold leads |
+| Enrollment script | Enroll work | Each call makes it sharper | It turns calls into clients |
 | Audience | Traffic and content | Lists only get bigger | It is the fuel |
 | Content library | Content work | One asset becomes many | It brings leads for years |
 | Retargeting lists | Ads and content | They keep filling | They recover lost leads |

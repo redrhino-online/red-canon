@@ -1,12 +1,12 @@
 # Engage Opportunity
 
 Engage Opportunity is the second phase of the RED Method. Here we turn interest
-into a paying client. The phase has three motions: Funnel, Traffic, and
-Retargeting. Each motion has three steps.
+into a paying client. The phase has three motions: Funnel, Traffic, and Enroll.
+Each motion has three steps.
 
 ```mermaid
 flowchart LR
-    A[Funnel] --> B[Traffic] --> C[Retargeting]
+    A[Funnel] --> B[Traffic] --> C[Enroll]
 ```
 
 ## Motion 4: Funnel
@@ -30,35 +30,53 @@ You leave with a live funnel and a finished authority video.
 
 ## Motion 5: Traffic
 
-We turn on paid ads the right way.
+We turn on paid ads the right way. We also bring back the people who got stuck.
 
 1. **Set up tracking.** We set up tracking, audiences, and goals.
 2. **Launch the campaign.** We build a simple campaign: campaign, ad set, ad.
    Then we launch and leave it alone for about 10 days.
-3. **Tune one thing at a time.** We watch a few key numbers. We change only one
-   thing at a time.
+3. **Retarget and tune one thing at a time.** We split audiences by where they
+   stopped. We show a focused ad to each group. We watch a few key numbers and
+   change only one thing at a time.
 
 ```mermaid
 flowchart LR
-    A[Setup] --> B[Launch] --> C[Wait] --> D[Fix one thing]
+    A[Setup] --> B[Launch] --> C[Retarget] --> D[Fix one thing]
 ```
 
-You leave with a live ad campaign and a metrics dashboard.
+You leave with a live ad campaign, a retargeting plan, and a metrics dashboard.
 
-## Motion 6: Retargeting
+## Motion 6: Enroll
 
-We bring back the people who got stuck.
+We run the enrollment call. We help a booked lead decide, with no pressure.
 
-1. **Split audiences.** We add tracking and goals. We split audiences by where
-   they stopped.
-2. **Show focused ads.** We show a focused ad to each group.
-3. **Measure and repeat.** We measure and repeat what works.
+1. **Frame the call.** We set the time, the purpose, and the outcome. We ask why
+   they booked and if they want help now. We check intent before we go on.
+2. **Diagnose the gap.** We audit the lead against your product roadmap. We ask
+   for exact numbers. We do not solve or pitch yet. We check commitment.
+3. **Invite and handle objections.** We give a short plan. We answer doubts with
+   questions, not pressure. Then we invite them to be the next client.
 
 ```mermaid
 flowchart LR
-    A[Visit] --> B[Leave] --> C[Ad] --> D[Return]
+    A[Frame] --> B[Diagnose] --> C[Invite]
 ```
 
-You leave with a retargeting plan and a set of ads.
+### The checkpoints
+
+A checkpoint is a quick gate inside the call. The lead must pass it before you
+move on. The gates are intent, commitment, value, confidence, and desire.
+
+```mermaid
+flowchart LR
+    A[Intent] --> B[Commitment] --> C[Value] --> D[Confidence] --> E[Invite]
+```
+
+If a gate fails, we stop or step back. We do not push. A short, honest call is a
+win. You leave with an enrollment script, a question set, and a checkpoint list.
+
+We design and implement all of this for you. We write the words, the questions,
+and the checkpoints. We practice the call with you until it feels natural, not
+pushy.
 
 Next: [Develop Audience](develop-audience.md).

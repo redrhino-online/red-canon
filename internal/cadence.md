@@ -28,3 +28,6 @@ flowchart LR
 - Do not make slides before the script is right.
 - Never make content outside the signature solution.
 - Change one ad variable at a time.
+- Never invite before the intent gate passes.
+- Get a 5 on commitment before you prescribe.
+- End the call early when the lead is not a fit.
