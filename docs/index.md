@@ -39,9 +39,9 @@ flowchart TD
     A[Build] --> B[Launch] --> C[Serve] --> D[Grow] --> E[Partner]
 ```
 
-- **Build**: make the offer, the message, and the funnel.
+- **Build**: organize your knowledge into an offer, a message, and a funnel.
 - **Launch**: turn on ads and content.
-- **Serve**: deliver the product and get results.
+- **Serve**: build the Client Engine that gets results.
 - **Grow**: add content, follow up, and referrals.
 - **Partner**: keep the results growing for years.
 

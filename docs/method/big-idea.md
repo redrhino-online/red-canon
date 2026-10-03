@@ -13,13 +13,15 @@ flowchart LR
 
 There are two clients in this picture. We keep them clear.
 
-- **Our client**: the expert. We help them build the business.
-- **Their client**: the end customer. The expert serves them.
+- **Our client**: the expert. We organize their IP and build their system.
+- **Their client**: the end customer. The expert serves them. We do not.
 
 ```mermaid
 flowchart LR
     A[Expert] --> B[Us] --> C[Product] --> D[End customer]
 ```
+
+We build the machine. The expert runs it with their customers.
 
 ## The five pillars
 

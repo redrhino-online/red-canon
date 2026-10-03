@@ -1,12 +1,12 @@
 # Develop Audience
 
 Develop Audience is the third step of the RED Method. Here we keep the audience
-and the client growing. We run the content engine, deliver the product, and
-build a long partnership.
+and your RED portfolio growing. We run the content engine, build the assets,
+and build a long partnership.
 
 ```mermaid
 flowchart LR
-    A[Content] --> B[Assets] --> C[Service] --> D[Partnership]
+    A[Content] --> B[Assets] --> C[Build for you] --> D[Partnership]
 ```
 
 ## Content engine
@@ -64,21 +64,22 @@ each other. That family is the base of your ongoing partnership with us.
 
 ## Service
 
-We deliver the product for you, one client at a time. This is white glove,
-one-to-one work.
-
-- We onboard you with a clear welcome and a kickoff.
-- We set success goals together.
-- We deliver the program module by module.
-- We track progress and results.
-- We collect a case study the moment results land.
-
-You get client results, a case study, and a reference.
+We do not serve your customers. That work stays with you. Our service is done
+for you and white glove. We organize your commercial IP and build the system
+that sells and delivers it.
 
 ```mermaid
 flowchart LR
-    A[Onboard] --> B[Deliver] --> C[Track] --> D[Prove]
+    A[Your IP] --> B[We organize and build] --> C[Your RED portfolio]
 ```
+
+- We organize your commercial IP as a signature solution.
+- We build your Client Engine.
+- We build the assets that promote your offer.
+- We launch the promotions and watch the numbers.
+- We optimize what works and expand the IP in your RED portfolio.
+
+You get a working system, growing assets, and proof that it works.
 
 ## Partnership
 

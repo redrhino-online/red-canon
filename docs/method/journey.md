@@ -11,11 +11,11 @@ flowchart TD
     D --> E[Partner]
 ```
 
-- **Build**: make the offer, the message, and the funnel.
+- **Build**: organize your knowledge into an offer, a message, and a funnel.
 - **Launch**: turn on paid traffic and content.
-- **Serve**: deliver the product and get results.
+- **Serve**: build the Client Engine that gets results.
 - **Grow**: add content, follow up, and referrals.
-- **Partner**: keep them long term as the assets grow.
+- **Partner**: keep your RED portfolio growing long term.
 
 ## How the motions map to RED
 
