@@ -148,14 +148,15 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    A[red-canon] --> B[README.md]
-    A --> C[AGENTS.md]
-    A --> D[framework-canon/]
+    A[red-canon] --> B[Docs: README, AGENTS]
+    A --> C[framework-canon/]
+    A --> D[scrub tool]
 ```
 
 - `README.md`: this file. Start here.
 - `AGENTS.md`: rules for anyone, human or AI, who helps build on this repo.
-- `framework-canon/`: the raw transcripts. Read only.
+- `framework-canon/`: the source transcripts. Read only.
+- `src/scrub/` and `pyproject.toml`: the `scrub` tool. See `README-scrub.md`.
 
 ## The canon: session list
 
@@ -230,6 +231,23 @@ flowchart TD
 2. Build new material from it.
 3. Follow the writing and naming rules in `AGENTS.md`.
 4. Open a change for review.
+
+## Keeping the canon clean
+
+The canon is scrubbed. It does not contain the original brand name. We use our
+own `scrub` tool to keep it clean. The tool edits files and old commits.
+
+```mermaid
+flowchart LR
+    A[Run scrub] --> B[Files clean] --> C[History clean] --> D[Force push]
+```
+
+```bash
+uv run scrub 'old text' 'new text'
+uv run scrub --history --force 'old text' 'new text'
+```
+
+See `README-scrub.md` for all options.
 
 ## Provenance and license
 

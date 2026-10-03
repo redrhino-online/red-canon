@@ -16,7 +16,8 @@ method. **Never write that brand name in any new file.**
 - Do not copy quotes that contain the brand name. Rewrite them.
 - If you find the brand name in a new doc, replace it with "the framework".
 
-`framework-canon/` is an archive. Leave its contents as they are.
+`framework-canon/` is the scrubbed canon. Do not edit its files by hand. Use
+the `scrub` tool for bulk name changes.
 
 ## 2. Writing standards
 
@@ -59,7 +60,8 @@ flowchart TD
     C[New docs] --> D[Follow rules]
 ```
 
-- `framework-canon/` is read only. Never edit, rename, or delete its files.
+- `framework-canon/` is read only. Never edit, rename, or delete its files by
+  hand. Use the `scrub` tool for changes. See `README-scrub.md`.
 - Put new material at the repo root or in a new, clearly named folder.
 - Keep file names short and in plain English.
 - Update `README.md` when the repo structure changes.
