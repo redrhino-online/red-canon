@@ -1,7 +1,7 @@
 # Develop Audience
 
 Develop Audience is one of the three phases of the RED Method. Here we keep
-the audience and your RED portfolio growing. The phase has three motions: Content,
+the audience and your RED Portfolio growing. The phase has three motions: Content,
 Activate, and Expand. Each motion has three steps.
 
 ```mermaid
@@ -42,7 +42,7 @@ We build the machine for you. This is done for you, white glove work.
 
 ```mermaid
 flowchart LR
-    A[Your IP] --> B[We organize and build] --> C[Your RED portfolio]
+    A[Your IP] --> B[We organize and build] --> C[Your RED Portfolio]
 ```
 
 We also design and implement your enrollment script. That means the words, the
@@ -59,7 +59,7 @@ You run it with your customers.
 
 ## The Expand motion
 
-We turn a working machine into a growing portfolio.
+We turn a working machine into a growing RED Portfolio.
 
 We break the foundation offer into smaller offers that feed it. Each smaller
 offer is a new entry point. It can win a new client, serve an existing one, or
@@ -67,15 +67,15 @@ raise customer lifetime value.
 
 ```mermaid
 flowchart LR
-    A[Foundation offer] --> B[Smaller offers] --> C[RED portfolio]
+    A[Foundation offer] --> B[Smaller offers] --> C[RED Portfolio]
 ```
 
-1. **Baseline the RED portfolio.** The Client Engine is the first output of
+1. **Baseline the RED Portfolio.** The Client Engine is the first output of
    your engagement: the five stages of Build, Launch, Serve, Grow, and Partner.
-   It is the first asset in your RED portfolio. It is the baseline.
+   It is the first asset in your RED Portfolio. It is the baseline.
 2. **Optimize what works.** We test and sharpen the assets that work.
 3. **Expand the IP.** We turn assets into new offers and new revenue. Ongoing
-   work raises the commercial value of the IP in your RED portfolio.
+   work raises the commercial value of the IP in your RED Portfolio.
 
 ```mermaid
 flowchart LR
@@ -89,7 +89,7 @@ become its own small product.
 
 ```mermaid
 flowchart LR
-    A[Nine steps] --> B[Mini products] --> C[Asset portfolio]
+    A[Nine steps] --> B[Mini products] --> C[RED Portfolio]
 ```
 
 - **Mini product**: a short course, tool, or workshop that solves one step.

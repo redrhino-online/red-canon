@@ -50,7 +50,7 @@ value.
 | Develop Audience | Activate | Organize IP as the signature solution | Service | n/a, our layer |
 | Develop Audience | Activate | Build the Client Engine and promo assets | Service | n/a, our layer |
 | Develop Audience | Activate | Launch and tune promotions | Service | n/a, our layer |
-| Develop Audience | Expand | Baseline the RED portfolio | Partnership | n/a, our layer |
+| Develop Audience | Expand | Baseline the RED Portfolio | Partnership | n/a, our layer |
 | Develop Audience | Expand | Optimize what works | Partnership | n/a, our layer |
 | Develop Audience | Expand | Expand the IP | Partnership | n/a, our layer |
 

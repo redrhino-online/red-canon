@@ -24,12 +24,12 @@ flowchart LR
 - **Launch** happens mostly in Engage Opportunity.
 - **Serve** is yours. You serve your customers with the new model and offer.
 - **Grow** happens in the Expand motion. Smaller offers feed the foundation
-  offer. This grows the RED portfolio.
+  offer. This grows the RED Portfolio.
 - **Partner** keeps the results growing for years.
 
 The Client Engine is the first output of the engagement: the five stages of
 Build, Launch, Serve, Grow, and Partner, materialized as the first asset in
-your RED portfolio.
+your RED Portfolio.
 
 ## Refine Offer
 
@@ -63,7 +63,7 @@ flowchart LR
 
 ## Develop Audience
 
-We keep the audience and the RED portfolio growing.
+We keep the audience and the RED Portfolio growing.
 
 ```mermaid
 flowchart LR
@@ -74,7 +74,7 @@ flowchart LR
 |---|---|---|---|
 | Content | Turn nine steps into a content list | Publish on site, email, chat, and social | Promote and reuse |
 | Activate | Organize IP as the signature solution | Build the Client Engine and promo assets | Launch and tune promotions |
-| Expand | Baseline the RED portfolio | Optimize what works | Expand the IP |
+| Expand | Baseline the RED Portfolio | Optimize what works | Expand the IP |
 
 ## Where to go next
 

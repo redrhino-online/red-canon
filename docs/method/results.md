@@ -1,7 +1,10 @@
 # Results
 
 An asset is something that keeps working after you build it. The RED Method
-creates many assets. Over time they stack up. That is the portfolio.
+creates many assets. Over time they stack up. That is the RED Portfolio.
+
+Assets in the RED Portfolio are licensed to you for use under your agreement
+with us.
 
 ```mermaid
 flowchart LR

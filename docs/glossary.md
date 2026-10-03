@@ -1,14 +1,13 @@
 # Glossary
 
 - **Asset**: something that keeps working after you build it.
-- **Asset portfolio**: all your assets, stacked up over time.
 - **Audience**: the group of people who know you and follow you.
 - **Avatar**: the one person you serve.
 - **Authority video**: a short video that shows your offer and builds trust.
 - **Checkpoint**: a quick gate inside a sales call. The lead must pass it before
   you move on.
 - **Client Engine**: the first output of the RED Method engagement and the
-  first asset in the client's RED portfolio: the five stages of Build,
+  first asset in the client's RED Portfolio: the five stages of Build,
   Launch, Serve, Grow, and Partner.
 - **Currency**: the one measured result you sell.
 - **Enrollment call**: the call where a booked lead decides to become a client.
@@ -24,8 +23,9 @@
 - **Phase**: one of the three parts of the RED Method.
 - **RED Method**: our method. Three phases: Refine Offer, Engage Opportunity,
   Develop Audience. Nine motions. 27 steps.
-- **RED portfolio**: all the IP assets you own and sell, stacked over time. The
-  Client Engine is the first one. The Grow stage adds more.
+- **RED Portfolio**: the stack of IP assets built in our work together. The
+  Client Engine is the first one. The Grow stage adds more. Assets in the RED
+  Portfolio are licensed to you for use under your agreement with us.
 - **Retargeting**: showing ads to people who already visited. It is part of the
   Traffic motion.
 - **Sales script**: the steps and questions we use on the enrollment call.

@@ -12,7 +12,7 @@ flowchart LR
 
 - **Refine Offer**: make something worth buying.
 - **Engage Opportunity**: turn interest into a paying client.
-- **Develop Audience**: keep the audience and the RED portfolio growing.
+- **Develop Audience**: keep the audience and the RED Portfolio growing.
 
 Each phase has three motions. Each motion has three steps. The whole engagement
 is exactly 27 steps. See [the method map](method/motions.md).
@@ -50,7 +50,7 @@ flowchart TD
   machine. You run it.
 - **Grow**: break the foundation offer into smaller offers that feed it. Each
   smaller offer is a new entry point. It can win a new client, serve an existing
-  one, or raise customer lifetime value. This grows the RED portfolio of the IP
+  one, or raise customer lifetime value. This grows the RED Portfolio of the IP
   you own and sell.
 - **Partner**: keep the results growing for years.
 
