@@ -47,8 +47,20 @@ flowchart LR
 Each mini product speaks the one currency. Each one lands in the Asset
 Portfolio. Each one keeps working after you build it.
 
-Over time, one signature solution becomes a family of products. That family is
-the base of your ongoing partnership with us.
+Nothing stands alone. Each mini product, tool, or offer is an entry point and
+an upgrade path to your full service.
+
+```mermaid
+flowchart LR
+    A[Mini asset] --> B[Mini offer] --> C[Full service]
+```
+
+- Each asset points to the next step.
+- Each asset can promote the others.
+- Each transition moves the client up to a higher ticket offer.
+
+Over time, one signature solution becomes a family of products that support
+each other. That family is the base of your ongoing partnership with us.
 
 ## Service
 
