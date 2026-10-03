@@ -1,7 +1,7 @@
 # The journey
 
-The full journey has five runs. We lead you through all five, from first build
-to lasting partnership.
+The full journey has five motions. We lead you through all five, from first
+build to lasting partnership.
 
 ```mermaid
 flowchart TD
@@ -17,7 +17,7 @@ flowchart TD
 - **Grow**: add content, follow up, and referrals.
 - **Partner**: keep them long term as the assets grow.
 
-## How the runs map to RED
+## How the motions map to RED
 
 ```mermaid
 flowchart TD
@@ -26,7 +26,7 @@ flowchart TD
     A --> D[Develop Audience]
 ```
 
-| RED step | Runs |
+| RED step | Motions |
 |---|---|
 | Refine Offer | Build |
 | Engage Opportunity | Launch |

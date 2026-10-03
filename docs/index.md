@@ -32,7 +32,7 @@ flowchart LR
 
 ## The full journey
 
-The work moves through five runs. We stay with you for all five.
+The work moves through five motions. We stay with you for all five.
 
 ```mermaid
 flowchart TD
