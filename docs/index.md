@@ -43,10 +43,15 @@ flowchart TD
     A[Build] --> B[Launch] --> C[Serve] --> D[Grow] --> E[Partner]
 ```
 
-- **Build**: organize your knowledge into an offer, a message, and a funnel.
+- **Build**: organize your knowledge into an offer, a message, and a funnel. We
+  build the Client Engine here. It is the machine that runs the system.
 - **Launch**: turn on ads and content.
-- **Serve**: build the Client Engine that gets results.
-- **Grow**: add content, follow up, and referrals.
+- **Serve**: you serve your customers with the new model and offer. We build the
+  machine. You run it.
+- **Grow**: break the foundation offer into smaller offers that feed it. Each
+  smaller offer is a new entry point. It can win a new client, serve an existing
+  one, or raise customer lifetime value. This grows the RED portfolio of the IP
+  you own and sell.
 - **Partner**: keep the results growing for years.
 
 ## Where to go next

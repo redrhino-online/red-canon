@@ -61,6 +61,15 @@ You run it with your customers.
 
 We turn a working machine into a growing portfolio.
 
+We break the foundation offer into smaller offers that feed it. Each smaller
+offer is a new entry point. It can win a new client, serve an existing one, or
+raise customer lifetime value.
+
+```mermaid
+flowchart LR
+    A[Foundation offer] --> B[Smaller offers] --> C[RED portfolio]
+```
+
 1. **Baseline the RED portfolio.** The Client Engine is the first output of
    your engagement: the five stages of Build, Launch, Serve, Grow, and Partner.
    It is the first asset in your RED portfolio. It is the baseline.

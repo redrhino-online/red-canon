@@ -19,9 +19,13 @@ flowchart LR
     A[Build] --> B[Launch] --> C[Serve] --> D[Grow] --> E[Partner]
 ```
 
-- **Build** happens mostly in Refine Offer.
+- **Build** happens in Refine Offer and in the Activate motion. The Client
+  Engine is built here.
 - **Launch** happens mostly in Engage Opportunity.
-- **Serve, Grow, Partner** happen in Develop Audience.
+- **Serve** is yours. You serve your customers with the new model and offer.
+- **Grow** happens in the Expand motion. Smaller offers feed the foundation
+  offer. This grows the RED portfolio.
+- **Partner** keeps the results growing for years.
 
 The Client Engine is the first output of the engagement: the five stages of
 Build, Launch, Serve, Grow, and Partner, materialized as the first asset in

@@ -24,6 +24,8 @@
 - **Phase**: one of the three parts of the RED Method.
 - **RED Method**: our method. Three phases: Refine Offer, Engage Opportunity,
   Develop Audience. Nine motions. 27 steps.
+- **RED portfolio**: all the IP assets you own and sell, stacked over time. The
+  Client Engine is the first one. The Grow stage adds more.
 - **Retargeting**: showing ads to people who already visited. It is part of the
   Traffic motion.
 - **Sales script**: the steps and questions we use on the enrollment call.

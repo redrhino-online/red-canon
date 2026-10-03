@@ -18,6 +18,11 @@ The public docs describe the engagement as three phases, nine motions, and 27
 steps. Stages are Build, Launch, Serve, Grow, Partner. This table maps the
 public structure to the internal stations.
 
+Serve is the client's work. They serve their customers with the new model. We
+build the machine and support it. Grow breaks the foundation offer into smaller
+offers. Each smaller offer is a new entry point and raises customer lifetime
+value.
+
 | Phase | Motion | Steps (public) | Internal station | Sessions |
 |---|---|---|---|---|
 | Refine Offer | Position | Set goals and numbers | Plan | 00, 01 |
@@ -187,6 +192,11 @@ Only fix things up the funnel, one step at a time.
 ## Station 7: Enroll
 
 **Goal**: turn a booked call into a paying client.
+
+```mermaid
+flowchart LR
+    A[Frame] --> B[Diagnose] --> C[Invite]
+```
 
 **What happens**:
 
