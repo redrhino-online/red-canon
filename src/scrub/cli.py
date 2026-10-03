@@ -100,12 +100,20 @@ def is_binary(data: bytes) -> bool:
     return b"\x00" in chunk
 
 
-def iter_files(root: Path) -> list[Path]:
+def iter_files(root: Path, skip_dirs: tuple[Path, ...] = ()) -> list[Path]:
+    skip_resolved = {p.resolve() for p in skip_dirs}
+    if root.resolve() in skip_resolved:
+        return []
     files: list[Path] = []
     for dirpath, dirnames, filenames in os.walk(root):
-        dirnames[:] = [d for d in dirnames if d not in SKIP_DIRS]
+        dirpath_p = Path(dirpath)
+        dirnames[:] = [
+            d
+            for d in dirnames
+            if d not in SKIP_DIRS and (dirpath_p / d).resolve() not in skip_resolved
+        ]
         for name in filenames:
-            files.append(Path(dirpath) / name)
+            files.append(dirpath_p / name)
     return files
 
 
@@ -129,11 +137,12 @@ def scrub_worktree(
     includes: list[str],
     excludes: list[str],
     dry_run: bool,
+    skip_dirs: tuple[Path, ...] = (),
 ) -> tuple[int, int, list[Path]]:
     files_changed = 0
     total_subs = 0
     changed: list[Path] = []
-    for path in iter_files(root):
+    for path in iter_files(root, skip_dirs):
         if not included(path, root, includes, excludes):
             continue
         data = path.read_bytes()
@@ -298,6 +307,55 @@ def main(argv: list[str] | None = None) -> int:
     elif args.history:
         print("History rewrite skipped (dry run).")
 
+    return 0
+
+
+def polish_main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(
+        prog="polish",
+        description="Apply the built-in polish rules to file contents.",
+    )
+    parser.add_argument("--path", default=".", help="root directory (default: .)")
+    parser.add_argument(
+        "--rules",
+        action="append",
+        default=[],
+        metavar="FILE",
+        help="extra rules file: one 'regex ==> replacement' per line",
+    )
+    parser.add_argument(
+        "--include",
+        action="append",
+        default=[],
+        metavar="GLOB",
+        help="only files matching this glob (repeatable)",
+    )
+    parser.add_argument(
+        "--exclude",
+        action="append",
+        default=[],
+        metavar="GLOB",
+        help="skip files matching this glob (repeatable)",
+    )
+    parser.add_argument("--dry-run", action="store_true", help="show changes only")
+    args = parser.parse_args(argv)
+
+    package_dir = Path(__file__).resolve().parent
+    bundled = package_dir / "polish_rules.txt"
+    rules = load_rules([str(bundled), *args.rules])
+    root = Path(args.path).resolve()
+
+    print(f"Polish rules: {len(rules)}  Root: {root}")
+    files_changed, total_subs, _ = scrub_worktree(
+        root,
+        rules,
+        args.include,
+        args.exclude,
+        args.dry_run,
+        skip_dirs=(package_dir,),
+    )
+    verb = "would change" if args.dry_run else "changed"
+    print(f"Polish: {verb} {files_changed} file(s), {total_subs} replacement(s)")
     return 0
 
 

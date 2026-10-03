@@ -10,6 +10,7 @@ dependencies = [
 
 [project.scripts]
 scrub = "scrub.cli:main"
+polish = "scrub.cli:polish_main"
 
 [build-system]
 requires = ["hatchling"]

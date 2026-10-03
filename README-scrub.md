@@ -66,3 +66,18 @@ flowchart LR
 - `--history`: rewrite git history.
 - `--no-messages`: with `--history`, leave commit messages alone.
 - `--force`: allow a rewrite on a repo that is not a fresh clone.
+
+## polish
+
+`polish` is a second routine. It applies a built-in set of small grammar fixes
+to files. It does not touch git history.
+
+```bash
+uv run polish
+uv run polish --dry-run
+uv run polish --rules extra.rules
+```
+
+- The built-in rules live at `src/scrub/polish_rules.txt`.
+- The routine always skips its own source folder.
+- Use `--path`, `--include`, and `--exclude` the same way as `scrub`.

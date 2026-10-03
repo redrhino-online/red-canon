@@ -234,20 +234,24 @@ flowchart TD
 
 ## Keeping the canon clean
 
-The canon is scrubbed. It does not contain the original brand name. We use our
-own `scrub` tool to keep it clean. The tool edits files and old commits.
+The canon is scrubbed. It does not contain the original brand name. We use two
+routines to keep it clean. `scrub` edits files and old commits. `polish` fixes
+small grammar issues left behind.
 
 ```mermaid
 flowchart LR
-    A[Run scrub] --> B[Files clean] --> C[History clean] --> D[Force push]
+    A[scrub] --> B[No brand name]
+    B --> C[polish] --> D[Clean reading]
 ```
 
 ```bash
 uv run scrub 'old text' 'new text'
 uv run scrub --history --force 'old text' 'new text'
+uv run polish
 ```
 
-See `README-scrub.md` for all options.
+`polish` uses a built-in rules file. Add more rules with `--rules`. See
+`README-scrub.md` for all options.
 
 ## Provenance and license
 

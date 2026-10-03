@@ -1,0 +1,8 @@
+# Polish rules. Small grammar fixes left behind after the name scrub.
+# Run: uv run polish
+#
+# One rule per line: pattern ==> replacement
+# Patterns are Python regex, case-insensitive by default.
+
+All right, framework, Mastermind, community members ==> All right, the framework Mastermind community members
+purposely to framework for a reason ==> purposely to the framework for a reason
