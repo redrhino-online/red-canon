@@ -24,7 +24,8 @@ The public docs present our method as the RED Method. They do not mention the
 source transcripts, session numbers, or internal gaps.
 
 - `docs/index.md`: landing page.
-- `docs/method/`: the big idea, the journey, and the three RED steps.
+- `docs/method/`: the big idea, the method map (three phases, nine motions,
+  27 steps), the three phase pages, and results.
 - `docs/glossary.md`: plain words for the terms we use.
 
 ## Internal docs

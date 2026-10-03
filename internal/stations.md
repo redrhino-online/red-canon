@@ -12,6 +12,44 @@ flowchart LR
     C --> D[Offer] --> E[Funnel] --> F[Traffic]
 ```
 
+## Public structure mapping
+
+The public docs describe the engagement as three phases, nine motions, and 27
+steps. Stages are Build, Launch, Serve, Grow, Partner. This table maps the
+public structure to the internal stations.
+
+| Phase | Motion | Steps (public) | Internal station | Sessions |
+|---|---|---|---|---|
+| Refine Offer | Position | Set goals and numbers | Plan | 00, 01 |
+| Refine Offer | Position | Size the market | Market | 02, 03 |
+| Refine Offer | Position | Pick one market and avatar | Market | 04 |
+| Refine Offer | Message | List every result | Message | 05 |
+| Refine Offer | Message | Pick one currency | Message | 06 |
+| Refine Offer | Message | Write one message | Message | 06 |
+| Refine Offer | Offer | Build the profit pyramid | Offer | 07, 08 |
+| Refine Offer | Offer | Design the signature solution | Offer | 09, 10 |
+| Refine Offer | Offer | Package and price | Offer | 11, 12 |
+| Engage Opportunity | Funnel | Script the authority video | Funnel | 13, 14, 15 |
+| Engage Opportunity | Funnel | Build the four pages | Funnel | 21 |
+| Engage Opportunity | Funnel | Brand, record, edit | Funnel | 16, 17, 18 |
+| Engage Opportunity | Traffic | Set up tracking | Traffic | 22 |
+| Engage Opportunity | Traffic | Launch the campaign | Traffic | 22, 23 |
+| Engage Opportunity | Traffic | Tune one thing at a time | Traffic | 23, 24 |
+| Engage Opportunity | Retargeting | Split audiences | Retargeting | 33, 34 |
+| Engage Opportunity | Retargeting | Show focused ads | Retargeting | 33, 34 |
+| Engage Opportunity | Retargeting | Measure and repeat | Retargeting | 33, 34 |
+| Develop Audience | Content | Turn nine steps into a content list | Content | 26, 27 |
+| Develop Audience | Content | Publish on site, email, chat, and social | Content | 25, 28, 29, 31 |
+| Develop Audience | Content | Promote and reuse | Content | 30, 32 |
+| Develop Audience | Activate | Organize IP as the signature solution | Service | n/a, our layer |
+| Develop Audience | Activate | Build the Client Engine and promo assets | Service | n/a, our layer |
+| Develop Audience | Activate | Launch and tune promotions | Service | n/a, our layer |
+| Develop Audience | Expand | Baseline the RED portfolio | Partnership | n/a, our layer |
+| Develop Audience | Expand | Optimize what works | Partnership | n/a, our layer |
+| Develop Audience | Expand | Expand the IP | Partnership | n/a, our layer |
+
+Use this table to trace any public step back to the source sessions.
+
 ## Station 0: Plan
 
 **Goal**: agree on the numbers and the plan.

@@ -3,7 +3,7 @@
 The RED Method is how we turn an expert's knowledge into a product they can
 sell and deliver, again and again.
 
-RED stands for three steps.
+RED stands for three phases.
 
 ```mermaid
 flowchart LR
@@ -12,7 +12,10 @@ flowchart LR
 
 - **Refine Offer**: make something worth buying.
 - **Engage Opportunity**: turn interest into a paying client.
-- **Develop Audience**: keep the audience and the client growing.
+- **Develop Audience**: keep the audience and the RED portfolio growing.
+
+Each phase has three motions. Each motion has three steps. The whole engagement
+is exactly 27 steps. See [the method map](method/motions.md).
 
 ## Who this is for
 
@@ -30,9 +33,10 @@ flowchart LR
     A[Expert time] --> B[Product] --> C[Repeatable results]
 ```
 
-## The full journey
+## The five stages
 
-The work moves through five motions. We stay with you for all five.
+The work shows up over time as five stages: Build, Launch, Serve, Grow, and
+Partner. The stages materialize the motions. We stay with you for all five.
 
 ```mermaid
 flowchart TD
@@ -48,11 +52,10 @@ flowchart TD
 ## Where to go next
 
 1. [The big idea](method/big-idea.md): the five pillars and one currency.
-2. [The journey](method/journey.md): build, launch, serve, grow, partner.
-3. [Refine Offer](method/refine-offer.md): plan, market, message, offer.
+2. [The method map](method/motions.md): three phases, nine motions, 27 steps.
+3. [Refine Offer](method/refine-offer.md): position, message, offer.
 4. [Engage Opportunity](method/engage-opportunity.md): funnel, traffic,
    retargeting.
-5. [Develop Audience](method/develop-audience.md): content, service,
-   partnership.
+5. [Develop Audience](method/develop-audience.md): content, activate, expand.
 6. [Results](method/results.md): the assets that keep working.
 7. [Glossary](glossary.md): plain words for the terms we use.

@@ -9,6 +9,9 @@ flowchart LR
     A[Expert time] --> B[Product] --> C[Repeatable delivery]
 ```
 
+The method has three phases, nine motions, and 27 steps. See [the method
+map](motions.md).
+
 ## Two clients
 
 There are two clients in this picture. We keep them clear.

@@ -1,26 +1,25 @@
 # Develop Audience
 
-Develop Audience is the third step of the RED Method. Here we keep the audience
-and your RED portfolio growing. We run the content engine, build the assets,
-and build a long partnership.
+Develop Audience is the third phase of the RED Method. Here we keep the
+audience and your RED portfolio growing. The phase has three motions: Content,
+Activate, and Expand. Each motion has three steps.
 
 ```mermaid
 flowchart LR
-    A[Content] --> B[Assets] --> C[Build for you] --> D[Partnership]
+    A[Content] --> B[Activate] --> C[Expand]
 ```
 
-## Content engine
+## Motion 7: Content
 
 We build an audience with content that lives inside the offer.
 
-- We turn the nine steps of the offer into a content list.
-- We plan, produce, publish, promote, and syndicate.
-- We publish on your site, by email, in chat, and on social media.
-- We reuse one asset in many places.
-- We build retargeting audiences from video views.
-
-Every piece of content lives inside the signature solution. We never start from
-a blank page, and we never post only once.
+1. **Turn nine steps into a content list.** We turn the signature solution's
+   nine steps into a content list. We plan, produce, publish, promote, and
+   syndicate.
+2. **Publish on site, email, chat, and social.** We publish on your site, by
+   email, in chat, and on social media. One asset is reused in many places.
+3. **Promote and reuse.** We build retargeting audiences from video views. We
+   never start from a blank page, and we never post only once.
 
 ```mermaid
 flowchart LR
@@ -30,10 +29,45 @@ flowchart LR
     A --> E[Social]
 ```
 
-## From steps to assets
+## Motion 8: Activate
 
-The signature solution has three phases and nine steps. Each step can become
-more than a lesson. Each step can become its own small product.
+We build the machine for you. This is done for you, white glove work.
+
+1. **Organize IP as the signature solution.** We organize your commercial IP as
+   a signature solution: a visual path from the buyer's pain to their goal.
+2. **Build the Client Engine and promo assets.** We build the Client Engine and
+   the assets that promote your offer.
+3. **Launch and tune promotions.** We launch the promotions and watch the
+   numbers. We keep what works.
+
+```mermaid
+flowchart LR
+    A[Your IP] --> B[We organize and build] --> C[Your RED portfolio]
+```
+
+We do not serve your customers. That work stays with you. We build the machine.
+You run it with your customers.
+
+## Motion 9: Expand
+
+We turn a working machine into a growing portfolio.
+
+1. **Baseline the RED portfolio.** The Client Engine is the first output of
+   your engagement: the five stages of Build, Launch, Serve, Grow, and Partner.
+   It is the first asset in your RED portfolio. It is the baseline.
+2. **Optimize what works.** We test and sharpen the assets that work.
+3. **Expand the IP.** We turn assets into new offers and new revenue. Ongoing
+   work raises the commercial value of the IP in your RED portfolio.
+
+```mermaid
+flowchart LR
+    A[Baseline] --> B[Optimize] --> C[Expand]
+```
+
+### From steps to assets
+
+The signature solution's nine steps can become more than lessons. Each step can
+become its own small product.
 
 ```mermaid
 flowchart LR
@@ -61,49 +95,5 @@ flowchart LR
 
 Over time, one signature solution becomes a family of products that support
 each other. That family is the base of your ongoing partnership with us.
-
-## Service
-
-We do not serve your customers. That work stays with you. Our service is done
-for you and white glove. We organize your commercial IP and build the system
-that sells and delivers it.
-
-```mermaid
-flowchart LR
-    A[Your IP] --> B[We organize and build] --> C[Your RED portfolio]
-```
-
-- We organize your commercial IP as a signature solution.
-- We build your Client Engine.
-- We build the assets that promote your offer.
-- We launch the promotions and watch the numbers.
-- We optimize what works and expand the IP in your RED portfolio.
-
-You get a working system, growing assets, and proof that it works.
-
-## Partnership
-
-You start with the Client Engine. The Client Engine is the first output of your
-engagement with us: the five motions of Build, Launch, Serve, Grow, and Partner.
-It is the first asset in your RED portfolio. It is the baseline.
-
-```mermaid
-flowchart LR
-    A[Client Engine] --> B[RED portfolio]
-```
-
-The ongoing partnership then keeps working on your portfolio in three ways.
-
-- **Optimize**: test and sharpen the assets that work.
-- **Expand**: turn assets into new offers and new revenue.
-- **Grow**: add new assets from the nine steps.
-
-```mermaid
-flowchart LR
-    A[Grow] --> B[Optimize] --> C[Expand]
-```
-
-Your IP is the ideas and materials you own. Ongoing work raises the commercial
-value of the IP in your RED portfolio.
 
 Next: [Results](results.md).
