@@ -12,21 +12,20 @@ theme:
     - search.highlight
     - content.code.copy
   palette:
-    - scheme: default
-      primary: red
-      accent: red
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      primary: red
-      accent: red
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+    scheme: slate
+    primary: red
+    accent: red
 
 nav:
   - Home: index.md
+  - The method:
+      - The big idea: method/big-idea.md
+      - The journey: method/journey.md
+      - Refine Offer: method/refine-offer.md
+      - Engage Opportunity: method/engage-opportunity.md
+      - Develop Audience: method/develop-audience.md
+      - Results: method/results.md
+  - Glossary: glossary.md
 
 markdown_extensions:
   - admonition
