@@ -1,7 +1,7 @@
 # Engage Opportunity
 
-Engage Opportunity is the second phase of the RED Method. Here we turn interest
-into a paying client. The phase has three motions: Funnel, Traffic, and Enroll.
+Engage Opportunity is one of the three phases of the RED Method. Here we turn
+interest into a paying client. The phase has three motions: Funnel, Traffic, and Enroll.
 Each motion has three steps.
 
 ```mermaid
@@ -9,7 +9,7 @@ flowchart LR
     A[Funnel] --> B[Traffic] --> C[Enroll]
 ```
 
-## Motion 4: Funnel
+## The Funnel motion
 
 We build the simple path that turns a stranger into a booked call.
 
@@ -28,7 +28,7 @@ flowchart LR
 
 You leave with a live funnel and a finished authority video.
 
-## Motion 5: Traffic
+## The Traffic motion
 
 We turn on paid ads the right way. We also bring back the people who got stuck.
 
@@ -46,7 +46,7 @@ flowchart LR
 
 You leave with a live ad campaign, a retargeting plan, and a metrics dashboard.
 
-## Motion 6: Enroll
+## The Enroll motion
 
 We run the enrollment call. We help a booked lead decide, with no pressure.
 
@@ -79,4 +79,4 @@ We design and implement all of this for you. We write the words, the questions,
 and the checkpoints. We practice the call with you until it feels natural, not
 pushy.
 
-Next: [Develop Audience](develop-audience.md).
+More: [Develop Audience](develop-audience.md).

@@ -56,11 +56,11 @@ flowchart TD
 
 ## Where to go next
 
-1. [The big idea](method/big-idea.md): the five pillars and one currency.
-2. [The method map](method/motions.md): three phases, nine motions, 27 steps.
-3. [Refine Offer](method/refine-offer.md): position, message, offer.
-4. [Engage Opportunity](method/engage-opportunity.md): funnel, traffic,
-   retargeting.
-5. [Develop Audience](method/develop-audience.md): content, activate, expand.
-6. [Results](method/results.md): the assets that keep working.
-7. [Glossary](glossary.md): plain words for the terms we use.
+- [The big idea](method/big-idea.md): the five pillars and one currency.
+- [The method map](method/motions.md): three phases, nine motions, 27 steps.
+- [Refine Offer](method/refine-offer.md): position, message, offer.
+- [Engage Opportunity](method/engage-opportunity.md): funnel, traffic,
+   enrollment.
+- [Develop Audience](method/develop-audience.md): content, activate, expand.
+- [Results](method/results.md): the assets that keep working.
+- [Glossary](glossary.md): plain words for the terms we use.

@@ -31,7 +31,7 @@ The Client Engine is the first output of the engagement: the five stages of
 Build, Launch, Serve, Grow, and Partner, materialized as the first asset in
 your RED portfolio.
 
-## Phase 1: Refine Offer
+## Refine Offer
 
 We make something worth buying.
 
@@ -46,7 +46,7 @@ flowchart LR
 | Message | List every result | Pick one currency | Write one message |
 | Offer | Build the profit pyramid | Design the signature solution | Package and price |
 
-## Phase 2: Engage Opportunity
+## Engage Opportunity
 
 We turn interest into a paying client.
 
@@ -61,7 +61,7 @@ flowchart LR
 | Traffic | Set up tracking | Launch the campaign | Retarget and tune one thing at a time |
 | Enroll | Frame the call | Diagnose the gap | Invite and handle objections |
 
-## Phase 3: Develop Audience
+## Develop Audience
 
 We keep the audience and the RED portfolio growing.
 
@@ -78,6 +78,6 @@ flowchart LR
 
 ## Where to go next
 
-- [Refine Offer](refine-offer.md): the three motions of phase 1.
-- [Engage Opportunity](engage-opportunity.md): the three motions of phase 2.
-- [Develop Audience](develop-audience.md): the three motions of phase 3.
+- [Refine Offer](refine-offer.md): the three motions of Refine Offer.
+- [Engage Opportunity](engage-opportunity.md): the three motions of Engage Opportunity.
+- [Develop Audience](develop-audience.md): the three motions of Develop Audience.

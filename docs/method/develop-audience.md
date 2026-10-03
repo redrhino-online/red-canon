@@ -1,7 +1,7 @@
 # Develop Audience
 
-Develop Audience is the third phase of the RED Method. Here we keep the
-audience and your RED portfolio growing. The phase has three motions: Content,
+Develop Audience is one of the three phases of the RED Method. Here we keep
+the audience and your RED portfolio growing. The phase has three motions: Content,
 Activate, and Expand. Each motion has three steps.
 
 ```mermaid
@@ -9,7 +9,7 @@ flowchart LR
     A[Content] --> B[Activate] --> C[Expand]
 ```
 
-## Motion 7: Content
+## The Content motion
 
 We build an audience with content that lives inside the offer.
 
@@ -29,7 +29,7 @@ flowchart LR
     A --> E[Social]
 ```
 
-## Motion 8: Activate
+## The Activate motion
 
 We build the machine for you. This is done for you, white glove work.
 
@@ -57,7 +57,7 @@ flowchart LR
 We do not serve your customers. That work stays with you. We build the machine.
 You run it with your customers.
 
-## Motion 9: Expand
+## The Expand motion
 
 We turn a working machine into a growing portfolio.
 

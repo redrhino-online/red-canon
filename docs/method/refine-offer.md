@@ -1,7 +1,7 @@
 # Refine Offer
 
-Refine Offer is the first phase of the RED Method. Here we make something worth
-buying. The phase has three motions: Position, Message, and Offer. Each motion
+Refine Offer is one of the three phases of the RED Method. Here we make
+something worth buying. The phase has three motions: Position, Message, and Offer. Each motion
 has three steps.
 
 ```mermaid
@@ -9,7 +9,7 @@ flowchart LR
     A[Position] --> B[Message] --> C[Offer]
 ```
 
-## Motion 1: Position
+## The Position motion
 
 We set the course before we build.
 
@@ -30,7 +30,7 @@ flowchart LR
 The plan is specific and measurable. It gets reviewed on a schedule. It does
 not sit on a shelf.
 
-## Motion 2: Message
+## The Message motion
 
 We turn a category into one clear message.
 
@@ -49,7 +49,7 @@ flowchart LR
 The message has one currency, a metric, and a timeline. This is the hardest
 work in the whole engagement, and we do not move on until it is right.
 
-## Motion 3: Offer
+## The Offer motion
 
 We package the work into a product with a price.
 
@@ -68,4 +68,4 @@ flowchart LR
 You leave this phase with a profit pyramid, a signature solution, a product
 outline, and a price.
 
-Next: [Engage Opportunity](engage-opportunity.md).
+More: [Engage Opportunity](engage-opportunity.md).

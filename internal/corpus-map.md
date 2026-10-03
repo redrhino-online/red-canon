@@ -61,8 +61,8 @@ This table maps every session to a station and its main output.
 | 30 | Content promote | Content | Audience campaign |
 | 31 | Content syndicate | Content | Sharing queue |
 | 32 | Winning webinar | Content | Webinar outline |
-| 33 | Retargeting intro | Traffic | Retargeting plan |
-| 34 | Retargeting training | Traffic | Live retargeting |
+| 33 | Retargeting intro | Retargeting | Retargeting plan |
+| 34 | Retargeting training | Retargeting | Live retargeting |
 | 35 | Sales script intro | Enroll | Program map |
 | 36 | Before the call | Enroll | Prep and roadmap |
 | 37 | Pre-call mindset | Enroll | Mindset rules |
