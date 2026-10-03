@@ -37,9 +37,11 @@ flowchart LR
 - Use lists and steps for anything with more than two parts.
 - Do not use slang, idioms, or hype.
 
-## 3. Diagrams
+## 3. Diagrams in Markdown
 
-Use Mermaid for all diagrams. Keep each one small and easy to read.
+Use Mermaid for diagrams in Markdown files (`.md`). This rule is for files in
+this repo. It does not apply to chat, terminal output, or any other response.
+Keep each one small and easy to read.
 
 ```mermaid
 flowchart LR
@@ -92,6 +94,6 @@ Before you finish:
 
 - [ ] No original brand name appears in your new files.
 - [ ] The text reads at a 3rd to 5th grade level.
-- [ ] New ideas have a simple Mermaid diagram.
+- [ ] New ideas in `.md` files have a simple Mermaid diagram.
 - [ ] `framework-canon/` was not touched.
 - [ ] The commit message follows the form above.

@@ -232,6 +232,23 @@ flowchart TD
 3. Follow the writing and naming rules in `AGENTS.md`.
 4. Open a change for review.
 
+## Preview the docs site
+
+We build a small internal site with MkDocs and the Material theme. The README
+is the only page. The transcripts in `framework-canon/` are never rendered.
+
+```mermaid
+flowchart LR
+    A[README.md] --> B[docs/index.md] --> C[Site]
+```
+
+```bash
+uv run mkdocs serve   # live preview at http://127.0.0.1:8000
+uv run mkdocs build   # write the site to site/
+```
+
+`docs/index.md` is a link to `README.md`. Keep it that way.
+
 ## Keeping the canon clean
 
 The canon is scrubbed. It does not contain the original brand name. We use two
