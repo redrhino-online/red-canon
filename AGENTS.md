@@ -17,7 +17,8 @@ method. **Never write that brand name in any new file.**
 - If you find the brand name in a new doc, replace it with "the framework".
 
 `framework-canon/` is the scrubbed canon. Do not edit its files by hand. Use
-the `scrub` tool for bulk name changes.
+the `scrub` tool for bulk name changes. It stays local and ignored. Never
+commit it.
 
 ## 2. Writing standards
 

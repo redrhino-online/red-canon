@@ -18,8 +18,8 @@ flowchart LR
     C --> E[Client playbooks]
 ```
 
-- `framework-canon/` holds the original lesson transcripts. Treat these as the
-  source of truth. Do not edit them.
+- `framework-canon/` holds the original lesson transcripts. It stays local and
+  is never committed or published. Treat it as the source of truth.
 - New docs, playbooks, and training are built on top of the canon.
 
 ## The core idea
@@ -155,7 +155,7 @@ flowchart TD
 
 - `README.md`: this file. Start here.
 - `AGENTS.md`: rules for anyone, human or AI, who helps build on this repo.
-- `framework-canon/`: the source transcripts. Read only.
+- `framework-canon/`: the source transcripts. Kept locally, not committed. Read only.
 - `src/scrub/` and `pyproject.toml`: the `scrub` tool. See `README-scrub.md`.
 
 ## The canon: session list

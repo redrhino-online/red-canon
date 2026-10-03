@@ -1,5 +1,6 @@
 .venv/
 site/
+framework-canon/
 __pycache__/
 *.pyc
 scrub.rules

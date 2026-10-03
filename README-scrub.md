@@ -66,6 +66,25 @@ flowchart LR
 - `--history`: rewrite git history.
 - `--no-messages`: with `--history`, leave commit messages alone.
 - `--force`: allow a rewrite on a repo that is not a fresh clone.
+- `--purge PATH`: remove a path from history. Repeatable.
+
+## Purge a path from history
+
+Use `--purge` to erase a folder or file from every commit. Add it to
+`.gitignore` too, so it stays out.
+
+```bash
+uv run scrub --purge framework-canon/ --history --force
+```
+
+```mermaid
+flowchart LR
+    A[Purge] --> B[No path in history]
+    B --> C[Add to .gitignore]
+```
+
+This deletes the path from your working tree. Back it up first if you want to
+keep a local copy.
 
 ## polish
 

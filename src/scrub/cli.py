@@ -90,8 +90,8 @@ def build_rules(args: argparse.Namespace) -> list[Rule]:
         )
     file_rules = load_rules(args.rules)
     rules.extend(file_rules)
-    if not rules:
-        raise SystemExit("error: give a PATTERN or --rules FILE")
+    if not rules and not getattr(args, "purge", None):
+        raise SystemExit("error: give a PATTERN, --rules FILE, or --purge PATH")
     return rules
 
 
@@ -202,7 +202,9 @@ def rewrite_history(
     rules: list[Rule],
     messages: bool,
     force: bool,
+    purge: list[str] | None = None,
 ) -> None:
+    purge = purge or []
     filter_repo = find_filter_repo()
     top = Path(git(repo, "rev-parse", "--show-toplevel").stdout.strip())
     if top != repo:
@@ -221,15 +223,22 @@ def rewrite_history(
 
     with tempfile.TemporaryDirectory(prefix="scrub-") as tmp:
         tmpdir = Path(tmp)
-        text_file = tmpdir / "replace-text.txt"
-        write_replace_file(rules, text_file, prefix="")
-        cmd = [filter_repo, "--force", "--replace-text", str(text_file)]
-        if messages:
-            msg_file = tmpdir / "replace-message.txt"
-            write_replace_file(rules, msg_file, prefix="")
-            cmd += ["--replace-message", str(msg_file)]
-        if not force:
-            print("Rewriting git history (content and messages)...")
+        cmd = [filter_repo, "--force"]
+        for path in purge:
+            cmd += ["--path", path]
+        if purge:
+            cmd += ["--invert-paths"]
+        if rules:
+            text_file = tmpdir / "replace-text.txt"
+            write_replace_file(rules, text_file, prefix="")
+            cmd += ["--replace-text", str(text_file)]
+            if messages:
+                msg_file = tmpdir / "replace-message.txt"
+                write_replace_file(rules, msg_file, prefix="")
+                cmd += ["--replace-message", str(msg_file)]
+        if purge:
+            print(f"Purging from history: {', '.join(purge)}")
+        print("Rewriting git history...")
         result = subprocess.run(cmd, cwd=str(repo), text=True)
         if result.returncode != 0:
             raise SystemExit(f"error: git-filter-repo failed with code {result.returncode}")
@@ -289,20 +298,36 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="allow history rewrite on a non-fresh repo",
     )
+    parser.add_argument(
+        "--purge",
+        action="append",
+        default=[],
+        metavar="PATH",
+        help="remove this path from history (repeatable, needs --history)",
+    )
     args = parser.parse_args(argv)
 
     rules = build_rules(args)
     root = Path(args.path).resolve()
 
     print(f"Rules: {len(rules)}  Root: {root}")
-    files_changed, total_subs, _ = scrub_worktree(
-        root, rules, args.include, args.exclude, args.dry_run
-    )
-    verb = "would change" if args.dry_run else "changed"
-    print(f"Worktree: {verb} {files_changed} file(s), {total_subs} replacement(s)")
+    if rules:
+        files_changed, total_subs, _ = scrub_worktree(
+            root, rules, args.include, args.exclude, args.dry_run
+        )
+        verb = "would change" if args.dry_run else "changed"
+        print(f"Worktree: {verb} {files_changed} file(s), {total_subs} replacement(s)")
+    else:
+        print("Worktree: no rules, skipped")
 
     if args.history and not args.dry_run:
-        rewrite_history(root, rules, messages=not args.no_messages, force=args.force)
+        rewrite_history(
+            root,
+            rules,
+            messages=not args.no_messages,
+            force=args.force,
+            purge=args.purge,
+        )
         print("History rewrite complete. Force-push to update the remote.")
     elif args.history:
         print("History rewrite skipped (dry run).")
