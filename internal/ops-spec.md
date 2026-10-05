@@ -164,6 +164,15 @@ What to save and where.
 - `playbooks/delivery.md`
 - `playbooks/enrollment-service.md`
 - `playbooks/partnership.md`
+- `playbooks/numbers.md`
+- `playbooks/lead-magnet.md`
+- `playbooks/authority-video.md`
+- `playbooks/webinar.md`
+- `playbooks/email-nurture.md`
+- `playbooks/super-group.md`
+- `playbooks/outreach.md`
+- `playbooks/strategy-session.md`
+- `playbooks/certification.md`
 
 ### 7.3 Checklists
 
@@ -180,6 +189,24 @@ What to save and where.
 - `checklists/referral-partner.md`
 - `checklists/community-rules.md`
 - `checklists/reputation-track.md`
+- `checklists/currency-calculator.md`
+- `checklists/avatar-ecosystem.md`
+- `checklists/product-roadmap.md`
+- `checklists/content-crusher.md`
+- `checklists/slide-template.md`
+- `checklists/recording-editing.md`
+- `checklists/pricing.md`
+- `checklists/funnel-math.md`
+- `checklists/booking-page.md`
+- `checklists/lead-magnet-pdf.md`
+- `checklists/ad-fix.md`
+- `checklists/hooks-headlines.md`
+- `checklists/webinar-run-of-show.md`
+- `checklists/email-sequence.md`
+- `checklists/super-group-setup.md`
+- `checklists/two-step-outreach.md`
+- `checklists/strategy-session-call.md`
+- `checklists/launch-calendar.md`
 
 ### 7.4 SOPs
 
@@ -194,16 +221,36 @@ What to save and where.
 - `sops/community-moderation.md`
 - `sops/reputation.md`
 - `sops/quarterly-review.md`
+- `sops/brain-dump-to-roadmap.md`
+- `sops/million-dollar-message.md`
+- `sops/lead-magnet-build.md`
+- `sops/authority-video-build.md`
+- `sops/content-crusher-build.md`
+- `sops/slide-deck-build.md`
+- `sops/course-production.md`
+- `sops/funnel-build.md`
+- `sops/ad-campaign-setup.md`
+- `sops/retargeting-setup.md`
+- `sops/webinar-build.md`
+- `sops/email-sequence-build.md`
+- `sops/community-launch.md`
+- `sops/outreach-sequence.md`
+- `sops/strategy-session-run.md`
+- `sops/call-audit.md`
+- `sops/pricing-review.md`
+- `sops/certification-exam.md`
 
 ## 8. Source map
 
-Use these existing docs as the source. Do not read `framework-canon/`.
+Use these existing docs as the source. Do not read `framework-canon/` for new
+work. The trace from canon to doc is already recorded.
 
 | Doc | Source |
 |---|---|
 | Station playbooks | `internal/stations.md`, `internal/corpus-map.md` |
 | Timing and hard rules | `internal/cadence.md` |
 | Service and partnership | `internal/service-ops.md` |
+| Canon traceability | `internal/canon-to-docs-map.md` |
 | Public method shape | `docs/method/*.md`, `docs/glossary.md` |
 
 ## 9. Acceptance criteria

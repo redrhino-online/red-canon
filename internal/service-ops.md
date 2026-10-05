@@ -115,3 +115,48 @@ The set covers all nine stations and the three service lines.
 flowchart LR
     A[Stations] --> B[Playbooks] --> C[Training]
 ```
+
+## New service assets from the canon
+
+The extra series add four service assets we now build for the client. These are
+ours. The canon only hints at them.
+
+```mermaid
+flowchart TD
+    A[Lead magnet] --> B[Authority video]
+    C[Webinar] --> D[Strategy session]
+    B --> D
+```
+
+- **Authority video kit.** One flagship video plus nine step videos, all from
+  the 6-block script. This is a done-for-you asset.
+- **Lead magnet kit.** One hot step becomes a one-page cheat sheet and a short
+  PDF. We build it from the client's roadmap.
+- **Webinar kit.** A six-phase run of show, slides, email, and retargeting. This
+  is the scaled path of enrollment.
+- **Strategy session kit.** A paid roadmap session. It qualifies the lead,
+  earns revenue, and bridges to the program.
+
+## Delivery and ascension
+
+The canon is thin after the sale. We define the back half.
+
+- Deliver on the ladder: one to one beta, then a live cohort, then evergreen.
+- Give every step one deliverable. Use the Content Crusher and the slide
+  template.
+- Audit the client against their own roadmap every 90 days.
+- Turn each of the nine steps into a small offer. Feed the foundation offer.
+- Offer the next step at the right time. Build the four-offer ladder.
+- Certify the client's team so they can run the system without us.
+
+```mermaid
+flowchart LR
+    A[One to one] --> B[Cohort] --> C[Evergreen] --> D[Certified team]
+```
+
+## What we build next
+
+Each station and each service line now has a playbook, plus the new asset
+playbooks: numbers, lead magnet, authority video, webinar, email and nurture,
+super group, outreach, strategy session, and certification. See the operations
+manual in `docs/ops/`.

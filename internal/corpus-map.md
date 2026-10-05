@@ -152,3 +152,48 @@ flowchart LR
     A --> C[Back half]
     C --> D[Our layers]
 ```
+
+## Expanded series cards
+
+Each extra series repeats the numbered canon and adds detail. This is the short
+card for each one. The full trace from idea to public doc is in
+`internal/canon-to-docs-map.md`.
+
+```mermaid
+flowchart LR
+    A[9 series] --> B[Same stations] --> C[More detail]
+```
+
+- **High Ticket Funnels (19).** Funnel and enroll. Adds the lead-magnet clinic,
+  the Authority Amplifier 6-block script, the CAC funnel, the 72-hour booking
+  cap, the Super Group, and Two-Step Profits.
+- **14D HTCLF (16).** Offer. The full 14-step course launch. Adds the digital
+  brain dump, the rule of threes (3 stages, 9 steps, 27 actions), the Content
+  Crusher, the slide template, and fast recording.
+- **Winning Webinar (14).** Funnel and enroll. Adds the webinar anatomy, the 5P
+  email framework, the retargeting roadmap, the metrics multiplier, and the
+  automated webinar. One file is off-series.
+- **Youtube Content (14).** Traffic and offer. Adds the ad-fix decision tree,
+  the metrics matrix, the lifetime-value chain, and the copy formula.
+- **Live Sessions (11).** Offer and enroll. Adds the one-page offer builder, the
+  hooks and headlines generator, the checkpoint selling system, the paid
+  strategy session, and the hub-and-spoke model. One file is a guest clinic.
+- **High Ticket Course Launch (11).** Offer. A shorter copy of the 14-step
+  launch. It drops the production days. Use 14D as the full source.
+- **Perfect Offer (11).** Message and offer. Adds the currency calculator, the
+  message formula, the offer DNA, the brain dump, and the roadmap. The module 10
+  review is the richest source of currency examples.
+- **Certification (4).** Offer and delivery. Adds consultant standards, the
+  three enrollment models, the paid roadmap session, and the certification exam.
+- **High Ticket Launch Accelerator (3).** Plan and enroll. Fills the old 19 and
+  20 gap. Adds the perfect sales process and the stress-free selling script.
+
+## Off-series files
+
+Two transcripts do not belong to the main series. Use them narrowly and do not
+build a new doc from them.
+
+- `Winning Webinar` live session: a different lesson on modeling a proven
+  funnel. Fold one step into the traffic playbook.
+- `Live Sessions` guest clinic: a worked nurture example. Fold one example into
+  the nurture playbook.

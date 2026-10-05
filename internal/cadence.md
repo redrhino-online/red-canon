@@ -31,3 +31,34 @@ flowchart LR
 - Never invite before the intent gate passes.
 - Get a 5 on commitment before you prescribe.
 - End the call early when the lead is not a fit.
+
+## New timing from the extra series
+
+The extra series add these timing rules. Add them to the build line and the run
+line.
+
+```mermaid
+flowchart LR
+    A[Book] --> B[Prep] --> C[Call] --> D[Follow up]
+```
+
+- Book the call within 72 hours. Ideal is 24 to 48 hours. Show rate drops about
+  10 to 20% for each day past 72 hours.
+- Send a pre-call homework page before the call. It moves the free line and
+  filters the lead.
+- Run the closing sequence for 3 to 5 days after a webinar.
+- Run the nurture sequence for 27 parts. It can extend to 54.
+- Automate a webinar only after 10 live runs at 10% or better.
+- Review the numbers each week. Change one ad variable at a time.
+- Review the client against their roadmap every 90 days.
+- Turn a lead magnet around in 10 minutes or less.
+- Keep videos between 5 and 30 minutes. The authority video is 8 to 20 minutes.
+
+## New hard rules
+
+- Do not quote a price before the lead agrees in principle to move forward.
+- Do not invite before the intent, commitment, value, and confidence gates pass.
+- Do not make slides before the script is right.
+- Do not launch a second offer until the first one converts.
+- Do not discount. Shorten the deliverable or move to a payment plan instead.
+- Do not build a lead magnet from scratch. Use a step of the offer.

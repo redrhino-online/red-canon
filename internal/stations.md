@@ -306,3 +306,52 @@ promises.
 flowchart LR
     A[Build] --> B[Check] --> C[Pass] --> D[Move on]
 ```
+
+## New detail from the extra series
+
+The nine extra series add the following detail to each station. Use it when you
+expand a public doc. Full trace: `internal/canon-to-docs-map.md`.
+
+```mermaid
+flowchart LR
+    A[Extra series] --> B[Station] --> C[Public doc]
+```
+
+- **Plan.** Premium offer floor ($3,000+), the 1% rule, the swim lanes, the
+  lifetime value as the master metric, and the lead-value curve.
+- **Market.** Currency-first thinking, the 360 avatar ecosystem, and the
+  advertising metrics matrix.
+- **Message.** The currency calculator, hot vs cold currencies, banned broad
+  words, the Million Dollar Message formula, and the hooks generator.
+- **Offer.** Offer DNA, seven models, the digital brain dump, the weakest-link
+  filter, the rule of threes (3 stages, 9 steps, 27 actions), one deliverable
+  per step, the Content Crusher, the course outline, the slide template, and
+  the pricing rules.
+- **Funnel.** The Authority Amplifier 6 blocks, the 10-pack, the CAC funnel,
+  the 72-hour booking cap, the stick strategy, and the 7-part PDF.
+- **Traffic.** One campaign with one ad set, bidding to value, the learning
+  phase, the ad-fix decision tree, and the metrics multiplier.
+- **Content.** The Content Crusher, 5P message types, 135 content pieces, the
+  27-part nurture, the conveyor belt, and the hub-and-spoke model.
+- **Retargeting.** These people, not these people, one audience per funnel step,
+  and 5P ad creative.
+- **Enroll.** The checkpoint selling system (5 gates), the three C's, the
+  six-step and eight-step scripts, three enrollment models, the paid $1,000
+  strategy session, and the 24-to-72-hour booking rule.
+- **Service.** The delivery ladder (one to one, cohort, evergreen), the 90-day
+  roadmap audit, the production plan, and the paid session bridge.
+- **Partnership.** The four-offer ladder, product ladder slicing, low-ticket
+  entry offers, and the certification path.
+
+### New gates and rules
+
+The extra series sharpen a few gates. Apply them on the build line.
+
+- Do not quote a price before the lead agrees in principle to move forward.
+- Book the call within 72 hours, or the lead decays.
+- Gate the call at intent, commitment, value, and confidence. Stop or step back
+  when a gate fails.
+- Automate a webinar only after ten live runs at 10% or better.
+- Change one ad variable at a time. Test at the top of the funnel first.
+- Give every step of the signature solution one deliverable. Never give words
+  only.
