@@ -1,13 +1,13 @@
 # RED Method Enterprise Operations Manual — Spec
 
-Status: draft for review. Owner: RED operations. This is an internal working
-document. Do not publish it.
+Status: active. Owner: RED operations. This spec is internal. The manual it
+describes is public and lives in `docs/ops/`.
 
 ## 1. Goal
 
 Turn the RED canon's internal notes into one complete, usable operations manual:
 playbooks, checklists, and SOPs that any RED operator can follow to run the
-method for a client. This is the internal "how we run it" layer. It is the
+method for a client. This is the "how we run it" layer. It is the
 enterprise-grade manual for the RED Method.
 
 ```mermaid
@@ -23,8 +23,9 @@ section 12.5 lists the same gaps. This spec builds them in one place.
 
 ## 3. Non-goals
 
-- Not public docs. Not added to the MkDocs site.
-- Not a rewrite of `docs/` or the existing `internal/` files.
+- Public docs. The manual is hosted in `docs/ops/` and added to the MkDocs
+  site. It must not mention session numbers or internal gaps.
+- Not a rewrite of the existing `docs/` or `internal/` files.
 - Not code. No platform, backend, or frontend changes.
 - Not verbatim canon copy. No brand names and no person names.
 - Not client-specific. Every doc is generic and reusable.
@@ -43,18 +44,18 @@ RED operators. Each doc names its reader:
 
 ```mermaid
 flowchart TD
-    A[internal/ops] --> B[index.md]
+    A[docs/ops] --> B[index.md]
     A --> C[playbooks/]
     A --> D[checklists/]
     A --> E[sops/]
 ```
 
-- `internal/ops/index.md`: the manual home. Purpose, how to use it, the doc
+- `docs/ops/index.md`: the manual home. Purpose, how to use it, the doc
   types, a map of every doc, owners, and the review cadence.
-- `internal/ops/playbooks/`: one playbook per station and per service line.
+- `docs/ops/playbooks/`: one playbook per station and per service line.
   A playbook explains the goal, the steps, the gate, and the metrics.
-- `internal/ops/checklists/`: one-page tick lists for recurring work.
-- `internal/ops/sops/`: precise, repeatable procedures.
+- `docs/ops/checklists/`: one-page tick lists for recurring work.
+- `docs/ops/sops/`: precise, repeatable procedures.
 
 ## 6. Doc types and templates
 
@@ -147,7 +148,7 @@ What to save and where.
 
 ### 7.1 Index
 
-- `internal/ops/index.md`
+- `docs/ops/index.md`
 
 ### 7.2 Playbooks
 
@@ -207,20 +208,21 @@ Use these existing docs as the source. Do not read `framework-canon/`.
 
 ## 9. Acceptance criteria
 
-Given a reader opens `internal/ops/index.md`,
+Given a reader opens `docs/ops/index.md`,
 When they follow a link to any playbook, checklist, or SOP,
 Then the file exists, follows its template, and has a Mermaid diagram.
 
-Given any new file in `internal/ops/`,
+Given any new file in `docs/ops/`,
 When it is checked against the repo rules,
-Then it has no brand name, no person name, and no verbatim canon text.
+Then it has no brand name, no person name, no session number, and no verbatim
+canon text.
 
 Given any new file,
 When its text is read,
 Then sentences are short, the voice is active, and the reading level is 3rd to
 5th grade.
 
-Given `internal/ops/index.md`,
+Given `docs/ops/index.md`,
 When it is read,
 Then it links to every playbook, checklist, and SOP in the file list.
 
@@ -236,9 +238,10 @@ Then it links to every playbook, checklist, and SOP in the file list.
 
 ## 11. Assumptions
 
-- ASSUMPTION: The manual is internal only and stays off the MkDocs site.
-- ASSUMPTION: "RED Method Enterprise" means the enterprise-grade internal
-  operations layer for the RED Method business, not a separate product tier.
+- ASSUMPTION: The manual is public and hosted in `docs/ops/`. It stays free of
+  session numbers and internal gaps.
+- ASSUMPTION: "RED Method Enterprise" means the enterprise-grade operations
+  layer for the RED Method business, not a separate product tier.
 - ASSUMPTION: The nine stations plus three service lines are the right playbook
   set. The platform SPEC section 12.5 agrees.
 - ASSUMPTION: Checklists and SOPs may overlap in topic. The checklist is the
@@ -246,7 +249,7 @@ Then it links to every playbook, checklist, and SOP in the file list.
 
 ## 12. Open questions
 
-- Q1: Should the manual later join the public site as a partner edition?
+- Q1: Resolved. The manual is hosted in `docs/ops/` as a public section.
 - Q2: Who is the named owner for each playbook?
 - Q3: Do we need a separate nurture and follow-up playbook once the missing
   canon modules arrive?

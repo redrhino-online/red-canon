@@ -67,6 +67,8 @@ flowchart TD
   hand. Use the `scrub` tool for changes. See `README-scrub.md`.
 - Put new material at the repo root or in a new, clearly named folder.
 - Keep file names short and in plain English.
+- Public docs in `docs/` must not mention the source transcripts, session
+  numbers, or internal gaps. Keep that machinery in `internal/`.
 - Update `README.md` when the repo structure changes.
 - Do not add secrets, keys, or client data.
 
@@ -96,5 +98,6 @@ Before you finish:
 - [ ] No original brand name appears in your new files.
 - [ ] The text reads at a 3rd to 5th grade level.
 - [ ] New ideas in `.md` files have a simple Mermaid diagram.
+- [ ] Public docs do not mention session numbers or internal gaps.
 - [ ] `framework-canon/` was not touched.
 - [ ] The commit message follows the form above.

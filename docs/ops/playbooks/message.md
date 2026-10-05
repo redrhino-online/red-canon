@@ -9,8 +9,8 @@ with a metric and a timeline.
 
 ## When to use
 
-Use this after the market. It is Station 2. It covers sessions 05 and 06. This
-is the hardest gate in the line.
+Use this after the market. It is Station 2. This is the hardest gate in the
+line.
 
 ## Roles
 

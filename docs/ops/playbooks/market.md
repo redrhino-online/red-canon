@@ -9,7 +9,7 @@ and a goals grid.
 
 ## When to use
 
-Use this after the plan. It is Station 1. It covers sessions 02, 03, and 04.
+Use this after the plan. It is Station 1.
 
 ## Roles
 

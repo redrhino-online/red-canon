@@ -9,8 +9,8 @@ act. Follow the six steps in order.
 
 ## When to use
 
-Use this playbook at Station 7, after traffic is live. Sessions 33 and 34. Use
-it on the run line for every funnel step.
+Use this playbook at Station 7, after traffic is live. Use it on the run line
+for every funnel step.
 
 ## Roles
 

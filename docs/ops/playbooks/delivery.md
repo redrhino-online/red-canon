@@ -1,6 +1,7 @@
 # Delivery playbook
 
-This playbook delivers the product and creates real results for the client.
+This playbook delivers the RED program to the client and creates real results.
+The client serves their own customers. We build the machine. They run it.
 
 ## Goal
 

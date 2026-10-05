@@ -63,4 +63,5 @@ flowchart TD
    enrollment.
 - [Develop Audience](method/develop-audience.md): extract, content, expand.
 - [Results](method/results.md): the assets that keep working.
+- [Operations](ops/index.md): the playbooks, checklists, and SOPs we run.
 - [Glossary](glossary.md): plain words for the terms we use.

@@ -29,13 +29,13 @@ flowchart LR
     A[Onboard] --> B[Deliver] --> C[Track] --> D[Prove]
 ```
 
-Parts to build for this layer:
+These parts are built. See the operations manual in `docs/ops/`:
 
-- A kickoff checklist.
-- A module production standard.
-- A session guide for the coach.
-- A simple scorecard for each client.
-- A case study template.
+- Kickoff checklist: `docs/ops/checklists/kickoff.md`.
+- Module production standard: `docs/ops/checklists/module-production.md`.
+- Session guide: `docs/ops/checklists/session-guide.md`.
+- Client scorecard: `docs/ops/checklists/client-scorecard.md`.
+- Case study template: `docs/ops/checklists/case-study.md`.
 
 ## Enrollment service
 
@@ -63,13 +63,13 @@ flowchart LR
     A[Script] --> B[Questions] --> C[Checkpoints] --> D[Practice]
 ```
 
-Parts to build for this layer:
+These parts are built. See the operations manual in `docs/ops/`:
 
-- An enrollment script template tied to the product roadmap.
-- A question bank keyed to the one currency.
-- A one-page checkpoint card.
-- An objection answer sheet.
-- A role-play drill guide.
+- Enrollment script template: `docs/ops/checklists/enrollment-script.md`.
+- Question bank: `docs/ops/sops/enrollment-asset-build.md`.
+- Checkpoint card: `docs/ops/checklists/checkpoint-card.md`.
+- Objection answer sheet: `docs/ops/checklists/objection-sheet.md`.
+- Role-play drill guide: `docs/ops/checklists/role-play-drill.md`.
 
 ## Partnership line
 
@@ -96,22 +96,18 @@ flowchart LR
     A[Retain] --> B[Grow] --> C[Refer] --> D[Renew]
 ```
 
-Parts to build for this layer:
+These parts are built. See the operations manual in `docs/ops/`:
 
-- A renewal and win-back plan.
-- A clear next-offer path.
-- A referral and partner plan.
-- A client community with simple rules.
-- A reputation track: reviews, stories, and press.
+- Renewal and win-back plan: `docs/ops/checklists/renewal-winback.md`.
+- Next-offer path: `docs/ops/playbooks/partnership.md`.
+- Referral and partner plan: `docs/ops/checklists/referral-partner.md`.
+- Client community rules: `docs/ops/checklists/community-rules.md`.
+- Reputation track: `docs/ops/checklists/reputation-track.md`.
 
 ## What we build next
 
-Each station can become its own playbook. For example:
-
-- A playbook for the message station.
-- A playbook for the enrollment service.
-- A playbook for delivery and client success.
-- A playbook for the partnership and renewal loop.
+Each station now has its own playbook. See the operations manual in `docs/ops/`.
+The set covers all nine stations and the three service lines.
 
 ```mermaid
 flowchart LR

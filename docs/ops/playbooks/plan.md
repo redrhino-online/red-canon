@@ -10,8 +10,8 @@ session, cost per client, and the value of a client.
 
 ## When to use
 
-Use this at the start of the build. It is Station 0. It covers sessions 00 and
-01. Use it before any market work.
+Use this at the start of the build. It is Station 0. Use it before any market
+work.
 
 ## Roles
 

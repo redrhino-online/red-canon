@@ -1,9 +1,8 @@
 # RED Method Enterprise Operations Manual
 
-This is the internal operations manual for the RED Method. It holds the
-playbooks, checklists, and SOPs our team uses to run the method for a client.
-
-Do not publish this. It is for RED operators only.
+This is the operations manual for the RED Method. It holds the playbooks,
+checklists, and SOPs our team uses to run the method for a client. It is the
+enterprise-grade manual for the RED Method.
 
 ```mermaid
 flowchart LR
@@ -19,6 +18,18 @@ flowchart LR
 
 Start with the playbook for the work in front of you. Use its checklist to run
 the work. Use its SOP when you need the exact steps.
+
+## How this fits the method
+
+The public method has three phases, nine motions, and 27 steps. See [the method
+map](../method/motions.md). This manual runs the same work as nine stations.
+Each station maps to one or more steps. The station is the unit we run. The step
+is the unit we describe.
+
+```mermaid
+flowchart LR
+    A[27 steps] --> B[9 stations] --> C[Playbooks]
+```
 
 ## The build line
 
@@ -106,16 +117,12 @@ flowchart LR
 
 ## Rules
 
-Read `AGENTS.md` before you write or edit anything. The short version:
-
 - No original brand name. Call the method the **RED Method**.
 - Plain words. Short sentences. 3rd to 5th grade reading level.
 - Add a small Mermaid diagram to each new idea in a `.md` file.
-- `framework-canon/` is read only.
 
 ## Where to go next
 
-- [The spec](SPEC.md): what this manual must do.
-- [Stations](../stations.md): the station mechanics and gates.
-- [Cadence](../cadence.md): the timing and hard rules.
-- [Service ops](../service-ops.md): the service and partnership layers.
+- [The method map](../method/motions.md): three phases, nine motions, 27 steps.
+- [The big idea](../method/big-idea.md): the five pillars and one currency.
+- [Glossary](../glossary.md): plain words for the terms we use.

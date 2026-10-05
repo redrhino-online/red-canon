@@ -9,7 +9,7 @@ dashboard.
 
 ## When to use
 
-Use this after the funnel. It is Station 5. It covers sessions 22, 23, and 24.
+Use this after the funnel. It is Station 5.
 
 ## Roles
 

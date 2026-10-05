@@ -9,7 +9,7 @@ a signature solution, a product outline, and a price.
 
 ## When to use
 
-Use this after the message. It is Station 3. It covers sessions 07 to 12.
+Use this after the message. It is Station 3.
 
 ## Roles
 

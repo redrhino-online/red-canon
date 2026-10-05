@@ -10,8 +10,8 @@ people toward the offer.
 
 ## When to use
 
-Use this playbook at Station 6, after the funnel and traffic are live. Sessions
-25 to 32. Use it on the run line too. Content runs all the time.
+Use this playbook at Station 6, after the funnel and traffic are live. Use it on
+the run line too. Content runs all the time.
 
 ## Roles
 

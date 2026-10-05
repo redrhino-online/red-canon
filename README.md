@@ -26,6 +26,9 @@ source transcripts, session numbers, or internal gaps.
 - `docs/index.md`: landing page.
 - `docs/method/`: the big idea, the method map (three phases, nine motions,
   27 steps), the three phase pages, and results.
+- `docs/ops/`: the RED Method Enterprise operations manual. It holds the
+  playbooks, checklists, and SOPs our team uses to run the method. Start at
+  `docs/ops/index.md`.
 - `docs/glossary.md`: plain words for the terms we use.
 
 ## Internal docs
@@ -37,9 +40,8 @@ Internal docs keep the machinery that a client should never read.
 - `internal/cadence.md`: timing and hard rules.
 - `internal/service-ops.md`: service and partnership layers, and what to build
   next.
-- `internal/ops/`: the RED Method Enterprise operations manual. It holds the
-  playbooks, checklists, and SOPs our team uses to run the method. Start at
-  `internal/ops/index.md`.
+- `internal/ops-spec.md`: the spec for the operations manual. It records the
+  goal, the doc templates, and the acceptance criteria.
 
 ## Build the site
 

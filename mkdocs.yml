@@ -25,6 +25,47 @@ nav:
       - Engage Opportunity: method/engage-opportunity.md
       - Develop Audience: method/develop-audience.md
       - Results: method/results.md
+  - Operations:
+      - Overview: ops/index.md
+      - Playbooks:
+          - Plan: ops/playbooks/plan.md
+          - Market: ops/playbooks/market.md
+          - Message: ops/playbooks/message.md
+          - Offer: ops/playbooks/offer.md
+          - Funnel: ops/playbooks/funnel.md
+          - Traffic: ops/playbooks/traffic.md
+          - Content: ops/playbooks/content.md
+          - Retargeting: ops/playbooks/retargeting.md
+          - Enroll: ops/playbooks/enroll.md
+          - Delivery: ops/playbooks/delivery.md
+          - Enrollment service: ops/playbooks/enrollment-service.md
+          - Partnership: ops/playbooks/partnership.md
+      - Checklists:
+          - Kickoff: ops/checklists/kickoff.md
+          - Module production: ops/checklists/module-production.md
+          - Session guide: ops/checklists/session-guide.md
+          - Client scorecard: ops/checklists/client-scorecard.md
+          - Case study: ops/checklists/case-study.md
+          - Enrollment script: ops/checklists/enrollment-script.md
+          - Checkpoint card: ops/checklists/checkpoint-card.md
+          - Objection sheet: ops/checklists/objection-sheet.md
+          - Role-play drill: ops/checklists/role-play-drill.md
+          - Renewal and win-back: ops/checklists/renewal-winback.md
+          - Referral and partner: ops/checklists/referral-partner.md
+          - Community rules: ops/checklists/community-rules.md
+          - Reputation track: ops/checklists/reputation-track.md
+      - SOPs:
+          - Client onboarding: ops/sops/client-onboarding.md
+          - Module delivery: ops/sops/module-delivery.md
+          - Session coaching: ops/sops/session-coaching.md
+          - Case study capture: ops/sops/case-study-capture.md
+          - Enrollment asset build: ops/sops/enrollment-asset-build.md
+          - Role-play practice: ops/sops/role-play-practice.md
+          - Renewal: ops/sops/renewal.md
+          - Referral: ops/sops/referral.md
+          - Community moderation: ops/sops/community-moderation.md
+          - Reputation: ops/sops/reputation.md
+          - Quarterly review: ops/sops/quarterly-review.md
   - Glossary: glossary.md
 
 markdown_extensions:

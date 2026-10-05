@@ -9,8 +9,8 @@ pressure. Every gate passes before the invite.
 
 ## When to use
 
-Use this playbook at Station 8, after the funnel and traffic are live. Sessions
-35 to 49. Use it for every booked call.
+Use this playbook at Station 8, after the funnel and traffic are live. Use it
+for every booked call.
 
 ## Roles
 

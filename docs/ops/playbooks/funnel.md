@@ -9,7 +9,7 @@ live funnel and a finished authority video.
 
 ## When to use
 
-Use this after the offer. It is Station 4. It covers sessions 13 to 18 and 21.
+Use this after the offer. It is Station 4.
 
 ## Roles
 

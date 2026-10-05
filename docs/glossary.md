@@ -11,6 +11,7 @@
   turns a stranger into a fan.
 - **Branding Images**: the pictures that match your brand. They go on your
   slides and pages.
+- **Checklist**: a one-page tick list for recurring work.
 - **Checkpoint**: a quick gate inside a sales call. The lead must pass it before
   you move on.
 - **Client Engine**: the first output of the RED Method engagement and the
@@ -20,6 +21,8 @@
 - **Currency Calculator**: a tool that helps you pick one result to sell. It
   shows the best result to promise.
 - **Enrollment call**: the call where a booked lead decides to become a client.
+- **Extract**: the first motion of Develop Audience. We pull key ideas from the
+  signature solution and build an email and social plan.
 - **Floodgates**: the ways you get people to your site. You can pay for ads,
   post content, or retarget.
 - **Four Levels**: the four groups in your market, split by how much success
@@ -50,6 +53,8 @@
 - **Perfect Sales Script**: the full training for the sales script. It teaches
   the steps, the questions, and the answers to doubts.
 - **Phase**: one of the three parts of the RED Method.
+- **Playbook**: a guide for one station or service line. It gives the goal, the
+  steps, the gate, and the metrics.
 - **Profit Pyramid**: a picture of your market in four levels. It shows who you
   serve and who you do not.
 - **RED Method**: our method. Three phases: Refine Offer, Engage Opportunity,
@@ -64,8 +69,11 @@
 - **Sales script**: the steps and questions we use on the enrollment call.
 - **Signature solution**: the visual path from a buyer's pain to their goal. It
   has three phases and nine steps.
+- **SOP**: a precise procedure for one repeatable task.
 - **Stage**: how the work shows up over time: Build, Launch, Serve, Grow, and
   Partner.
+- **Station**: one unit of the build line. There are nine stations. Each station
+  maps to one or more of the 27 steps.
 - **Step**: one action inside a motion. There are 27 steps.
 - **Swim Lanes**: the paths people take through your funnel. Each lane is a step
   toward a customer.
