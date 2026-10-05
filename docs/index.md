@@ -61,6 +61,6 @@ flowchart TD
 - [Refine Offer](method/refine-offer.md): position, message, offer.
 - [Engage Opportunity](method/engage-opportunity.md): funnel, traffic,
    enrollment.
-- [Develop Audience](method/develop-audience.md): content, activate, expand.
+- [Develop Audience](method/develop-audience.md): extract, content, expand.
 - [Results](method/results.md): the assets that keep working.
 - [Glossary](glossary.md): plain words for the terms we use.

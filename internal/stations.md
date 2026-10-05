@@ -44,12 +44,12 @@ value.
 | Engage Opportunity | Enroll | Frame the call | Enroll | 35, 36, 37, 38, 39 |
 | Engage Opportunity | Enroll | Diagnose the gap | Enroll | 40, 41, 42 |
 | Engage Opportunity | Enroll | Invite and handle objections | Enroll | 43, 44, 45, 46, 47, 48, 49 |
-| Develop Audience | Content | Turn nine steps into a content list | Content | 26, 27 |
-| Develop Audience | Content | Publish on site, email, chat, and social | Content | 25, 28, 29, 31 |
+| Develop Audience | Extract | Pull FAQs, problems, process, praise, and reviews from the signature solution | Service | n/a, our layer |
+| Develop Audience | Extract | Shape themes around the one currency | Service | n/a, our layer |
+| Develop Audience | Extract | Build an email and social content plan | Service | n/a, our layer |
+| Develop Audience | Content | Make posts and emails from the plan | Content | 25, 26, 27, 28 |
+| Develop Audience | Content | Publish across channels | Content | 29, 31 |
 | Develop Audience | Content | Promote and reuse | Content | 30, 32 |
-| Develop Audience | Activate | Organize IP as the signature solution | Service | n/a, our layer |
-| Develop Audience | Activate | Build the Client Engine and promo assets | Service | n/a, our layer |
-| Develop Audience | Activate | Launch and tune promotions | Service | n/a, our layer |
 | Develop Audience | Expand | Baseline the RED Portfolio | Partnership | n/a, our layer |
 | Develop Audience | Expand | Optimize what works | Partnership | n/a, our layer |
 | Develop Audience | Expand | Expand the IP | Partnership | n/a, our layer |

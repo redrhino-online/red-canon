@@ -19,8 +19,7 @@ flowchart LR
     A[Build] --> B[Launch] --> C[Serve] --> D[Grow] --> E[Partner]
 ```
 
-- **Build** happens in Refine Offer and in the Activate motion. The Client
-  Engine is built here.
+- **Build** happens in Refine Offer. We build the Client Engine in this stage.
 - **Launch** happens mostly in Engage Opportunity.
 - **Serve** is yours. You serve your customers with the new model and offer.
 - **Grow** happens in the Expand motion. Smaller offers feed the foundation
@@ -67,13 +66,13 @@ We keep the audience and the RED Portfolio growing.
 
 ```mermaid
 flowchart LR
-    A[Content] --> B[Activate] --> C[Expand]
+    A[Extract] --> B[Content] --> C[Expand]
 ```
 
 | Motion | Step 1 | Step 2 | Step 3 |
 |---|---|---|---|
-| Content | Turn nine steps into a content list | Publish on site, email, chat, and social | Promote and reuse |
-| Activate | Organize IP as the signature solution | Build the Client Engine and promo assets | Launch and tune promotions |
+| Extract | Pull key ideas from the signature solution | Group themes around the one currency | Build an email and social plan |
+| Content | Make posts and emails from the plan | Publish across channels | Promote and reuse |
 | Expand | Baseline the RED Portfolio | Optimize what works | Expand the IP |
 
 ## Where to go next

@@ -1,57 +1,45 @@
 # Develop Audience
 
 Develop Audience is one of the three phases of the RED Method. Here we keep
-the audience and your RED Portfolio growing. The phase has three motions: Content,
-Activate, and Expand. Each motion has three steps.
+the audience and your RED Portfolio growing. The phase has three motions:
+Extract, Content, and Expand. Each motion has three steps.
 
 ```mermaid
 flowchart LR
-    A[Content] --> B[Activate] --> C[Expand]
+    A[Extract] --> B[Content] --> C[Expand]
+```
+
+## The Extract motion
+
+We take useful content from your signature solution and shape it into an email
+and social plan.
+
+1. **Pull out the key ideas.** We collect common questions, problems, steps in
+the process, and praise or reviews.
+2. **Group the ideas.** We sort them into clear themes that speak to your one
+currency and the people you serve.
+3. **Build the content plan.** We turn the themes into a plan for emails and
+social posts.
+
+```mermaid
+flowchart LR
+    A[Signature solution] --> B[Useful ideas] --> C[Email and social plan]
 ```
 
 ## The Content motion
 
-We build an audience with content that lives inside the offer.
+We make and share content from the plan.
 
-1. **Turn nine steps into a content list.** We turn the signature solution's
-   nine steps into a content list. We plan, produce, publish, promote, and
-   syndicate.
-2. **Publish on site, email, chat, and social.** We publish on your site, by
-   email, in chat, and on social media. One asset is reused in many places.
-3. **Promote and reuse.** We build retargeting audiences from video views. We
-   never start from a blank page, and we never post only once.
-
-```mermaid
-flowchart LR
-    A[One asset] --> B[Site]
-    A --> C[Email]
-    A --> D[Chat]
-    A --> E[Social]
-```
-
-## The Activate motion
-
-We build the machine for you. This is done for you, white glove work.
-
-1. **Organize IP as the signature solution.** We organize your commercial IP as
-   a signature solution: a visual path from the buyer's pain to their goal.
-2. **Build the Client Engine and promo assets.** We build the Client Engine and
-   the assets that promote your offer.
-3. **Launch and tune promotions.** We launch the promotions and watch the
-   numbers. We keep what works.
+1. **Make the content.** We turn the plan into clear posts, emails, and other
+content.
+2. **Publish it.** We share it on your site, by email, in chat, and on social
+media. One asset can work in many places.
+3. **Promote and reuse.** We share useful content again and build retargeting
+audiences from video views.
 
 ```mermaid
 flowchart LR
-    A[Your IP] --> B[We organize and build] --> C[Your RED Portfolio]
-```
-
-We also design and implement your enrollment script. That means the words, the
-questions, and the checkpoints your team uses on the call. We practice it with
-you until it feels natural, not pushy.
-
-```mermaid
-flowchart LR
-    A[Script] --> B[Questions] --> C[Checkpoints] --> D[Practice]
+    A[Plan] --> B[Make] --> C[Publish] --> D[Reuse]
 ```
 
 We do not serve your customers. That work stays with you. We build the machine.
