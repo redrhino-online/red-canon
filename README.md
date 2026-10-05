@@ -37,6 +37,9 @@ Internal docs keep the machinery that a client should never read.
 - `internal/cadence.md`: timing and hard rules.
 - `internal/service-ops.md`: service and partnership layers, and what to build
   next.
+- `internal/ops/`: the RED Method Enterprise operations manual. It holds the
+  playbooks, checklists, and SOPs our team uses to run the method. Start at
+  `internal/ops/index.md`.
 
 ## Build the site
 
