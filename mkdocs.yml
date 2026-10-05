@@ -25,28 +25,58 @@ nav:
       - Engage Opportunity: method/engage-opportunity.md
       - The enrollment evolution: method/enrollment-evolution.md
       - Develop Audience: method/develop-audience.md
+      - The money message: method/money-message.md
+      - The product roadmap: method/product-roadmap.md
+      - How the numbers work: method/numbers.md
       - Results: method/results.md
   - Operations:
       - Overview: ops/index.md
       - Playbooks:
           - Plan: ops/playbooks/plan.md
+          - Numbers: ops/playbooks/numbers.md
           - Market: ops/playbooks/market.md
           - Message: ops/playbooks/message.md
           - Offer: ops/playbooks/offer.md
+          - Lead magnet: ops/playbooks/lead-magnet.md
+          - Authority video: ops/playbooks/authority-video.md
           - Funnel: ops/playbooks/funnel.md
           - Traffic: ops/playbooks/traffic.md
           - Content: ops/playbooks/content.md
           - Retargeting: ops/playbooks/retargeting.md
+          - Email and nurture: ops/playbooks/email-nurture.md
+          - Webinar: ops/playbooks/webinar.md
+          - Super group: ops/playbooks/super-group.md
+          - Outreach: ops/playbooks/outreach.md
           - Enroll: ops/playbooks/enroll.md
+          - Strategy session: ops/playbooks/strategy-session.md
           - Delivery: ops/playbooks/delivery.md
           - Enrollment service: ops/playbooks/enrollment-service.md
           - Partnership: ops/playbooks/partnership.md
+          - Certification: ops/playbooks/certification.md
       - Checklists:
           - Kickoff: ops/checklists/kickoff.md
           - Module production: ops/checklists/module-production.md
           - Session guide: ops/checklists/session-guide.md
           - Client scorecard: ops/checklists/client-scorecard.md
           - Case study: ops/checklists/case-study.md
+          - Currency calculator: ops/checklists/currency-calculator.md
+          - Avatar ecosystem: ops/checklists/avatar-ecosystem.md
+          - Product roadmap: ops/checklists/product-roadmap.md
+          - Content crusher: ops/checklists/content-crusher.md
+          - Slide template: ops/checklists/slide-template.md
+          - Recording and editing: ops/checklists/recording-editing.md
+          - Pricing: ops/checklists/pricing.md
+          - Funnel math: ops/checklists/funnel-math.md
+          - Booking page: ops/checklists/booking-page.md
+          - Lead magnet PDF: ops/checklists/lead-magnet-pdf.md
+          - Ad fix: ops/checklists/ad-fix.md
+          - Hooks and headlines: ops/checklists/hooks-headlines.md
+          - Webinar run of show: ops/checklists/webinar-run-of-show.md
+          - Email sequence: ops/checklists/email-sequence.md
+          - Super group setup: ops/checklists/super-group-setup.md
+          - Two-step outreach: ops/checklists/two-step-outreach.md
+          - Strategy session call: ops/checklists/strategy-session-call.md
+          - Launch calendar: ops/checklists/launch-calendar.md
           - Enrollment script: ops/checklists/enrollment-script.md
           - Checkpoint card: ops/checklists/checkpoint-card.md
           - Objection sheet: ops/checklists/objection-sheet.md
@@ -60,6 +90,24 @@ nav:
           - Module delivery: ops/sops/module-delivery.md
           - Session coaching: ops/sops/session-coaching.md
           - Case study capture: ops/sops/case-study-capture.md
+          - Brain dump to roadmap: ops/sops/brain-dump-to-roadmap.md
+          - Million dollar message: ops/sops/million-dollar-message.md
+          - Lead magnet build: ops/sops/lead-magnet-build.md
+          - Authority video build: ops/sops/authority-video-build.md
+          - Content crusher build: ops/sops/content-crusher-build.md
+          - Slide deck build: ops/sops/slide-deck-build.md
+          - Course production: ops/sops/course-production.md
+          - Funnel build: ops/sops/funnel-build.md
+          - Ad campaign setup: ops/sops/ad-campaign-setup.md
+          - Retargeting setup: ops/sops/retargeting-setup.md
+          - Webinar build: ops/sops/webinar-build.md
+          - Email sequence build: ops/sops/email-sequence-build.md
+          - Community launch: ops/sops/community-launch.md
+          - Outreach sequence: ops/sops/outreach-sequence.md
+          - Strategy session run: ops/sops/strategy-session-run.md
+          - Call audit: ops/sops/call-audit.md
+          - Pricing review: ops/sops/pricing-review.md
+          - Certification exam: ops/sops/certification-exam.md
           - Enrollment asset build: ops/sops/enrollment-asset-build.md
           - Role-play practice: ops/sops/role-play-practice.md
           - Renewal: ops/sops/renewal.md

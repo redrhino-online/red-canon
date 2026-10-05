@@ -46,6 +46,7 @@ flowchart LR
 | Station | Playbook | Main output |
 |---|---|---|
 | Plan | [Plan playbook](playbooks/plan.md) | One-page plan |
+| Numbers | [Numbers playbook](playbooks/numbers.md) | A numbers sheet |
 | Market | [Market playbook](playbooks/market.md) | Avatar snapshot |
 | Message | [Message playbook](playbooks/message.md) | One currency and message |
 | Offer | [Offer playbook](playbooks/offer.md) | Profit pyramid and price |
@@ -54,6 +55,20 @@ flowchart LR
 | Content | [Content playbook](playbooks/content.md) | Content roadmap |
 | Retargeting | [Retargeting playbook](playbooks/retargeting.md) | Retargeting plan |
 | Enroll | [Enroll playbook](playbooks/enroll.md) | Enrollment script |
+
+## The asset playbooks
+
+These playbooks build one asset at a time. They run alongside the stations.
+
+| Asset | Playbook | Main output |
+|---|---|---|
+| Lead magnet | [Lead magnet playbook](playbooks/lead-magnet.md) | One-page cheat sheet |
+| Authority video | [Authority video playbook](playbooks/authority-video.md) | Finished video |
+| Webinar | [Webinar playbook](playbooks/webinar.md) | Run of show and slides |
+| Email and nurture | [Email and nurture playbook](playbooks/email-nurture.md) | A nurture sequence |
+| Super group | [Super group playbook](playbooks/super-group.md) | A live group |
+| Outreach | [Outreach playbook](playbooks/outreach.md) | Booked calls |
+| Strategy session | [Strategy session playbook](playbooks/strategy-session.md) | A paid roadmap session |
 
 ## The service lines
 
@@ -70,6 +85,7 @@ flowchart LR
 | Delivery | [Delivery playbook](playbooks/delivery.md) | Client results and case study |
 | Enrollment service | [Enrollment service playbook](playbooks/enrollment-service.md) | Enrollment asset |
 | Partnership | [Partnership playbook](playbooks/partnership.md) | Renewal and referrals |
+| Certification | [Certification playbook](playbooks/certification.md) | A certified team |
 
 ## Checklists
 
@@ -80,6 +96,24 @@ flowchart LR
 | [Session guide](checklists/session-guide.md) | Run a teach or coach session |
 | [Client scorecard](checklists/client-scorecard.md) | Track one client |
 | [Case study](checklists/case-study.md) | Capture a result |
+| [Currency calculator](checklists/currency-calculator.md) | Pick the one currency |
+| [Avatar ecosystem](checklists/avatar-ecosystem.md) | Build the avatar snapshot |
+| [Product roadmap](checklists/product-roadmap.md) | Shape three stages and nine steps |
+| [Content crusher](checklists/content-crusher.md) | Capture one step on one sheet |
+| [Slide template](checklists/slide-template.md) | Build one module deck |
+| [Recording and editing](checklists/recording-editing.md) | Record and edit fast |
+| [Pricing](checklists/pricing.md) | Set and defend the price |
+| [Funnel math](checklists/funnel-math.md) | Work out the numbers |
+| [Booking page](checklists/booking-page.md) | Build the booking page |
+| [Lead magnet PDF](checklists/lead-magnet-pdf.md) | Build the short PDF |
+| [Ad fix](checklists/ad-fix.md) | Fix a weak campaign |
+| [Hooks and headlines](checklists/hooks-headlines.md) | Make many hooks |
+| [Webinar run of show](checklists/webinar-run-of-show.md) | Plan and run a webinar |
+| [Email sequence](checklists/email-sequence.md) | Build a nurture sequence |
+| [Super group setup](checklists/super-group-setup.md) | Open and run a group |
+| [Two-step outreach](checklists/two-step-outreach.md) | Book calls with warm leads |
+| [Strategy session call](checklists/strategy-session-call.md) | Run a paid session |
+| [Launch calendar](checklists/launch-calendar.md) | Plan a 14-day launch |
 | [Enrollment script](checklists/enrollment-script.md) | Build the sales script |
 | [Checkpoint card](checklists/checkpoint-card.md) | Run the call gates |
 | [Objection sheet](checklists/objection-sheet.md) | Answer common doubts |
@@ -97,6 +131,24 @@ flowchart LR
 | [Module delivery](sops/module-delivery.md) | Deliver one module |
 | [Session coaching](sops/session-coaching.md) | Coach on a call |
 | [Case study capture](sops/case-study-capture.md) | Turn a result into a story |
+| [Brain dump to roadmap](sops/brain-dump-to-roadmap.md) | Shape the product roadmap |
+| [Million dollar message](sops/million-dollar-message.md) | Write the one message |
+| [Lead magnet build](sops/lead-magnet-build.md) | Build a lead magnet |
+| [Authority video build](sops/authority-video-build.md) | Build the authority video |
+| [Content crusher build](sops/content-crusher-build.md) | Fill a content crusher |
+| [Slide deck build](sops/slide-deck-build.md) | Build a module deck |
+| [Course production](sops/course-production.md) | Record and publish modules |
+| [Funnel build](sops/funnel-build.md) | Build the short funnel |
+| [Ad campaign setup](sops/ad-campaign-setup.md) | Set up an ad campaign |
+| [Retargeting setup](sops/retargeting-setup.md) | Set up retargeting |
+| [Webinar build](sops/webinar-build.md) | Build and run a webinar |
+| [Email sequence build](sops/email-sequence-build.md) | Build a nurture sequence |
+| [Community launch](sops/community-launch.md) | Open and run a group |
+| [Outreach sequence](sops/outreach-sequence.md) | Book calls with warm leads |
+| [Strategy session run](sops/strategy-session-run.md) | Run a paid session |
+| [Call audit](sops/call-audit.md) | Review a recorded call |
+| [Pricing review](sops/pricing-review.md) | Review the price |
+| [Certification exam](sops/certification-exam.md) | Certify an operator |
 | [Enrollment asset build](sops/enrollment-asset-build.md) | Build the sales asset |
 | [Role-play practice](sops/role-play-practice.md) | Drill the team |
 | [Renewal](sops/renewal.md) | Renew a client |
