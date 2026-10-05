@@ -87,7 +87,7 @@ flowchart LR
 
 The call is the first enrollment mechanism. Once the funnel works, add a
 webinar. The webinar teaches and sells at scale, then moves the lead to a call.
-That is phase 2: lead to webinar to call.
+That is the scaled path: lead to webinar to call.
 
 ```mermaid
 flowchart LR

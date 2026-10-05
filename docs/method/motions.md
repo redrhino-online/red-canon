@@ -60,8 +60,8 @@ flowchart LR
 | Traffic | Set up tracking | Launch the campaign | Retarget and tune one thing at a time |
 | Enroll | Frame the call | Diagnose the gap | Invite and handle objections |
 
-Enrollment evolves in two phases. Phase 1 is a lead magnet to a call. Phase 2
-adds a webinar: lead to webinar to call. See
+Enrollment evolves in two paths. The simple path is a lead magnet to a call.
+The scaled path adds a webinar: lead to webinar to call. See
 [the enrollment evolution](enrollment-evolution.md).
 
 ## Develop Audience

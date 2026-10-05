@@ -65,12 +65,12 @@ converts. Pages follow a clean brand.
 
 ## The enrollment evolution
 
-This playbook builds phase 1: a lead magnet to a call. Once it works, add a
-webinar. That is phase 2: lead to webinar to call.
+This playbook builds the simple path: a lead magnet to a call. Once it works,
+add a webinar. That is the scaled path: lead to webinar to call.
 
 ```mermaid
 flowchart LR
-    A[Phase 1: lead to call] --> B[Phase 2: lead to webinar to call]
+    A[Simple path: lead to call] --> B[Scaled path: lead to webinar to call]
 ```
 
 See [the enrollment evolution](../../method/enrollment-evolution.md).

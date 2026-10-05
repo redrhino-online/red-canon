@@ -1,15 +1,15 @@
 # The enrollment evolution
 
-We enroll clients in two phases. Start with the simple path. Then evolve.
+We enroll clients in two paths. Start simple. Then scale.
 
 ```mermaid
 flowchart LR
-    A[Phase 1] --> B[Phase 2]
+    A[Simple path] --> B[Scaled path]
 ```
 
-Phase 1 is a lead magnet to a call. Phase 2 adds a webinar.
+The simple path is a lead magnet to a call. The scaled path adds a webinar.
 
-## Phase 1: lead magnet to call
+## The simple path: lead magnet to call
 
 This is the first enrollment path. It is simple and fast.
 
@@ -24,9 +24,9 @@ flowchart LR
 
 Build this first. Launch it. Improve it until it works.
 
-## Phase 2: lead to webinar to call
+## The scaled path: lead to webinar to call
 
-Once phase 1 works, add a webinar. The webinar is a second enrollment
+Once the simple path works, add a webinar. The webinar is a second enrollment
 mechanism.
 
 ```mermaid
@@ -38,11 +38,11 @@ flowchart LR
 - It warms many leads at once.
 - It leads to a call, or a direct sale.
 
-## Why phase 2 comes second
+## Why the scaled path comes second
 
-- Phase 1 proves the offer and the message.
-- Phase 2 scales what already works.
-- A webinar on a weak offer wastes time. Fix phase 1 first.
+- The simple path proves the offer and the message.
+- The scaled path grows what already works.
+- A webinar on a weak offer wastes time. Fix the simple path first.
 
 ## The webinar as an enrollment mechanism
 
@@ -55,16 +55,16 @@ at scale.
 
 ## When to add the webinar
 
-Add phase 2 when:
+Add the scaled path when:
 
-- Phase 1 books calls every week.
+- The simple path books calls every week.
 - The call closes at a steady rate.
 - You want to reach more people at once.
 
-Do not add the webinar before phase 1 works.
+Do not add the webinar before the simple path works.
 
 ## Where to go next
 
 - [Engage Opportunity](engage-opportunity.md): funnel, traffic, enrollment.
-- [Funnel playbook](../ops/playbooks/funnel.md): build phase 1.
+- [Funnel playbook](../ops/playbooks/funnel.md): build the simple path.
 - [Enroll playbook](../ops/playbooks/enroll.md): run the call.

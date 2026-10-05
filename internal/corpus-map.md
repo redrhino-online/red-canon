@@ -108,8 +108,8 @@ flowchart LR
 Two series overlap. `14D HTCLF` and `High Ticket Course Launch` teach the same
 14-step launch. `High Ticket Launch Accelerator` fills the old 19 and 20 gap.
 
-The `Winning Webinar` series is the source for phase 2 of enrollment: lead to
-webinar to call. It supports the Enroll station.
+The `Winning Webinar` series is the source for the scaled path of enrollment:
+lead to webinar to call. It supports the Enroll station.
 
 The new series stay on the same ground as the numbered canon. They are strong on
 offers, funnels, webinars, and content. They do not cover the back half of the

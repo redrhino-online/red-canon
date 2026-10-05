@@ -21,8 +21,9 @@
 - **Currency Calculator**: a tool that helps you pick one result to sell. It
   shows the best result to promise.
 - **Enrollment call**: the call where a booked lead decides to become a client.
-- **Enrollment evolution**: the two phases of enrollment. Phase 1 is a lead
-  magnet to a call. Phase 2 adds a webinar: lead to webinar to call.
+- **Enrollment evolution**: the two paths of enrollment. The simple path is a
+  lead magnet to a call. The scaled path adds a webinar: lead to webinar to
+  call.
 - **Extract**: the first motion of Develop Audience. We pull key ideas from the
   signature solution and build an email and social plan.
 - **Floodgates**: the ways you get people to your site. You can pay for ads,
@@ -80,5 +81,5 @@
 - **Swim Lanes**: the paths people take through your funnel. Each lane is a step
   toward a customer.
 - **Winning Webinar**: a talk that teaches and sells. It gives value first, then
-  makes an offer. It is a second enrollment mechanism, used in phase 2 of the
-  enrollment evolution.
+  makes an offer. It is a second enrollment mechanism, used in the scaled path
+  of the enrollment evolution.

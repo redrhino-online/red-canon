@@ -81,8 +81,8 @@ pushy.
 
 ## The enrollment evolution
 
-We enroll clients in two phases. Phase 1 is a lead magnet to a call. Phase 2
-adds a webinar: lead to webinar to call.
+We enroll clients in two paths. The simple path is a lead magnet to a call. The
+scaled path adds a webinar: lead to webinar to call.
 
 ```mermaid
 flowchart LR
@@ -90,8 +90,8 @@ flowchart LR
     C[Lead] --> D[Webinar] --> E[Call]
 ```
 
-Build phase 1 first. Improve it until it works. Then add the webinar. The
-webinar is a second enrollment mechanism. It teaches and sells at scale.
+Build the simple path first. Improve it until it works. Then add the webinar.
+The webinar is a second enrollment mechanism. It teaches and sells at scale.
 
 More: [The enrollment evolution](enrollment-evolution.md) and
 [Develop Audience](develop-audience.md).
