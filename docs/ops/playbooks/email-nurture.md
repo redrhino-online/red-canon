@@ -27,7 +27,7 @@ per funnel step, and repeat until the lead takes the action.
 - The one currency and message.
 - The authority video.
 
-## Named framework
+## Key ideas
 
 - **The 5P types.** Problem, Promise, Proof, Ping, and Promotion. Five kinds of
   email.

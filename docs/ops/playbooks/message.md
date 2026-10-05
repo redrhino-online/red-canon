@@ -25,7 +25,7 @@ line.
 - The goals grid.
 - A list of every result the client could sell.
 
-## Named framework
+## Key ideas
 
 - **The currency calculator.** Two columns: what you increase and what you
   decrease. Fill it from client talk, books, courses, and search. Then pick one.

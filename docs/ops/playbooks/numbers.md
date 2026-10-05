@@ -25,7 +25,7 @@ time a number changes.
 - The live ad campaign and funnel.
 - The current close rate on calls.
 
-## Named framework
+## Key ideas
 
 - **The master number.** Lifetime value. If the value of a client goes up,
   everything else gets easier.

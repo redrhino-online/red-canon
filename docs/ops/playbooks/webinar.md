@@ -27,7 +27,7 @@ to a call. Build the simple path first, then add the webinar.
 - The one currency and message.
 - The live funnel and the email list.
 
-## Named framework
+## Key ideas
 
 - **The six phases.** Frame, teach three times, shift, sell, and show. About
   60 minutes in total.

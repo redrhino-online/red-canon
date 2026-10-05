@@ -27,7 +27,7 @@ for every booked call. Offer a paid strategy session for premium offers.
 - The enrollment script and the question set.
 - The checkpoint list.
 
-## Named framework
+## Key ideas
 
 - **The checkpoint system.** Five gates inside the call: intent, commitment,
   clarity, confidence, and desire. The lead must pass a gate before you move on.

@@ -26,7 +26,7 @@ is the first thing a cold lead sees.
 - The one currency and message.
 - Brand assets and slides.
 
-## Named framework
+## Key ideas
 
 - **The 6 blocks.** Promise, proof, problems, steps, context, and action. One
   script runs every asset.

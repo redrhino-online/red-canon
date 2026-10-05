@@ -24,7 +24,7 @@ Use this after the offer. It is Station 4.
 - The one message.
 - Brand assets.
 
-## Named framework
+## Key ideas
 
 - **The short funnel.** Ad, opt in, authority video, calendar, confirmation.
   Four to five steps. No more.

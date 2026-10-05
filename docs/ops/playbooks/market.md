@@ -24,7 +24,7 @@ Use this after the plan. It is Station 1.
 - Access to social and business networks.
 - Notes on the buyer's pains, goals, and fears.
 
-## Named framework
+## Key ideas
 
 - **The 360 avatar ecosystem.** One product can serve many avatars. We build
   one avatar per step of the offer, not one narrow niche. Tests pick the winner.

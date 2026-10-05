@@ -27,7 +27,7 @@ funnel works. It runs on the run line.
 - The one currency and message.
 - The lead magnet and the authority video.
 
-## Named framework
+## Key ideas
 
 - **The welcome filter.** A new member posts one simple question: "Do you want
   to learn more?" People who say yes raise their hand.

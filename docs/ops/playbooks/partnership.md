@@ -27,7 +27,7 @@ the life of the client.
 - The next-offer path.
 - The community rules.
 
-## Named framework
+## Key ideas
 
 - **The product ladder.** Slice the offer into steps, phases, and the whole
   program. Each slice is a product.

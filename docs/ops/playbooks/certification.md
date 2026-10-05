@@ -25,7 +25,7 @@ team is ready to run the system.
 - The playbooks and the roadmap.
 - At least one real result to use as proof.
 
-## Named framework
+## Key ideas
 
 - **The standard.** A short list of skills and habits every operator must hold.
 - **The exam.** A live or written check. A pass mark is required.

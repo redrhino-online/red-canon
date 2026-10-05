@@ -28,7 +28,7 @@ client wants us to build and run the enrollment asset.
 - The common objections from past calls.
 - Recorded calls for review.
 
-## Named framework
+## Key ideas
 
 - **The checkpoint system.** Intent, commitment, clarity, confidence, desire.
   These gates run inside the call.

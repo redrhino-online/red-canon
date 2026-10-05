@@ -28,7 +28,7 @@ full program. It starts at kickoff and ends at the case study.
 - The success goals from kickoff.
 - The module production standard.
 
-## Named framework
+## Key ideas
 
 - **The delivery ladder.** Start one to one. Move to a live cohort. Then record
   it as an evergreen program.

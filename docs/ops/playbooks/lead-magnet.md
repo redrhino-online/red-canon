@@ -26,7 +26,7 @@ signature solution. One hot step.
 - The one currency and message.
 - The authority video.
 
-## Named framework
+## Key ideas
 
 - **The wheel of awesome.** Every step of the offer is already useful. Pull one
   step out and turn it into the lead magnet. Never invent a new one.

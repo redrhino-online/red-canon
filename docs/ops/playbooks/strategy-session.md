@@ -26,7 +26,7 @@ free call would attract people who are not ready.
 - The one currency and message.
 - The application and the booking page.
 
-## Named framework
+## Key ideas
 
 - **The paid roadmap session.** The lead pays a fee, often $1,000 with a $500
   floor. In return they get a plan.

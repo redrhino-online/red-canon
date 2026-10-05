@@ -23,7 +23,7 @@ Use this after the funnel. It is Station 5.
 - Tracking and goals.
 - A budget.
 
-## Named framework
+## Key ideas
 
 - **The metrics matrix.** A chain of numbers from stranger to customer. Each
   step has one number to watch.

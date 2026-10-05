@@ -27,7 +27,7 @@ the organic path to appointments.
 - The one currency and message.
 - The calendar and the booking page.
 
-## Named framework
+## Key ideas
 
 - **The two-step path.** A group plus a nurture plus a message sequence can
   raise appointments far above cold outreach.

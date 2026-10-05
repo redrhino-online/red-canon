@@ -27,7 +27,7 @@ the run line too. Content runs all the time.
 - The live funnel and the authority video.
 - The avatar snapshot and the goals grid.
 
-## Named framework
+## Key ideas
 
 - **The content crusher.** One sheet per step. The sheet holds the promise,
   the pain, the goal, the story, the steps, and the action.

@@ -26,7 +26,7 @@ work.
 - The client's costs.
 - The client's goals for the next 12 months.
 
-## Named framework
+## Key ideas
 
 - **The lifetime value rule.** Lifetime value is the one number that bakes in
   every other number. If it goes up, every ad, call, and email is more

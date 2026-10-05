@@ -26,7 +26,7 @@ for every funnel step.
 - The funnel pages and the authority video.
 - The one currency and message.
 
-## Named framework
+## Key ideas
 
 - **These people, not these people.** For every ad, name who should see it and
   who should not. Exclude the buyers.

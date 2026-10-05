@@ -24,7 +24,7 @@ Use this after the message. It is Station 3. Get feedback before design.
 - The one message.
 - The avatar snapshot.
 
-## Named framework
+## Key ideas
 
 - **Offer DNA.** A strong offer is singular, sequential, productized, popular,
   competitive, and essential. One problem. One path. One price.
