@@ -5,7 +5,7 @@ This playbook brings back the people who got stuck in the funnel.
 ## Goal
 
 Show the right ad to the right group. Bring back people who visited but did not
-act. Follow the six steps in order.
+act. Follow the steps in order. One audience per funnel step.
 
 ## When to use
 
@@ -26,19 +26,37 @@ for every funnel step.
 - The funnel pages and the authority video.
 - The one currency and message.
 
+## Named framework
+
+- **These people, not these people.** For every ad, name who should see it and
+  who should not. Exclude the buyers.
+- **One audience per step.** Split people by where they stopped: opt in, video,
+  calendar, or no show.
+- **The 5P ad creative.** Use the same five message types in the ads: Problem,
+  Promise, Proof, Ping, and Promotion.
+
 ## Steps
 
 1. Add tracking and goals to every funnel step.
 2. Split audiences by where each person stopped.
 3. Pick the right group for each ad.
 4. Exclude people who already bought.
-5. Show one focused ad to each group.
-6. Measure the result and repeat.
+5. Write one focused ad for each group.
+6. Use the 5P types for the ad copy.
+7. Show the ad to small groups at low cost.
+8. Measure the result and repeat.
+
+Here is how each stop gets its own ad.
+
+```mermaid
+flowchart LR
+    A[Opt in] --> B[Video] --> C[Calendar] --> D[No show]
+```
 
 ## Gate
 
-Follow the six steps in order. Target the right people. Exclude the right
-people. Ignore the rest.
+Follow the steps in order. Target the right people. Exclude the right people.
+Ignore the rest.
 
 ## Metrics
 
@@ -65,9 +83,10 @@ people. Ignore the rest.
 - Playbook: [Traffic playbook](traffic.md)
 - Playbook: [Content playbook](content.md)
 - Playbook: [Funnel playbook](funnel.md)
-- No checklist or SOP exists for this station yet.
+- Playbook: [Webinar playbook](webinar.md)
+- SOP: [Retargeting setup](../sops/retargeting-setup.md)
 
-Retargeting follows six steps in order.
+Retargeting follows the same path at each step.
 
 ```mermaid
 flowchart LR

@@ -27,16 +27,44 @@ the life of the client.
 - The next-offer path.
 - The community rules.
 
+## Named framework
+
+- **The product ladder.** Slice the offer into steps, phases, and the whole
+  program. Each slice is a product.
+- **The four-offer path.** A free entry, a small offer, a core offer, and a
+  partner offer. Each one leads to the next.
+- **The community hub.** A group where clients help each other and hear about
+  the next step.
+
 ## Steps
 
 1. Hold regular check-ins.
 2. Watch for clients who are quiet or stuck.
 3. Reach out to quiet clients with a simple offer of help.
 4. Offer the next step at the right time.
-5. Build a community of clients.
-6. Ask happy clients for referrals.
-7. Renew and expand the work.
-8. Track reviews, stories, and press.
+5. Slice the offer into a small entry and a mid offer.
+6. Build a community of clients.
+7. Certify the client's team so they can run the system.
+8. Ask happy clients for referrals.
+9. Renew and expand the work.
+10. Track reviews, stories, and press.
+
+Here is how one offer becomes a family of offers.
+
+```mermaid
+flowchart LR
+    A[Entry] --> B[Mid] --> C[Core] --> D[Partner]
+```
+
+## When to offer the next step
+
+Offer after a win, not before. A result is the best reason to buy the next
+thing. Most clients buy the next offer only when it is offered.
+
+```mermaid
+flowchart LR
+    A[Win] --> B[Story] --> C[Next offer]
+```
 
 ## Gate
 
@@ -62,6 +90,7 @@ Every client has a next step and a reason to stay.
 - No next step. Fix: build the next-offer path.
 - Asking for referrals too early. Fix: ask after a win.
 - No community. Fix: start small and set simple rules.
+- One big offer only. Fix: slice it into a ladder.
 
 ## Related
 
@@ -69,6 +98,8 @@ Every client has a next step and a reason to stay.
 - Checklist: [Referral and partner](../checklists/referral-partner.md)
 - Checklist: [Community rules](../checklists/community-rules.md)
 - Checklist: [Reputation track](../checklists/reputation-track.md)
+- Playbook: [Super group playbook](super-group.md)
+- Playbook: [Certification playbook](certification.md)
 - SOP: [Renewal](../sops/renewal.md)
 - SOP: [Referral](../sops/referral.md)
 - SOP: [Community moderation](../sops/community-moderation.md)
