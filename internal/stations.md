@@ -253,6 +253,11 @@ win. Early calls with the wrong lead are a success.
 
 **Sessions**: 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49.
 
+**Enrollment evolution**: enrollment runs in two phases. Phase 1 is a lead
+magnet to a call. Phase 2 adds a webinar: lead to webinar to call. Build phase 1
+first, then add the webinar. The `Winning Webinar` series is the source for
+phase 2.
+
 ## The run line
 
 The build line ends. The run line begins. The run line never really stops.

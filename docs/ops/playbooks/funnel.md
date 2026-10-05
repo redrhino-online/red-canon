@@ -63,6 +63,18 @@ converts. Pages follow a clean brand.
 - Pages look off brand. Fix: use the brand assets.
 - The funnel leaks. Fix: check each page in order.
 
+## The enrollment evolution
+
+This playbook builds phase 1: a lead magnet to a call. Once it works, add a
+webinar. That is phase 2: lead to webinar to call.
+
+```mermaid
+flowchart LR
+    A[Phase 1: lead to call] --> B[Phase 2: lead to webinar to call]
+```
+
+See [the enrollment evolution](../../method/enrollment-evolution.md).
+
 ## Related
 
 - Checklist: None yet.

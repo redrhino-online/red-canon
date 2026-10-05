@@ -82,3 +82,16 @@ The call has three phases.
 flowchart LR
     A[Frame] --> B[Diagnose] --> C[Invite]
 ```
+
+## The webinar as a second enrollment mechanism
+
+The call is the first enrollment mechanism. Once the funnel works, add a
+webinar. The webinar teaches and sells at scale, then moves the lead to a call.
+That is phase 2: lead to webinar to call.
+
+```mermaid
+flowchart LR
+    A[Lead] --> B[Webinar] --> C[Call] --> D[Client]
+```
+
+See [the enrollment evolution](../../method/enrollment-evolution.md).

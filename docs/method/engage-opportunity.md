@@ -79,4 +79,19 @@ We design and implement all of this for you. We write the words, the questions,
 and the checkpoints. We practice the call with you until it feels natural, not
 pushy.
 
-More: [Develop Audience](develop-audience.md).
+## The enrollment evolution
+
+We enroll clients in two phases. Phase 1 is a lead magnet to a call. Phase 2
+adds a webinar: lead to webinar to call.
+
+```mermaid
+flowchart LR
+    A[Lead magnet] --> B[Call]
+    C[Lead] --> D[Webinar] --> E[Call]
+```
+
+Build phase 1 first. Improve it until it works. Then add the webinar. The
+webinar is a second enrollment mechanism. It teaches and sells at scale.
+
+More: [The enrollment evolution](enrollment-evolution.md) and
+[Develop Audience](develop-audience.md).
