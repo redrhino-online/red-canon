@@ -30,6 +30,19 @@ The Client Engine is the first output of the engagement: the five stages of
 Build, Launch, Serve, Grow, and Partner, materialized as the first asset in
 your RED Portfolio.
 
+## The shape behind the steps
+
+Behind the 27 steps is one simple shape. Three stages. Nine steps. Twenty-seven
+actions. Every step gives you a working tool, not just words.
+
+```mermaid
+flowchart LR
+    A[3 stages] --> B[9 steps] --> C[27 actions]
+```
+
+This shape becomes your product roadmap. It is the map you keep using after the
+build. See [the product roadmap](product-roadmap.md).
+
 ## Refine Offer
 
 We make something worth buying.
@@ -79,8 +92,29 @@ flowchart LR
 | Content | Make posts and emails from the plan | Publish across channels | Promote and reuse |
 | Expand | Baseline the RED Portfolio | Optimize what works | Expand the IP |
 
+## The build line and the run line
+
+The build line ends. The run line begins. The run line never really stops.
+
+```mermaid
+flowchart LR
+    A[Build line] --> B[Run line]
+```
+
+On the run line, three engines work at the same time.
+
+- **Paid traffic**: brings new leads on demand.
+- **Content**: brings leads over time and builds trust.
+- **Retargeting**: recovers people who did not act.
+
+```mermaid
+flowchart LR
+    A[Paid] --> B[Content] --> C[Retargeting]
+```
+
 ## Where to go next
 
 - [Refine Offer](refine-offer.md): the three motions of Refine Offer.
 - [Engage Opportunity](engage-opportunity.md): the three motions of Engage Opportunity.
 - [Develop Audience](develop-audience.md): the three motions of Develop Audience.
+- [The product roadmap](product-roadmap.md): the three by three by three shape.

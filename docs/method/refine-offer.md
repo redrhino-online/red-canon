@@ -34,7 +34,9 @@ not sit on a shelf.
 
 We turn a category into one clear message.
 
-1. **List every result.** We list every result you could sell.
+1. **List every result.** We list every result you could sell. We use a two
+   column tool: what you increase and what you decrease. This is the currency
+   calculator.
 2. **Pick one currency.** We pick the one result that is critical and specific.
    We give it a metric and a timeline.
 3. **Write one message.** We name the three main obstacles the buyer faces.
@@ -47,7 +49,8 @@ flowchart LR
 ```
 
 The message has one currency, a metric, and a timeline. This is the hardest
-work in the whole engagement, and we do not move on until it is right.
+work in the whole engagement, and we do not move on until it is right. See
+[the money message](money-message.md).
 
 ## The Offer motion
 
@@ -65,7 +68,20 @@ flowchart LR
     A[Levels] --> B[Path] --> C[Product] --> D[Price]
 ```
 
-You leave this phase with a profit pyramid, a signature solution, a product
-outline, and a price.
+Before we design anything, we run a digital brain dump. We list every step the
+buyer must take. Then we filter the list down to the nine steps that matter.
+Every step gets one working tool, not just words. See
+[the product roadmap](product-roadmap.md).
 
-More: [Engage Opportunity](engage-opportunity.md).
+## What good looks like
+
+- A strong offer solves one problem, in one order, for one price.
+- The offer is a painkiller, not a vitamin.
+- The price starts at a premium level, and we never discount it. We shorten
+  the path or offer a payment plan instead.
+
+You leave this phase with a profit pyramid, a signature solution, a product
+roadmap, a product outline, and a price.
+
+More: [Engage Opportunity](engage-opportunity.md) and
+[how the numbers work](numbers.md).

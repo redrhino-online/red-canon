@@ -26,20 +26,62 @@ flowchart LR
     A[Signature solution] --> B[Useful ideas] --> C[Email and social plan]
 ```
 
+One tool makes this simple. It is called the content crusher. It is one sheet
+per step. The sheet holds the promise, the pain, the goal, the story, the
+steps, and the action. One sheet is enough to teach the step.
+
+```mermaid
+flowchart LR
+    A[One step] --> B[One sheet] --> C[One lesson]
+```
+
 ## The Content motion
 
 We make and share content from the plan.
 
 1. **Make the content.** We turn the plan into clear posts, emails, and other
-content.
+   content.
 2. **Publish it.** We share it on your site, by email, in chat, and on social
-media. One asset can work in many places.
+   media. One asset can work in many places.
 3. **Promote and reuse.** We share useful content again and build retargeting
-audiences from video views.
+   audiences from video views.
 
 ```mermaid
 flowchart LR
     A[Plan] --> B[Make] --> C[Publish] --> D[Reuse]
+```
+
+### The five kinds of message
+
+Every step can be told five ways. We call them the 5P types:
+
+- **Problem**: name the pain.
+- **Promise**: name the result.
+- **Proof**: show a result.
+- **Ping**: ask a question.
+- **Promotion**: make the offer.
+
+```mermaid
+flowchart LR
+    A[Problem] --> B[Promise] --> C[Proof] --> D[Promotion]
+```
+
+Nine steps times five types gives about forty-five themes. With formats and
+channels, one offer can make more than a hundred pieces of content.
+
+```mermaid
+flowchart LR
+    A[9 steps] --> B[5 types] --> C[135 pieces]
+```
+
+### The hub and spoke
+
+Many small pieces of content feed one center. The center can be a group or a
+webinar. People meet the small pieces first, then join the center.
+
+```mermaid
+flowchart LR
+    A[Many spokes] --> B[One hub] --> C[Clients]
 ```
 
 We do not serve your customers. That work stays with you. We build the machine.
