@@ -3,9 +3,9 @@
 This is an internal operator map. Do not publish it. It describes the canon: the
 source transcripts in `framework-canon/`.
 
-The canon holds 48 transcripts. They are numbered 00 to 49. Numbers 19 and 20
-are missing. Sessions 13 and 14 are copies of each other. Sessions 35 to 49 are
-the sales block.
+The canon holds 48 numbered transcripts (00 to 49) plus 103 more in nine
+series. Numbers 19 and 20 were missing; the new uploads fill them. Sessions 13
+and 14 are copies of each other. Sessions 35 to 49 are the sales block.
 
 The set teaches a 12-week program. In that program an expert turns what they
 know into a product they can sell and deliver. The work moves from research to
@@ -79,7 +79,38 @@ This table maps every session to a station and its main output.
 | 48 | Funnel calculator | Enroll | Funnel numbers |
 | 49 | Sales script live replay | Enroll | Live example |
 
-Note: sessions 13 and 14 are copies. Sessions 19 and 20 are missing.
+Note: sessions 13 and 14 are copies. Sessions 19 and 20 are now in the
+`High Ticket Launch Accelerator` series.
+
+## The expanded corpus
+
+The new uploads add 103 transcripts in nine series. They repeat and deepen the
+numbered canon. Use them as extra source, not as a replacement.
+
+| Series | Files | What it adds |
+|---|---|---|
+| High Ticket Funnels | 19 | Funnel clinics, lead magnets, enrollment script, CAC funnel |
+| 14D HTCLF | 16 | A 14-step course launch funnel |
+| Winning Webinar | 14 | Webinar planning, slides, email, retargeting, metrics |
+| Youtube Content | 14 | Public videos on funnels, ads, copy, and offers |
+| Live Sessions | 11 | Live calls, offer building, lead magnets, pricing |
+| High Ticket Course Launch | 11 | An earlier version of the 14-step launch |
+| Perfect Offer | 11 | Offer, currency, message, and product roadmap |
+| Certification | 4 | Certification sessions |
+| High Ticket Launch Accelerator | 3 | Sessions 19 and 20, plus a currency feedback clip |
+
+```mermaid
+flowchart LR
+    A[48 numbered] --> C[Canon]
+    B[103 new] --> C
+```
+
+Two series overlap. `14D HTCLF` and `High Ticket Course Launch` teach the same
+14-step launch. `High Ticket Launch Accelerator` fills the old 19 and 20 gap.
+
+The new series stay on the same ground as the numbered canon. They are strong on
+offers, funnels, webinars, and content. They do not cover the back half of the
+client life.
 
 ## The sales block
 

@@ -251,5 +251,5 @@ Then it links to every playbook, checklist, and SOP in the file list.
 
 - Q1: Resolved. The manual is hosted in `docs/ops/` as a public section.
 - Q2: Who is the named owner for each playbook?
-- Q3: Do we need a separate nurture and follow-up playbook once the missing
-  canon modules arrive?
+- Q3: The missing canon modules (19 and 20) arrived in the `High Ticket Launch
+  Accelerator` series. A separate nurture and follow-up playbook is still open.

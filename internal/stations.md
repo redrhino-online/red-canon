@@ -56,6 +56,28 @@ value.
 
 Use this table to trace any public step back to the source sessions.
 
+## Extra source series
+
+The canon now holds nine more series (103 transcripts). They repeat and deepen
+the numbered sessions. Use them as extra source for the same stations.
+
+| Series | Main station |
+|---|---|
+| High Ticket Funnels | Funnel, Enroll |
+| 14D HTCLF | Offer, Funnel |
+| Winning Webinar | Funnel, Content |
+| Youtube Content | Content, Traffic |
+| Live Sessions | Offer, Enroll |
+| High Ticket Course Launch | Offer, Funnel |
+| Perfect Offer | Offer, Message |
+| Certification | Offer, Funnel |
+| High Ticket Launch Accelerator | Plan, Enroll |
+
+```mermaid
+flowchart LR
+    A[Extra series] --> B[Same stations]
+```
+
 ## Station 0: Plan
 
 **Goal**: agree on the numbers and the plan.

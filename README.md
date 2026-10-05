@@ -15,7 +15,8 @@ flowchart TD
   partners. The site is built from this folder.
 - `internal/`: operator docs. They map the source sessions, stations, cadence,
   and our service playbooks. They are not part of the site.
-- `framework-canon/`: the scrubbed source transcripts. Read only. Never edit,
+- `framework-canon/`: the scrubbed source transcripts. It holds 48 numbered
+  sessions plus nine more series (103 transcripts). Read only. Never edit,
   rename, or delete by hand. Use the `scrub` tool. See `README-scrub.md`.
 
 ## Public docs

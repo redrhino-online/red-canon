@@ -39,8 +39,10 @@ These parts are built. See the operations manual in `docs/ops/`:
 
 ## Enrollment service
 
-The canon teaches the enrollment call (sessions 35 to 49). We turn it into a
-done-for-you asset. This is a white-glove add-on in the Launch stage.
+The canon teaches the enrollment call (sessions 35 to 49). The `High Ticket
+Funnels` and `Live Sessions` series add more enrollment and offer material. We
+turn it into a done-for-you asset. This is a white-glove add-on in the Launch
+stage.
 
 **Goal**: help the client enroll more customers without feeling pushy or fake.
 
