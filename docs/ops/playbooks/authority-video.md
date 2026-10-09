@@ -91,7 +91,7 @@ clear action. The script is checked before the slides are made.
 ## Related
 
 - Playbook: [Funnel playbook](funnel.md)
-- Checklist: [Hook lines](../checklists/hooks-headlines.md)
+- Checklist: [Hooks and headlines](../checklists/hooks-headlines.md)
 - Checklist: [Slide template](../checklists/slide-template.md)
 - Checklist: [Recording and editing](../checklists/recording-editing.md)
 - SOP: [Authority video build](../sops/authority-video-build.md)

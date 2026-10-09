@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Build the group or the lead list.
 - [ ] Get the one currency and message.
-- [ ] Read the outreach playbook.
+- [ ] Read the [outreach playbook](../playbooks/outreach.md).
 
 ## Steps
 - [ ] Start with warm contacts only.

@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Get the nine steps of the offer.
 - [ ] Get the one currency and message.
-- [ ] Read the nurture playbook.
+- [ ] Read the [nurture playbook](../playbooks/email-nurture.md).
 
 ## Steps
 - [ ] Pick a funnel step and a goal.

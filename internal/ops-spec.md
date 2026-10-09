@@ -60,7 +60,8 @@ flowchart TD
 ## 6. Doc types and templates
 
 Every doc follows its template. Every doc has a short lead-in sentence before
-each Mermaid diagram. Keep diagrams to fewer than 5 elements.
+each Mermaid diagram. Keep diagrams to fewer than 5 elements. Link every named
+reference to the doc it names. See `AGENTS.md` section 4.
 
 ### 6.1 Playbook template
 
@@ -273,6 +274,10 @@ Given `docs/ops/index.md`,
 When it is read,
 Then it links to every playbook, checklist, and SOP in the file list.
 
+Given any playbook, checklist, or SOP,
+When it names another doc,
+Then the name is a link that resolves to that doc.
+
 ## 10. Constraints
 
 - Follow `AGENTS.md` in full.
@@ -280,6 +285,8 @@ Then it links to every playbook, checklist, and SOP in the file list.
 - Never name people from the source transcripts.
 - Do not read or copy `framework-canon/`. Work from the synthesized docs.
 - Use Mermaid for every new idea in a `.md` file.
+- Link every named reference. When a doc names another playbook, checklist,
+  SOP, or method page, make it a link. See `AGENTS.md` section 4.
 - Keep file names short and in plain English.
 - Do not add secrets, keys, or client data.
 

@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Get every result the client could sell.
 - [ ] Have notes on the buyer's pains, goals, and fears.
-- [ ] Read the message playbook.
+- [ ] Read the [message playbook](../playbooks/message.md).
 
 ## Steps
 - [ ] List what the offer increases.

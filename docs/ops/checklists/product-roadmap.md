@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Get the one currency and message.
 - [ ] Run the digital brain dump first.
-- [ ] Read the offer playbook.
+- [ ] Read the [offer playbook](../playbooks/offer.md).
 
 ## Steps
 - [ ] Group the dump into three stages.

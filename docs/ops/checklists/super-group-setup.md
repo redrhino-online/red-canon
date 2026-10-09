@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Finish the lead magnet and the authority video.
 - [ ] Get the one currency and message.
-- [ ] Read the super group playbook.
+- [ ] Read the [super group playbook](../playbooks/super-group.md).
 
 ## Steps
 - [ ] Name the group for the person and the result.

@@ -43,11 +43,11 @@ full program. It starts at kickoff and ends at the case study.
 1. Onboard the client with a welcome and a kickoff.
 2. Set success goals and a start date.
 3. Build the module plan for 6 to 12 weeks.
-4. Produce one module per week. Use the content crusher and the slide template.
+4. Produce one module per week. Use the [content crusher](../checklists/content-crusher.md) and the [slide template](../checklists/slide-template.md).
 5. Teach the module on one day.
 6. Coach the client on another day.
 7. Track attendance, progress, and results.
-8. Review the scorecard each week.
+8. Review the [scorecard](../checklists/client-scorecard.md) each week.
 9. Audit the client against the roadmap every 90 days.
 10. Fix what is stuck.
 11. Collect a case study the moment results land.
@@ -92,7 +92,7 @@ match the goals, fix the plan before you close.
 
 ## Common failures
 
-- Weak kickoff. Fix: use the kickoff checklist.
+- Weak kickoff. Fix: use the [kickoff checklist](../checklists/kickoff.md).
 - No goals. Fix: set them at kickoff.
 - Skipping the scorecard. Fix: review it each week.
 - Waiting to collect proof. Fix: capture the case study when results land.

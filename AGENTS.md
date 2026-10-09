@@ -55,7 +55,28 @@ flowchart LR
 - Give every diagram a short lead-in sentence.
 - Label nodes with short, plain words.
 
-## 4. Repo rules
+## 4. Link named references
+
+When you name another doc in this repo, make it a link. A reader must be able
+to click through to the file.
+
+```mermaid
+flowchart LR
+    A[Name a doc] --> B[Add a link] --> C[Right file]
+```
+
+- When you tell the reader to read, get, use, open, review, pull, print, see,
+  follow, check, update, build, or share another doc, make it a link.
+- Link playbooks, checklists, SOPs, and method pages.
+- Use the doc title as the link text. Example:
+  `[market playbook](playbooks/market.md)`.
+- Use a relative path from the file you are editing.
+- Check that every link resolves before you ship.
+- Link a generic plural to the section index when one exists. Example: "the
+  playbooks" links to the ops manual home. Do not link a plural with no single
+  target, like "the numbers".
+
+## 5. Repo rules
 
 ```mermaid
 flowchart TD
@@ -72,7 +93,7 @@ flowchart TD
 - Update `README.md` when the repo structure changes.
 - Do not add secrets, keys, or client data.
 
-## 5. Voice and point of view
+## 6. Voice and point of view
 
 - Use **we** for our company.
 - Use **you** for the reader.
@@ -80,13 +101,13 @@ flowchart TD
 - Do not name people from the transcripts in new material.
 - Keep a calm, helpful, expert tone.
 
-## 6. Commits
+## 7. Commits
 
 - Use `type(scope): message` form, like `docs(readme): add offer section`.
 - Keep the subject short and in the imperative mood.
 - Keep one change set per commit.
 
-## 7. Check before you ship
+## 8. Check before you ship
 
 ```mermaid
 flowchart LR
@@ -98,6 +119,7 @@ Before you finish:
 - [ ] No original brand name appears in your new files.
 - [ ] The text reads at a 3rd to 5th grade level.
 - [ ] New ideas in `.md` files have a simple Mermaid diagram.
+- [ ] Every named reference is a link that resolves.
 - [ ] Public docs do not mention session numbers or internal gaps.
 - [ ] `framework-canon/` was not touched.
 - [ ] The commit message follows the form above.

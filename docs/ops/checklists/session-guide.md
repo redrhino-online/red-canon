@@ -11,7 +11,7 @@ flowchart LR
 
 ## Before you start
 - [ ] Know the session goal.
-- [ ] Review the client scorecard.
+- [ ] Review the [client scorecard](client-scorecard.md).
 - [ ] Open the module and the task.
 - [ ] Send the join link and the time.
 - [ ] Test your sound and camera.

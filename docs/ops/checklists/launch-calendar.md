@@ -12,14 +12,14 @@ flowchart LR
 ## Before you start
 - [ ] Finish the one currency and message.
 - [ ] Book the launch dates.
-- [ ] Read the offer and funnel playbooks.
+- [ ] Read the [offer](../playbooks/offer.md) and [funnel playbooks](../playbooks/funnel.md).
 
 ## Steps
 - [ ] Day 1: confirm the currency.
 - [ ] Day 2: confirm the avatar.
 - [ ] Day 3: write the message.
 - [ ] Day 4: run the digital brain dump.
-- [ ] Day 5: build the product roadmap.
+- [ ] Day 5: build the [product roadmap](product-roadmap.md).
 - [ ] Day 6: write the course outline.
 - [ ] Day 7: fill the content crushers.
 - [ ] Day 8: finish the crushers and set the price.

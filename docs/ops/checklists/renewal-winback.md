@@ -10,7 +10,7 @@ flowchart LR
 ```
 
 ## Before you start
-- [ ] Pull the client scorecard.
+- [ ] Pull the [client scorecard](client-scorecard.md).
 - [ ] List the results so far.
 - [ ] Know the next offer to present.
 - [ ] Pick a good time to talk.

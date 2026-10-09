@@ -11,7 +11,7 @@ flowchart LR
 
 ## Before you start
 - [ ] Pick one call stage to practice.
-- [ ] Print the script and the checkpoint card.
+- [ ] Print the [script](enrollment-script.md) and the [checkpoint card](checkpoint-card.md).
 - [ ] Pick who plays the lead and who plays the seller.
 - [ ] Set a timer for 15 minutes.
 
@@ -19,7 +19,7 @@ flowchart LR
 - [ ] Read the stage goal out loud.
 - [ ] Run the call from start to end.
 - [ ] Do not stop to fix things mid-call.
-- [ ] Score the call on the checkpoint card.
+- [ ] Score the call on the [checkpoint card](checkpoint-card.md).
 - [ ] Name one thing that went well.
 - [ ] Name one thing to fix.
 - [ ] Swap roles and run it again.

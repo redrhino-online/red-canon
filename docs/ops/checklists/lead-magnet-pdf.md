@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Pick one hot step of the offer.
 - [ ] Get the one currency and message.
-- [ ] Read the lead magnet playbook.
+- [ ] Read the [lead magnet playbook](../playbooks/lead-magnet.md).
 
 ## Steps
 - [ ] Write the title for the person and the result.

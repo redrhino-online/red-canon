@@ -20,7 +20,7 @@ specialist runs this procedure before live calls.
 2. Set the goal. Name the one skill the seller must show.
 3. Run the call. Let the seller run the script from start to end.
 4. Play the lead. Raise real doubts. Do not make it easy.
-5. Score the call. Use the checkpoint card. Mark each gate pass or fail.
+5. Score the call. Use the [checkpoint card](../checklists/checkpoint-card.md). Mark each gate pass or fail.
 6. Coach on one thing. Give one clear fix. Show the better words.
 7. Run it again. Repeat the same scene with the fix.
 8. Swap roles. Let the seller play the lead to feel the other side.
@@ -39,7 +39,7 @@ flowchart LR
 - If the seller fails a gate, stop and coach. Do not run the whole call again.
 - If the lead is too easy, make the doubt harder.
 - If the seller feels stuck, slow down and drill one gate.
-- If the team keeps missing one doubt, update the objection sheet.
+- If the team keeps missing one doubt, update the [objection sheet](../checklists/objection-sheet.md).
 
 ## Escalation
 

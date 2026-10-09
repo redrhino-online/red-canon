@@ -10,7 +10,7 @@ flowchart LR
 ```
 
 ## Before you start
-- [ ] Get the product roadmap.
+- [ ] Get the [product roadmap](product-roadmap.md).
 - [ ] Review the lead's application.
 - [ ] Get the session price and the fee credit rule.
 

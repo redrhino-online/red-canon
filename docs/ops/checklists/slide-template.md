@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Finish the content crusher for the step.
 - [ ] Get the brand colors and fonts.
-- [ ] Read the delivery playbook.
+- [ ] Read the [delivery playbook](../playbooks/delivery.md).
 
 ## Steps
 - [ ] Open the slide template.

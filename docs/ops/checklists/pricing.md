@@ -10,9 +10,9 @@ flowchart LR
 ```
 
 ## Before you start
-- [ ] Get the one currency and the roadmap.
+- [ ] Get the one currency and the [roadmap](product-roadmap.md).
 - [ ] Get the value of one client.
-- [ ] Read the offer playbook.
+- [ ] Read the [offer playbook](../playbooks/offer.md).
 
 ## Steps
 - [ ] Set the premium price at $3,000 or more.

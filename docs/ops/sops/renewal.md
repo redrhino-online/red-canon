@@ -9,7 +9,7 @@ The client's term is 60 days from its end. Or the client's results are strong an
 The partnership lead runs this procedure. The delivery lead gives the results. The coach gives progress notes.
 
 ## Procedure
-1. Pull the client scorecard. Check attendance, progress, and results.
+1. Pull the [client scorecard](../checklists/client-scorecard.md). Check attendance, progress, and results.
 2. Run a health check. Ask the client how the work feels.
 3. Review the results against the goals from kickoff.
 4. Pick the next step. Match it to the client's new goal.

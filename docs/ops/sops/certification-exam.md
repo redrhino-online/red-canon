@@ -17,7 +17,7 @@ the Serve stage.
 ## Procedure
 
 1. Write the short list of skills an operator must hold.
-2. Train the operator on the playbooks and the roadmap.
+2. Train the operator on the [playbooks](../index.md) and the [roadmap](../checklists/product-roadmap.md).
 3. Have the operator run real work with a coach watching.
 4. Set the exam and a clear pass mark.
 5. Test the operator against the standard.

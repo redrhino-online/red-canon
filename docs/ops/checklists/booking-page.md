@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Get the one currency and message.
 - [ ] Get the calendar tool.
-- [ ] Read the funnel playbook.
+- [ ] Read the [funnel playbook](../playbooks/funnel.md).
 
 ## Steps
 - [ ] Write the reason to book at the top.

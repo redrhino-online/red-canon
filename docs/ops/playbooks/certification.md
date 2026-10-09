@@ -22,7 +22,7 @@ team is ready to run the system.
 ## Inputs
 
 - A working funnel and a working offer.
-- The playbooks and the roadmap.
+- The [playbooks](../index.md) and the [roadmap](../checklists/product-roadmap.md).
 - At least one real result to use as proof.
 
 ## Key ideas
@@ -34,7 +34,7 @@ team is ready to run the system.
 ## Steps
 
 1. Name the skills an operator must hold.
-2. Train the team on the playbooks and the roadmap.
+2. Train the team on the [playbooks](../index.md) and the [roadmap](../checklists/product-roadmap.md).
 3. Have each person run real work with a coach watching.
 4. Set the exam. A clear pass mark.
 5. Test each person against the standard.

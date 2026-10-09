@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Get the one currency.
 - [ ] Get access to social and business networks.
-- [ ] Read the market playbook.
+- [ ] Read the [market playbook](../playbooks/market.md).
 
 ## Steps
 - [ ] Size the market on social networks.

@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Get the one currency and message.
 - [ ] Get the authority video body.
-- [ ] Read the message playbook.
+- [ ] Read the [message playbook](../playbooks/message.md).
 
 ## Steps
 - [ ] Write the base message.

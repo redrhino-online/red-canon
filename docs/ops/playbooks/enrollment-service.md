@@ -92,7 +92,7 @@ pressure. The call is booked within 72 hours.
 ## Common failures
 
 - A script that sounds fake. Fix: use the client's own words.
-- Gates out of order. Fix: use the checkpoint card.
+- Gates out of order. Fix: use the [checkpoint card](../checklists/checkpoint-card.md).
 - No practice. Fix: run role play before the first live call.
 - No review. Fix: review recorded calls each week.
 - A raw calendar link. Fix: use the booking page.

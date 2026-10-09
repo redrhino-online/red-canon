@@ -11,9 +11,9 @@ flowchart LR
 
 ## Before you start
 - [ ] Get the client's one currency.
-- [ ] Get the product roadmap.
+- [ ] Get the [product roadmap](product-roadmap.md).
 - [ ] Get the current numbers and the goal numbers.
-- [ ] Read the checkpoint card.
+- [ ] Read the [checkpoint card](checkpoint-card.md).
 
 ## Steps
 - [ ] Write the six parts: promise, proof, problems, steps, context, action.

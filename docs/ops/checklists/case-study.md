@@ -25,7 +25,7 @@ flowchart LR
 - [ ] Send the draft to the client to check.
 - [ ] Fix anything the client flags.
 - [ ] Publish the case study.
-- [ ] Add it to the reputation track.
+- [ ] Add it to the [reputation track](reputation-track.md).
 
 ## Done when
 - [ ] We have written permission.

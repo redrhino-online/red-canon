@@ -11,7 +11,7 @@ flowchart LR
 
 ## Before you start
 - [ ] Read the client's one currency.
-- [ ] Read the product roadmap.
+- [ ] Read the [product roadmap](product-roadmap.md).
 - [ ] Have the question set ready.
 - [ ] Set a quiet place for the call.
 

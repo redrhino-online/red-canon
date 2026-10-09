@@ -23,9 +23,9 @@ the life of the client.
 ## Inputs
 
 - A delivered client with results.
-- The client scorecard and the case study.
+- The [client scorecard](../checklists/client-scorecard.md) and the [case study](../checklists/case-study.md).
 - The next-offer path.
-- The community rules.
+- The [community rules](../checklists/community-rules.md).
 
 ## Key ideas
 

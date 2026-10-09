@@ -16,7 +16,7 @@ Delivery station.
 
 ## Procedure
 
-1. Open the slide template.
+1. Open the [slide template](../checklists/slide-template.md).
 2. Add the title and the promise slide.
 3. Add one emotional image per slide.
 4. Keep text short. No long bullet lists.

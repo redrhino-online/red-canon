@@ -42,7 +42,7 @@ Use this after the message. It is Station 3. Get feedback before design.
 3. Build a visual path from the buyer's pain to the goal.
 4. Give the path three phases and nine steps.
 5. Give every step one clear action and one deliverable.
-6. Run the digital brain dump to fill the steps. See the roadmap SOP.
+6. Run the digital brain dump to fill the steps. See the [roadmap SOP](../sops/brain-dump-to-roadmap.md).
 7. Shape the steps with the rule of threes.
 8. Choose how you deliver: group program, one to one, or done for you.
 9. Set a premium price. Start at $3,000 or more.

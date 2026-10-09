@@ -12,7 +12,7 @@ flowchart LR
 ## Before you start
 - [ ] Get the offer price.
 - [ ] Get the current cost per lead and show rate.
-- [ ] Read the numbers playbook.
+- [ ] Read the [numbers playbook](../playbooks/numbers.md).
 
 ## Steps
 - [ ] Write the offer price.

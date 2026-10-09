@@ -9,7 +9,7 @@ A new member joins. Or a post breaks a rule. Or a member reports a problem.
 The community manager runs this procedure. The coach answers method questions. The partnership lead handles member issues.
 
 ## Procedure
-1. Welcome each new member. Share the rules and the start guide.
+1. Welcome each new member. Share the [rules](../checklists/community-rules.md) and the start guide.
 2. Watch the feed each day. Read new posts and replies.
 3. Act on rule breaks. Warn first, then remove.
 4. Record each action. Note the member, the post, and the reason.

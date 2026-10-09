@@ -10,9 +10,9 @@ flowchart LR
 ```
 
 ## Before you start
-- [ ] Get the product roadmap.
+- [ ] Get the [product roadmap](product-roadmap.md).
 - [ ] Pick the step to teach.
-- [ ] Read the content playbook.
+- [ ] Read the [content playbook](../playbooks/content.md).
 
 ## Steps
 - [ ] Write the topic and title.

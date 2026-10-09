@@ -109,7 +109,7 @@ early call with the wrong lead is a success.
 - Pitching too early. Fix: pass the intent gate first.
 - Solving the problem on the call. Fix: diagnose, then prescribe.
 - Pushing after a no. Fix: accept the no and end well.
-- Skipping the checkpoints. Fix: use the checkpoint card.
+- Skipping the checkpoints. Fix: use the [checkpoint card](../checklists/checkpoint-card.md).
 - Quoting a price before agreement. Fix: get a yes to move forward first.
 
 ## Related
