@@ -1,0 +1,256 @@
+/* Shared RED Method program deck styles. Viewport-native for readable phones. */
+
+:root {
+  --deck-bg: #0f1115;
+  --deck-panel: #171a21;
+  --deck-ink: #f2f4f8;
+  --deck-muted: #b8c0cc;
+  --deck-red: #e23b3b;
+  --deck-red-soft: #ff6b6b;
+  --deck-line: #2a2f3a;
+}
+
+.reveal {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: clamp(20px, 1.35vw + 12px, 28px);
+  color: var(--deck-ink);
+}
+
+html, body {
+  background: var(--deck-bg);
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .slides section {
+  box-sizing: border-box;
+  height: 100%;
+  padding: clamp(0.7em, 2vw, 1.6em);
+  padding-top: max(clamp(0.7em, 2vw, 1.6em), env(safe-area-inset-top));
+  padding-bottom: max(clamp(0.7em, 2vw, 1.6em), env(safe-area-inset-bottom));
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  color: var(--deck-ink);
+  text-transform: none;
+  letter-spacing: 0;
+  line-height: 1.15;
+  margin: 0 0 0.4em;
+}
+
+.reveal h1 {
+  font-size: 1.7em;
+}
+
+.reveal h2 {
+  font-size: 1.45em;
+}
+
+.reveal h3 {
+  font-size: 1.15em;
+  color: var(--deck-red-soft);
+}
+
+.reveal p,
+.reveal li {
+  font-size: 1em;
+  line-height: 1.35;
+  color: var(--deck-ink);
+}
+
+.reveal li {
+  margin-bottom: 0.35em;
+}
+
+.reveal ul,
+.reveal ol {
+  margin: 0.2em 0 0.2em 1.1em;
+}
+
+.reveal strong {
+  color: var(--deck-red-soft);
+}
+
+.reveal .kicker {
+  display: inline-block;
+  font-size: 0.6em;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--deck-red-soft);
+  border: 1px solid var(--deck-red);
+  border-radius: 999px;
+  padding: 0.25em 0.8em;
+  margin-bottom: 0.6em;
+  width: fit-content;
+}
+
+.reveal .lead {
+  color: var(--deck-muted);
+  font-size: 1.05em;
+}
+
+.reveal .grid {
+  display: grid;
+  gap: 0.5em;
+}
+
+.reveal .cols-2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.reveal .cols-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.reveal .card {
+  background: var(--deck-panel);
+  border: 1px solid var(--deck-line);
+  border-radius: 0.6em;
+  padding: 0.65em 0.8em;
+}
+
+.reveal .card h3 {
+  margin-bottom: 0.25em;
+}
+
+.reveal .num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 999px;
+  background: var(--deck-red);
+  color: #fff;
+  font-size: 0.8em;
+  font-weight: 700;
+  margin-right: 0.5em;
+  flex: 0 0 auto;
+}
+
+.reveal .flow {
+  display: flex;
+  align-items: stretch;
+  gap: 0.4em;
+  flex-wrap: wrap;
+}
+
+.reveal .step {
+  flex: 1 1 auto;
+  min-width: 30%;
+  background: var(--deck-panel);
+  border: 1px solid var(--deck-line);
+  border-left: 4px solid var(--deck-red);
+  border-radius: 0.5em;
+  padding: 0.55em 0.7em;
+}
+
+.reveal .stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45em;
+}
+
+.reveal .row {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5em;
+  background: var(--deck-panel);
+  border: 1px solid var(--deck-line);
+  border-radius: 0.5em;
+  padding: 0.5em 0.7em;
+}
+
+.reveal .tag {
+  font-size: 0.62em;
+  color: var(--deck-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.reveal .note {
+  color: var(--deck-muted);
+  font-size: 0.85em;
+}
+
+.reveal .big {
+  font-size: 1.25em;
+  color: var(--deck-ink);
+}
+
+.reveal .accent {
+  color: var(--deck-red-soft);
+}
+
+.reveal .check li {
+  list-style: none;
+  position: relative;
+  padding-left: 1.3em;
+  margin-left: -1.1em;
+}
+
+.reveal .check li::before {
+  content: "\2713";
+  color: var(--deck-red-soft);
+  position: absolute;
+  left: 0;
+  font-weight: 700;
+}
+
+.reveal .reveal-link {
+  display: inline-block;
+  margin-top: 0.4em;
+  font-size: 0.8em;
+  color: var(--deck-muted);
+}
+
+.reveal .reveal-link a {
+  color: var(--deck-red-soft);
+}
+
+.reveal .slide-number {
+  color: var(--deck-muted);
+}
+
+.reveal .progress {
+  color: var(--deck-red);
+}
+
+.reveal .pill {
+  display: inline-block;
+  background: var(--deck-panel);
+  border: 1px solid var(--deck-line);
+  border-radius: 999px;
+  padding: 0.2em 0.7em;
+  font-size: 0.7em;
+  margin: 0 0.3em 0.3em 0;
+}
+
+@media (max-width: 620px) {
+  .reveal .cols-2,
+  .reveal .cols-3 {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-height: 460px) {
+  .reveal {
+    font-size: 17px;
+  }
+  .reveal .slides section {
+    padding: 0.4em clamp(0.5em, 1.6vw, 1.2em);
+  }
+  .reveal h1 {
+    font-size: 1.4em;
+  }
+  .reveal h2 {
+    font-size: 1.25em;
+  }
+}

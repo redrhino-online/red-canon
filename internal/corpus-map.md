@@ -12,6 +12,9 @@ know into a product they can sell and deliver. The work moves from research to
 message to offer to funnel to traffic to content to follow up. The sales block
 adds the enrollment call: how to turn a booked lead into a paying client.
 
+The 48 numbered files share a local folder with three later accelerator files.
+This map treats those as two program lines.
+
 ```mermaid
 flowchart LR
     A[48 sessions] --> B[12 weeks]

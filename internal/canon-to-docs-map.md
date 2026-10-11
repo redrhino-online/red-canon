@@ -22,6 +22,10 @@ flowchart LR
 The nine extra series repeat the numbered canon and add detail. They do not add
 new stations.
 
+The local `High Ticket Launch Accelerator` folder also holds the 48 numbered
+files. This map keeps the 12-week program and the three extra accelerator files
+as separate program lines.
+
 ## The expanded series at a glance
 
 | Series | Files | Main station | Best for |

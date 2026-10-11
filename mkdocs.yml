@@ -115,6 +115,17 @@ nav:
           - Community moderation: ops/sops/community-moderation.md
           - Reputation: ops/sops/reputation.md
           - Quarterly review: ops/sops/quarterly-review.md
+  - Learning programs:
+      - Overview: programs/index.md
+      - High ticket launch accelerator: programs/high-ticket-launch-accelerator.md
+      - High ticket funnels: programs/high-ticket-funnels.md
+      - 14-day course launch: programs/14-day-course-launch.md
+      - Winning webinar: programs/winning-webinar.md
+      - Youtube content: programs/youtube-content.md
+      - Live sessions: programs/live-sessions.md
+      - High ticket course launch: programs/high-ticket-course-launch.md
+      - Perfect offer: programs/perfect-offer.md
+      - Certification: programs/certification.md
   - Glossary: glossary.md
 
 markdown_extensions:
