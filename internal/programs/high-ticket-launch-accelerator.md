@@ -26,10 +26,10 @@ flowchart LR
 
 ## Start the program
 
-[Open the high ticket launch accelerator deck](high-ticket-launch-accelerator.html){target="_blank"}
+[Open the high ticket launch accelerator deck](high-ticket-launch-accelerator.html)
 
 ## Where to go next
 
-- [The method map](../method/motions.md): three phases, nine motions, 27 steps.
-- [Offer playbook](../ops/playbooks/offer.md): set the offer and the price.
-- [Enroll playbook](../ops/playbooks/enroll.md): run the enrollment call.
+- [The method map](../../docs/method/motions.md): three phases, nine motions, 27 steps.
+- [Offer playbook](../../docs/ops/playbooks/offer.md): set the offer and the price.
+- [Enroll playbook](../../docs/ops/playbooks/enroll.md): run the enrollment call.

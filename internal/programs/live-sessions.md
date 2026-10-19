@@ -24,10 +24,10 @@ flowchart LR
 
 ## Start the program
 
-[Open the live sessions deck](live-sessions.html){target="_blank"}
+[Open the live sessions deck](live-sessions.html)
 
 ## Where to go next
 
-- [Hooks and headlines](../ops/checklists/hooks-headlines.md): make many hooks.
-- [Checkpoint card](../ops/checklists/checkpoint-card.md): run the call gates.
-- [Strategy session playbook](../ops/playbooks/strategy-session.md): run a paid session.
+- [Hooks and headlines](../../docs/ops/checklists/hooks-headlines.md): make many hooks.
+- [Checkpoint card](../../docs/ops/checklists/checkpoint-card.md): run the call gates.
+- [Strategy session playbook](../../docs/ops/playbooks/strategy-session.md): run a paid session.

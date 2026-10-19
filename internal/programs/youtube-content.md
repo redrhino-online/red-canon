@@ -24,10 +24,10 @@ flowchart LR
 
 ## Start the program
 
-[Open the youtube content deck](youtube-content.html){target="_blank"}
+[Open the youtube content deck](youtube-content.html)
 
 ## Where to go next
 
-- [Traffic playbook](../ops/playbooks/traffic.md): run paid traffic.
-- [Ad fix checklist](../ops/checklists/ad-fix.md): fix a weak campaign.
-- [Ad campaign setup SOP](../ops/sops/ad-campaign-setup.md): set up a campaign.
+- [Traffic playbook](../../docs/ops/playbooks/traffic.md): run paid traffic.
+- [Ad fix checklist](../../docs/ops/checklists/ad-fix.md): fix a weak campaign.
+- [Ad campaign setup SOP](../../docs/ops/sops/ad-campaign-setup.md): set up a campaign.

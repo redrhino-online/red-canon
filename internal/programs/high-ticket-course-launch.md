@@ -26,10 +26,10 @@ flowchart LR
 
 ## Start the program
 
-[Open the high ticket course launch deck](high-ticket-course-launch.html){target="_blank"}
+[Open the high ticket course launch deck](high-ticket-course-launch.html)
 
 ## Where to go next
 
-- [Product roadmap](../method/product-roadmap.md): shape three stages.
-- [Money message](../method/money-message.md): write one message.
-- [Brain dump to roadmap SOP](../ops/sops/brain-dump-to-roadmap.md): sort the idea.
+- [Product roadmap](../../docs/method/product-roadmap.md): shape three stages.
+- [Money message](../../docs/method/money-message.md): write one message.
+- [Brain dump to roadmap SOP](../../docs/ops/sops/brain-dump-to-roadmap.md): sort the idea.

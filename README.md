@@ -38,8 +38,8 @@ source transcripts, session numbers, or internal gaps.
 - `docs/ops/`: the RED Method Enterprise operations manual. It holds the
   station playbooks, the asset playbooks, the checklists, and the SOPs our team
   uses to run the method. Start at `docs/ops/index.md`.
-- `docs/programs/`: nine program summaries with Reveal.js slide decks. Each
-  summary links to its deck. Start at `docs/programs/index.md`.
+- `internal/programs/`: nine internal program summaries and standalone Reveal.js
+  decks. Start at `internal/programs/index.md`.
 - `docs/glossary.md`: plain words for the terms we use.
 
 ## Internal docs

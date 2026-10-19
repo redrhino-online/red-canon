@@ -26,10 +26,10 @@ flowchart LR
 
 ## Start the program
 
-[Open the 14-day course launch deck](14-day-course-launch.html){target="_blank"}
+[Open the 14-day course launch deck](14-day-course-launch.html)
 
 ## Where to go next
 
-- [Product roadmap](../method/product-roadmap.md): shape the three stages.
-- [Course production SOP](../ops/sops/course-production.md): record and publish.
-- [Pricing review SOP](../ops/sops/pricing-review.md): review the price.
+- [Product roadmap](../../docs/method/product-roadmap.md): shape the three stages.
+- [Course production SOP](../../docs/ops/sops/course-production.md): record and publish.
+- [Pricing review SOP](../../docs/ops/sops/pricing-review.md): review the price.

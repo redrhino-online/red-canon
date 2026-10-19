@@ -26,10 +26,10 @@ flowchart LR
 
 ## Start the program
 
-[Open the perfect offer deck](perfect-offer.html){target="_blank"}
+[Open the perfect offer deck](perfect-offer.html)
 
 ## Where to go next
 
-- [Refine Offer](../method/refine-offer.md): the first phase of the method.
-- [The money message](../method/money-message.md): write one message.
-- [Currency calculator](../ops/checklists/currency-calculator.md): pick the one currency.
+- [Refine Offer](../../docs/method/refine-offer.md): the first phase of the method.
+- [The money message](../../docs/method/money-message.md): write one message.
+- [Currency calculator](../../docs/ops/checklists/currency-calculator.md): pick the one currency.

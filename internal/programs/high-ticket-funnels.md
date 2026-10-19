@@ -25,10 +25,10 @@ flowchart LR
 
 ## Start the program
 
-[Open the high ticket funnels deck](high-ticket-funnels.html){target="_blank"}
+[Open the high ticket funnels deck](high-ticket-funnels.html)
 
 ## Where to go next
 
-- [Lead magnet playbook](../ops/playbooks/lead-magnet.md): build the free step.
-- [Funnel playbook](../ops/playbooks/funnel.md): build the short funnel.
-- [Enroll playbook](../ops/playbooks/enroll.md): run the enrollment call.
+- [Lead magnet playbook](../../docs/ops/playbooks/lead-magnet.md): build the free step.
+- [Funnel playbook](../../docs/ops/playbooks/funnel.md): build the short funnel.
+- [Enroll playbook](../../docs/ops/playbooks/enroll.md): run the enrollment call.

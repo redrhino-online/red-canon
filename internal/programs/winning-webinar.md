@@ -25,10 +25,10 @@ flowchart LR
 
 ## Start the program
 
-[Open the winning webinar deck](winning-webinar.html){target="_blank"}
+[Open the winning webinar deck](winning-webinar.html)
 
 ## Where to go next
 
-- [Webinar playbook](../ops/playbooks/webinar.md): run the webinar.
-- [Email and nurture playbook](../ops/playbooks/email-nurture.md): fill the follow up.
-- [Webinar run of show](../ops/checklists/webinar-run-of-show.md): plan the hour.
+- [Webinar playbook](../../docs/ops/playbooks/webinar.md): run the webinar.
+- [Email and nurture playbook](../../docs/ops/playbooks/email-nurture.md): fill the follow up.
+- [Webinar run of show](../../docs/ops/checklists/webinar-run-of-show.md): plan the hour.

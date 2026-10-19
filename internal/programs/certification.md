@@ -26,10 +26,10 @@ flowchart LR
 
 ## Start the program
 
-[Open the certification deck](certification.html){target="_blank"}
+[Open the certification deck](certification.html)
 
 ## Where to go next
 
-- [Certification playbook](../ops/playbooks/certification.md): run the program.
-- [Certification exam SOP](../ops/sops/certification-exam.md): run the exam.
-- [Call audit SOP](../ops/sops/call-audit.md): review a recorded call.
+- [Certification playbook](../../docs/ops/playbooks/certification.md): run the program.
+- [Certification exam SOP](../../docs/ops/sops/certification-exam.md): run the exam.
+- [Call audit SOP](../../docs/ops/sops/call-audit.md): review a recorded call.
