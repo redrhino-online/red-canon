@@ -20,6 +20,10 @@ method. **Never write that brand name in any new file.**
 the `scrub` tool for bulk name changes. It stays local and ignored. Never
 commit it.
 
+The user-approved backup in `swipe/` is a narrow exception to the naming rule
+above. Preserve the board text, file names, and images as exported. Do not use
+this exception for any other new content.
+
 ## 2. Writing standards
 
 Write for a 3rd to 5th grade reading level. Keep it simple and clear.

@@ -1,0 +1,36 @@
+Card: Question - Engagement Email
+Card ID: 5f627b787e5042315c56a5af
+
+Description:
+~Contact.FirstName~,
+
+Hello and happy ~Date.DayOfWeek~!
+
+I have a quick question for you...
+
+I am putting together some new content to help you and all the other awesome folks on my list get better results from your sales and marketing efforts and I need your help...
+
+If you could wave a magic wand and achieve JUST ONE of the following in the next 30 days, which would it be:
+
+Craft the right message and offer so more folks pay attention to what I do...
+Create and publish a world-class course that generates $5-$10K per month...
+Generate 3-5 inbound appointments with qualified prospects each day...
+Enroll 25% of the folks I talk to into my coaching or consulting programs...
+I know it's hard but please respond with the ONE you would most like to achieve...
+
+As soon as I receive and review all the responses, I'll be publishing something super cool for you!
+
+Thanks in advance!
+
+
+
+--Aaron
+
+Comments:
+(No comments.)
+
+Links:
+(None found)
+
+Video links:
+(None found)
