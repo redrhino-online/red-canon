@@ -1,0 +1,28 @@
+Card: Cart Abandon Email
+Card ID: 5f6280626837fc54796b3260
+
+Description:
+Uh Oh! Did did something go wrong ~Contact.FirstName~?
+
+~Contact.FirstName~,
+
+It looks like you just went to sign up for the Community but weren't able to complete the checkout process...
+
+If this was an issue on our end, please let us know. If you have ANY questions about the Community, please reply to this email...
+
+We're here any time to help you understand how The Fletcher Method can help you launch and awesomely successful online business with much less frustration and overwhelm :)
+
+Otherwise, you can GO HERE to get started and get immediate access to all the training, done-for-you templates and community of awesome folks who want to help you succeed!
+
+
+
+--Aaron and FM Team :)
+
+Comments:
+(No comments.)
+
+Links:
+(None found)
+
+Video links:
+(None found)
