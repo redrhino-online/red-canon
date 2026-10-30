@@ -11,6 +11,8 @@ backup layout or its files.
 - The catalog links to the original card folders under `swipe/`.
 - Strong title matches are separated from likely or theme-based groupings.
 - Duplicate and untitled cards are called out instead of silently merged.
+- Available local images are embedded in tables under their concept group
+  headings. Use image filenames that contain no parentheses.
 - The Authority Amplifier (AA) video/page is listed with matching ads and
   landing pages when their card titles confirm the same product.
 
@@ -42,6 +44,10 @@ flowchart LR
    then the README points to it and every catalog link resolves.
 6. Given this change is reviewed, when comparing tracked swipe files to the
    base branch, then no source backup file has been moved, renamed, or edited.
+7. Given a grouped source card has local image files, when its concept group is
+   displayed, then every available image whose filename contains no
+   parentheses is embedded in that group's table and links to the original
+   image file.
 
 ## Constraints
 
@@ -66,9 +72,10 @@ flowchart LR
 1. Add `internal/swipe-reorganization-spec.md` with this scope and acceptance
    criteria. Verify the file stays internal and its references resolve.
 2. Add `internal/swipe-catalog.md` with concept clusters, links to the original
-   cards, remaining cards grouped by source list, and duplicate/untitled notes.
-   Verify every linked card folder exists and title-match claims against
-   `card.txt`.
+   cards, remaining cards grouped by source list, duplicate/untitled notes,
+   and tables with unparenthesized local image previews under each group.
+   Verify every linked card folder and image exists, and title-match claims
+   against `card.txt`.
 3. Update the [README](../README.md) to link to the catalog. Verify the link resolves and the
    existing swipe backup/export contract is unchanged.
 4. Run Markdown-link checks, `git diff --check`, and the offline exporter test
