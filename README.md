@@ -55,6 +55,8 @@ Internal docs keep the machinery that a client should never read.
   next.
 - `internal/ops-spec.md`: the spec for the operations manual. It records the
   goal, the doc templates, and the acceptance criteria.
+- [Swipe card catalog](internal/swipe-catalog.md): grouped links to exported
+  ads, pages, videos, downloads, and the remaining cards by source list.
 
 ## Build the site
 
