@@ -2,10 +2,11 @@
 
 ## Goal
 
-Draft an internal learning and delivery program for a recurring seasonal
-campaign. The program helps a client promote one new theme or one component of
-their signature solution to warm leads and, first, to people who have bought
-before. Each run should offer a different theme from the last run.
+Draft the Next Big Thing program as an internal learning program and a reusable
+set of public operations guides. The program helps a client promote one new
+seasonal theme or one part of their main product or service to warm leads and,
+first, to past buyers. Each run should offer a different theme from the last
+run.
 
 The program belongs to the Scale Series, which supports growth of the client's
 portfolio.
@@ -14,22 +15,26 @@ portfolio.
 
 - The internal program index lists Next Big Thing and links to its summary and
   standalone process deck.
-- The summary explains who the program helps, why it exists, and what it
-  produces.
-- The deck guides a learner through choosing a theme, preparing the campaign,
-  inviting past buyers and warm leads, delivering the event, reviewing results,
-  and choosing a distinct theme for a later run.
-- The materials describe repeat purchase and newness as reasons to test this
+- The public operations manual links to a Next Big Thing playbook, recurring
+  checklist, and campaign setup SOP.
+- The playbook explains when and how to run the program. The checklist helps an
+  operator check one run. The SOP gives repeatable steps to prepare and test a
+  campaign before invites go out.
+- The internal materials guide a learner through the full cycle, including
+  delivery, follow-up, review, and choosing a distinct later theme.
+- All materials describe repeat purchase and newness as reasons to test this
   approach, not as guaranteed outcomes.
 
 ## Non-goals
 
-- Do not publish the program or add it to public site navigation.
+- Do not publish the internal program summary or deck.
+- Do not add the program to public method pages. Public material belongs in the
+  operations manual.
 - Do not promise sales, repeat purchase, or that new themes always perform
   better.
 - Do not define fixed dates, prices, channels, campaign length, or revenue
   targets for every client.
-- Do not build the campaign assets, event content, or client-specific plan.
+- Do not build the campaign assets, event content, or a client-specific plan.
 - Do not name a new public-facing service line or change the Scale Series
   structure beyond this draft.
 
@@ -37,6 +42,11 @@ portfolio.
 
 - Given a learner opens the internal program index, when they choose Next Big
   Thing, then they can open a linked summary and a standalone deck.
+- Given an operator opens the public operations manual, when they look for this
+  program, then they can open a linked playbook, checklist, and SOP.
+- Given an operator uses the public guides, when they run a campaign, then the
+  playbook explains the cycle, the checklist covers its checks, and the SOP
+  explains the repeatable campaign setup and readiness test.
 - Given a learner follows the deck, when they prepare a campaign, then the
   steps cover client fit, theme choice, audience segments, offer and event
   design, campaign preparation, launch, delivery, follow-up, and review.
@@ -45,16 +55,17 @@ portfolio.
 - Given the team makes a performance claim, when it describes the program, then
   repeat purchase and audience interest are framed as hypotheses to measure,
   not promised results.
-- Given the program pages are added, when the public site is built, then these
-  internal pages and the deck are not exposed through public navigation or
-  copied into the site.
+- Given the public site is built, when its pages and navigation are checked,
+  then the public operations guides are available and the internal summary and
+  deck are not copied into the site.
 - Given the new Markdown files are reviewed, when links and style are checked,
   then each link resolves, each new idea has a small Mermaid diagram, and the
   text follows repository writing rules.
 
 ## Constraints
 
-- Keep all new program material under `internal/`.
+- Keep learning material under `internal/` and reusable operations guides under
+  `docs/ops/`.
 - Follow [`AGENTS.md`](../AGENTS.md) and the internal program layout in
   [`program-decks-spec.md`](program-decks-spec.md).
 - Keep the deck standalone and readable on phones, tablets, and desktop screens.
@@ -75,21 +86,26 @@ portfolio.
 - ASSUMPTION: “Scale Series” is the engagement track for growing the client's
   portfolio; no existing definition was found, so this draft does not set its
   full structure.
-- ASSUMPTION: The first draft belongs only in internal materials. Public
-  publication needs a separate review.
+- ASSUMPTION: “All compliant material expected in docs/” means the three
+  existing operations manual types: one playbook, one recurring checklist, and
+  one repeatable SOP. It does not mean publishing the internal summary or deck.
+- ASSUMPTION: The public guides should be generic operator tools. Client-facing
+  campaign copy and client-specific plans are out of scope.
 - ASSUMPTION: Campaign timing, channels, event format, and measures are chosen
   with each client, not fixed by this program.
 
 ## Plan
 
-1. Add the Next Big Thing summary and standalone process deck under
-   `internal/programs/`.
-2. Add the program to `internal/programs/index.md`.
-3. Verify Markdown links, HTML deck structure, public build exclusion, and
-   writing rules.
+1. Add the public playbook, checklist, and campaign setup SOP under `docs/ops/`.
+2. Link them from the matching section in `docs/ops/index.md` and from the
+   matching sections in `mkdocs.yml`.
+3. Keep the internal summary and process deck under `internal/programs/`.
+4. Verify Markdown links, HTML deck structure, public navigation and build
+   output, and writing rules.
 
-Rollback: remove the new summary and deck, remove the index row, and remove this
-spec. Do not change existing program content or the public site.
+Rollback: remove the three public guides and their index rows, remove the
+internal summary and deck and their index row, and remove this spec. Do not
+change existing program content.
 
 ## Diagram
 
