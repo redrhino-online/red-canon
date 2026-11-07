@@ -45,6 +45,8 @@ nav:
           - Retargeting: ops/playbooks/retargeting.md
           - Email and nurture: ops/playbooks/email-nurture.md
           - Webinar: ops/playbooks/webinar.md
+          - Next Big Thing: ops/playbooks/next-big-thing.md
+          - Choose the learning goal and measures: ops/playbooks/learning-goal-and-measures.md
           - Super group: ops/playbooks/super-group.md
           - Outreach: ops/playbooks/outreach.md
           - Enroll: ops/playbooks/enroll.md
@@ -77,6 +79,7 @@ nav:
           - Two-step outreach: ops/checklists/two-step-outreach.md
           - Strategy session call: ops/checklists/strategy-session-call.md
           - Launch calendar: ops/checklists/launch-calendar.md
+          - Next Big Thing: ops/checklists/next-big-thing.md
           - Enrollment script: ops/checklists/enrollment-script.md
           - Checkpoint card: ops/checklists/checkpoint-card.md
           - Objection sheet: ops/checklists/objection-sheet.md
@@ -101,6 +104,7 @@ nav:
           - Ad campaign setup: ops/sops/ad-campaign-setup.md
           - Retargeting setup: ops/sops/retargeting-setup.md
           - Webinar build: ops/sops/webinar-build.md
+          - Next Big Thing campaign: ops/sops/next-big-thing-campaign.md
           - Email sequence build: ops/sops/email-sequence-build.md
           - Community launch: ops/sops/community-launch.md
           - Outreach sequence: ops/sops/outreach-sequence.md

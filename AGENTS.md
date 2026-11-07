@@ -105,6 +105,22 @@ flowchart TD
 - Do not name people from the transcripts in new material.
 - Keep a calm, helpful, expert tone.
 
+For public client-facing material, especially in `docs/ops/`, assume the client
+is reading and is the source of truth. Speak directly to the reader as “you.”
+Use “we” only for our company's actions. Do not refer to the reader in third
+person as “the client” or write instructions such as “confirm the client...” or
+“ask the client to...”. State what you choose and what we do instead.
+
+For example, change “Confirm the client has chosen a theme” to “You choose a
+theme, and we help you plan it.”
+
+This diagram shows how to write for the reader.
+
+```mermaid
+flowchart LR
+    A[You choose] --> B[We help]
+```
+
 ## 7. Commits
 
 - Use `type(scope): message` form, like `docs(readme): add offer section`.
