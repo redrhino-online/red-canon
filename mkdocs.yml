@@ -46,6 +46,7 @@ nav:
           - Email and nurture: ops/playbooks/email-nurture.md
           - Webinar: ops/playbooks/webinar.md
           - Next Big Thing: ops/playbooks/next-big-thing.md
+          - Choose the learning goal and measures: ops/playbooks/learning-goal-and-measures.md
           - Super group: ops/playbooks/super-group.md
           - Outreach: ops/playbooks/outreach.md
           - Enroll: ops/playbooks/enroll.md

@@ -15,7 +15,7 @@ Start when you decide to explore a theme for a campaign with us.
 
 1. Review your main product or service and the themes from past runs with us.
 2. Choose one different theme with us. It may be seasonal or from one part of your main product or service.
-3. Set the learning goal and choose measures with us.
+3. Set the learning goal and choose measures with us using [Choose the learning goal and measures](../playbooks/learning-goal-and-measures.md).
 4. Split the audience into past buyers and warm leads. Plan to contact past buyers first.
 5. Choose timing, price, channels, event format, and targets with us.
 6. We prepare the offer, event plan if used, audience lists, and messages for your review.

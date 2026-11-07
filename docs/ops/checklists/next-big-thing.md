@@ -7,7 +7,7 @@ Use this list to check one campaign cycle from planning through review.
 - [ ] Confirm you can serve the people the campaign may reach.
 - [ ] Review past themes and choose a different theme for this run.
 - [ ] Confirm the theme is seasonal or comes from one part of your main product or service.
-- [ ] Choose the learning goal and measures with us.
+- [ ] Choose the learning goal and measures with us using [Choose the learning goal and measures](../playbooks/learning-goal-and-measures.md).
 - [ ] Choose timing, price, channels, event format, and targets with us.
 
 ## Steps

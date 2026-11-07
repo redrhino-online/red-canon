@@ -27,7 +27,7 @@ Use this when you have a suitable theme and can serve the people it may reach. W
 
 1. Check that the theme fits your business and that you can serve the people it may attract.
 2. Review past runs with us. Rule out any theme that repeats the same idea.
-3. Choose one theme with us. State what you want to learn.
+3. Choose one theme with us. State what you want to learn using [Choose the learning goal and measures](learning-goal-and-measures.md).
 4. Split the audience into past buyers and warm leads. We plan to reach past buyers first.
 5. Choose the offer and event with us, if an event fits.
 6. We prepare the campaign and test it with the [campaign setup SOP](../sops/next-big-thing-campaign.md).
@@ -50,7 +50,7 @@ You approve the audience groups, offer, event plan, messages, timing, channels, 
 
 ## Metrics
 
-Choose measures with us. Possible measures include replies, sign-ups, attendance, sales, repeat purchases, and feedback. Compare results by audience group. One result does not prove that future themes will work.
+Choose measures with us using [Choose the learning goal and measures](learning-goal-and-measures.md). Possible measures include replies, sign-ups, attendance, sales, repeat purchases, and feedback. Compare results by audience group. One result does not prove that future themes will work.
 
 ## Outputs
 

@@ -15,14 +15,19 @@ portfolio.
 
 - The internal program index lists Next Big Thing and links to its summary and
   standalone process deck.
-- The public operations manual links to a Next Big Thing playbook, recurring
-  checklist, and campaign setup SOP.
+- The public operations manual links to a Next Big Thing playbook, a focused
+  learning goal and measures guide, a recurring checklist, and a campaign setup
+  SOP.
 - The playbook explains when and how to run the program. The checklist helps
   you check one run. The SOP shows you how we prepare and test a campaign
   before invites go out.
 - The public guides speak to the client as the reader and source of truth. They
   use “you” for the reader and “we” for our team's role, not instructions about
   what “the client” should do.
+- A separate public guide teaches you how to choose the learning goal and
+  measures for a Next Big Thing run.
+- The repo instructions tell future contributors to keep that client-facing
+  voice in public material.
 - The internal materials guide a learner through the full cycle, including
   delivery, follow-up, review, and choosing a distinct later theme.
 - All materials describe repeat purchase and newness as reasons to test this
@@ -45,14 +50,22 @@ portfolio.
 
 - Given a learner opens the internal program index, when they choose Next Big
   Thing, then they can open a linked summary and a standalone deck.
-- Given an operator opens the public operations manual, when they look for this
-  program, then they can open a linked playbook, checklist, and SOP.
+- Given you open the public operations manual, when you look for this program,
+  then you can open the playbook, learning goal and measures guide, checklist,
+  and SOP.
 - Given a client reads a public guide, when it describes an action or decision,
   then it speaks directly to the client as “you” or clearly names what “we” do.
   It does not refer to the reader as “the client.”
 - Given you use the public guides to run a campaign, when you follow them, then
   the playbook explains the cycle, the checklist covers its checks, and the SOP
   shows how we set up the campaign and test that it is ready.
+- Given you need a learning goal and measures, when you use the new guide, then
+  it helps you set a clear question, choose a small set of useful measures,
+  decide how to read the results, and record what you learned without promising
+  a sale.
+- Given a future contributor writes public material, when they read `AGENTS.md`,
+  then it clearly says that the client is the reader and explains how to use
+  “you” and “we”.
 - Given a learner follows the deck, when they prepare a campaign, then the
   steps cover client fit, theme choice, audience segments, offer and event
   design, campaign preparation, launch, delivery, follow-up, and review.
@@ -92,9 +105,10 @@ portfolio.
 - ASSUMPTION: “Scale Series” is the engagement track for growing the client's
   portfolio; no existing definition was found, so this draft does not set its
   full structure.
-- ASSUMPTION: “All compliant material expected in docs/” means the three
-  existing operations manual types: one playbook, one recurring checklist, and
-  one repeatable SOP. It does not mean publishing the internal summary or deck.
+- ASSUMPTION: “All compliant material expected in docs/” means the existing
+  operations manual types for this program: one playbook, one focused activity
+  guide, one recurring checklist, and one repeatable SOP. It does not mean
+  publishing the internal summary or deck.
 - ASSUMPTION: The public guides are client-facing source-of-truth material, not
   internal operator instructions. Use “you” for the reader and “we” for our
   team's role.
@@ -106,15 +120,18 @@ portfolio.
 ## Plan
 
 1. Add the public playbook, checklist, and campaign setup SOP under `docs/ops/`.
-2. Link them from the matching section in `docs/ops/index.md` and from the
-   matching sections in `mkdocs.yml`.
-3. Keep the internal summary and process deck under `internal/programs/`.
-4. Verify Markdown links, HTML deck structure, public navigation and build
+2. Add the learning goal and measures guide under `docs/ops/playbooks/` and link
+   it from the Next Big Thing materials, ops index, and MkDocs navigation.
+3. State the client-facing source-of-truth voice in `AGENTS.md`.
+4. Link the other public guides from `docs/ops/index.md` and their MkDocs
+   navigation sections.
+5. Keep the internal summary and process deck under `internal/programs/`.
+6. Verify Markdown links, HTML deck structure, public navigation and build
    output, and writing rules.
 
-Rollback: remove the three public guides and their index rows, remove the
-internal summary and deck and their index row, and remove this spec. Do not
-change existing program content.
+Rollback: remove the four public guides and their index/nav links, restore the
+prior writing rules in `AGENTS.md`, remove the internal summary and deck and
+their index row, and remove this spec. Do not change other program content.
 
 ## Diagram
 

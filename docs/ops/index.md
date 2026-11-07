@@ -91,15 +91,17 @@ flowchart LR
 
 This program tests one distinct theme with past buyers first and warm leads second. Use the guides to plan, check, and set up one cycle. You choose timing, price, channels, event format, and targets with us for each run.
 
-This diagram shows the three guides for the program.
+This diagram shows the four guides for the program.
 
 ```mermaid
 flowchart LR
     A[Plan] --> B[Check]
-    B --> C[Set up]
+    B --> C[Learn]
+    C --> D[Set up]
 ```
 
 - [Next Big Thing playbook](playbooks/next-big-thing.md): run and review a cycle.
+- [Choose the learning goal and measures](playbooks/learning-goal-and-measures.md): set a question, measures, and next action.
 - [Next Big Thing checklist](checklists/next-big-thing.md): check one cycle.
 - [Next Big Thing campaign setup SOP](sops/next-big-thing-campaign.md): prepare and test before invites.
 
