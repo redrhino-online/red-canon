@@ -19,6 +19,7 @@ readable on a small screen.
 | [High ticket course launch](high-ticket-course-launch.md) · [deck](high-ticket-course-launch.html) | Build and sell a first premium course. |
 | [Perfect offer](perfect-offer.md) · [deck](perfect-offer.html) | Test and shape a clear offer. |
 | [Certification](certification.md) · [deck](certification.html) | Practice, prove, and review client work. |
+| [Next Big Thing](next-big-thing.md) · [deck](next-big-thing.html) | Plan a recurring campaign around a seasonal theme or one from the client's main product or service. |
 
 The programs share one method. They differ in depth and focus.
 
