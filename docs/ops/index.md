@@ -89,7 +89,7 @@ flowchart LR
 
 ## Next Big Thing program
 
-This program tests one distinct theme with past buyers first and warm leads second. Use the guides to plan, check, and set up one cycle. The client chooses its timing, price, channels, event format, and targets.
+This program tests one distinct theme with past buyers first and warm leads second. Use the guides to plan, check, and set up one cycle. You choose timing, price, channels, event format, and targets with us for each run.
 
 This diagram shows the three guides for the program.
 

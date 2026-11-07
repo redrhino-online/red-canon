@@ -4,37 +4,36 @@ Use this playbook to plan, run, and review a campaign around one clear theme.
 
 ## Goal
 
-Test whether one seasonal theme or one part of a client's main product or service is useful to past buyers and warm leads. A warm lead is someone who has shown interest but has not bought. Treat interest and repeat purchase as things to measure, not promised results.
+Test whether one seasonal theme or one part of your main product or service is useful to past buyers and warm leads. A warm lead is someone who has shown interest but has not bought. We measure interest and repeat purchase as hypotheses, not promised results.
 
 ## When to use
 
-Use this when the client has a suitable theme and a clear reason to contact past buyers. Contact past buyers first, then warm leads. For each later cycle, choose a different theme. It may be seasonal or come from a different part of the client's main product or service.
+Use this when you have a suitable theme and can serve the people it may reach. We contact past buyers first, then warm leads. For every later run, choose a different theme. The theme may be seasonal or come from one part of your main product or service.
 
 ## Roles
 
-- **Delivery lead:** agrees on the goal and client choices.
-- **Campaign operator:** prepares and checks the campaign.
-- **Client owner:** approves the theme, offer, event, audience, and messages.
-- **Support lead:** handles questions and records issues, if needed.
+- **You:** choose the theme and make the final choices about the offer, event, audience, messages, and campaign details.
+- **We:** help shape the plan, prepare and test the campaign, and support delivery and review.
+- **Our support team:** handles questions and records issues, if needed.
 
 ## Inputs
 
-- Client's main product or service and prior campaign themes.
+- Your main product or service and the themes from past runs.
 - A suitable theme and a clear audience need.
-- Approved offer, event plan, audience groups, and campaign messages.
-- Client choices for timing, price, channels, event format, and measures.
+- Your choices for the offer, event, audience groups, and campaign messages.
+- Choices you make with us for timing, price, channels, event format, and measures.
 
 ## Steps
 
-1. Check that the client has a useful theme and can serve the people it attracts.
-2. Review prior cycles. Rule out a theme that repeats the same idea.
-3. Choose one theme with the client. State what you want to learn.
-4. Split the audience into past buyers and warm leads. Plan to reach past buyers first.
-5. Agree on the offer and event, if an event fits. Let the client choose the details.
-6. Prepare the campaign and use the [campaign setup SOP](../sops/next-big-thing-campaign.md) to test it.
-7. Invite past buyers first. Invite warm leads second, using the client-approved plan.
-8. Deliver the offer or event. Follow up with each group in the agreed way.
-9. Review the measures with the client. Save what you learned and note a distinct theme for a later cycle.
+1. Check that the theme fits your business and that you can serve the people it may attract.
+2. Review past runs with us. Rule out any theme that repeats the same idea.
+3. Choose one theme with us. State what you want to learn.
+4. Split the audience into past buyers and warm leads. We plan to reach past buyers first.
+5. Choose the offer and event with us, if an event fits.
+6. We prepare the campaign and test it with the [campaign setup SOP](../sops/next-big-thing-campaign.md).
+7. We invite past buyers first, then warm leads, using the plan you approved.
+8. We deliver the offer or event with you and follow up with each group as planned.
+9. Review the measures with us. We save what we learned and note a different theme for a later run.
 
 This diagram shows how each cycle moves from a theme to a review.
 
@@ -47,26 +46,26 @@ flowchart LR
 
 ## Gate
 
-Do not send invites until the client approves the audience groups, offer, event plan, messages, timing, channels, and readiness test. Confirm that past buyers come first and that the theme differs from prior cycles.
+You approve the audience groups, offer, event plan, messages, timing, channels, and readiness test before we send invites. Confirm that past buyers come first and that the theme differs from past runs.
 
 ## Metrics
 
-Choose measures with the client. Possible measures include replies, sign-ups, attendance, sales, repeat purchases, and feedback. Compare results by audience group. Do not treat one result as proof that all future themes will work.
+Choose measures with us. Possible measures include replies, sign-ups, attendance, sales, repeat purchases, and feedback. Compare results by audience group. One result does not prove that future themes will work.
 
 ## Outputs
 
-- Approved campaign plan and readiness check.
+- Campaign plan and readiness check approved by you.
 - Delivery and follow-up record.
 - Review of results and learning.
-- A note of prior themes to guide a distinct later cycle.
+- A record of past themes to guide a different later run.
 
 ## Common failures
 
-- **Same theme again:** compare the idea, not just its name, with past cycles.
+- **Same theme again:** compare the idea, not just its name, with past runs.
 - **Past buyers are missed:** plan their invite before warm-lead outreach.
 - **The plan assumes a sale:** set learning goals and measures, not promises.
-- **Details are chosen too soon:** leave timing, price, channels, event format, and targets to the client.
-- **No follow-up or review:** name an owner and schedule both with the client.
+- **Details are chosen too soon:** choose timing, price, channels, event format, and targets with us for each run.
+- **No follow-up or review:** set an owner and plan both with us.
 
 ## Related
 

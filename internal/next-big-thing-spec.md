@@ -17,9 +17,12 @@ portfolio.
   standalone process deck.
 - The public operations manual links to a Next Big Thing playbook, recurring
   checklist, and campaign setup SOP.
-- The playbook explains when and how to run the program. The checklist helps an
-  operator check one run. The SOP gives repeatable steps to prepare and test a
-  campaign before invites go out.
+- The playbook explains when and how to run the program. The checklist helps
+  you check one run. The SOP shows you how we prepare and test a campaign
+  before invites go out.
+- The public guides speak to the client as the reader and source of truth. They
+  use “you” for the reader and “we” for our team's role, not instructions about
+  what “the client” should do.
 - The internal materials guide a learner through the full cycle, including
   delivery, follow-up, review, and choosing a distinct later theme.
 - All materials describe repeat purchase and newness as reasons to test this
@@ -44,9 +47,12 @@ portfolio.
   Thing, then they can open a linked summary and a standalone deck.
 - Given an operator opens the public operations manual, when they look for this
   program, then they can open a linked playbook, checklist, and SOP.
-- Given an operator uses the public guides, when they run a campaign, then the
-  playbook explains the cycle, the checklist covers its checks, and the SOP
-  explains the repeatable campaign setup and readiness test.
+- Given a client reads a public guide, when it describes an action or decision,
+  then it speaks directly to the client as “you” or clearly names what “we” do.
+  It does not refer to the reader as “the client.”
+- Given you use the public guides to run a campaign, when you follow them, then
+  the playbook explains the cycle, the checklist covers its checks, and the SOP
+  shows how we set up the campaign and test that it is ready.
 - Given a learner follows the deck, when they prepare a campaign, then the
   steps cover client fit, theme choice, audience segments, offer and event
   design, campaign preparation, launch, delivery, follow-up, and review.
@@ -89,8 +95,11 @@ portfolio.
 - ASSUMPTION: “All compliant material expected in docs/” means the three
   existing operations manual types: one playbook, one recurring checklist, and
   one repeatable SOP. It does not mean publishing the internal summary or deck.
-- ASSUMPTION: The public guides should be generic operator tools. Client-facing
-  campaign copy and client-specific plans are out of scope.
+- ASSUMPTION: The public guides are client-facing source-of-truth material, not
+  internal operator instructions. Use “you” for the reader and “we” for our
+  team's role.
+- ASSUMPTION: Client-facing campaign copy and client-specific plans remain out
+  of scope.
 - ASSUMPTION: Campaign timing, channels, event format, and measures are chosen
   with each client, not fixed by this program.
 
