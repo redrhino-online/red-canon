@@ -1,147 +1,497 @@
 # Email template structures
 
-This guide sums up patterns found in a 19-card email example set. It names the
-job each pattern can do and the order of its main parts. It does not copy the
-emails. See the [email example backup](../swipe/EMAIL%20EXAMPLES/) for the
-original cards and images.
+This guide has one fill-in email for each of the 18 email examples in the
+[email example backup](../swipe/EMAIL%20EXAMPLES/). The drafts are new. They use
+the source examples' distinct goals and order, not their copy.
 
-The review found 17 clear patterns and two entries that are not clear enough to
-map. These are reusable shapes, not fixed rules.
+There is one extra card with cover art but no email body. It is listed at the
+end. It has no template because the source gives no email to model.
 
-The email usually moves from a reason to write to a next step.
+The common flow is simple. Each draft adds the parts its goal needs.
 
 ```mermaid
 flowchart LR
-    A[Reason] --> B[Useful detail] --> C[Next step]
+    A[Email goal] --> B[Its key parts] --> C[Next step]
 ```
 
-## Clear patterns
+## Fill-in templates
 
-### Confirm a call and help someone prepare
+### Confirm a call and prepare the reader
 
-**Intent:** Confirm the meeting and help the person arrive ready.
+**Intent:** Confirm a booked call, ease sales concerns, and collect useful
+preparation.
 
-**Order:** Confirm the time; say what to expect; give any prep task; explain how
-to join or get help.
+```text
+Subject: Your [APPOINTMENT TYPE] is confirmed
 
-### Share an authority interview
+Hello [FIRST NAME],
 
-**Intent:** Build trust by sharing an interview or press feature.
+Your [APPOINTMENT TYPE] is set for [DATE AND TIME]. I look forward to speaking with you.
 
-**Order:** Name the feature; say who or what it covers; share where to watch or
-read it.
+This is a no-pressure conversation to understand [CURRENT SITUATION] and see what would be useful. I have helped [CLIENT TYPE] work through [RELEVANT CHALLENGE], so we can use our time well.
 
-### Share an interview collection
+Before we meet, please complete this short worksheet: [WORKSHEET LINK]. It asks about [WORKSHEET TOPIC ONE], [WORKSHEET TOPIC TWO], and [WORKSHEET TOPIC THREE], so I can focus on what matters to you.
 
-**Intent:** Share several interviews and related press items in one email.
+We will look at [DISCUSSION AREA ONE], [DISCUSSION AREA TWO], and a clear next step for [DESIRED OUTCOME]. You will leave with useful direction whether or not we work together.
 
-**Order:** Explain why the collection is useful; group or link the items; invite
-the reader to explore one or more.
+Talk soon,
+[YOUR NAME]
+```
 
-### Recover a cart
+### Share an expert interview
 
-**Intent:** Help someone return to an order they did not finish.
+**Intent:** Use an outside guest or feature to build trust and share useful
+ideas.
 
-**Order:** Remind them of the open order; give a way back to the cart; offer help
-with a question or problem.
+```text
+Subject: A fresh perspective on [TOPIC]
+
+Hello [FIRST NAME],
+
+How do you approach [TOPIC OR CHALLENGE] when [RELEVANT CONDITION]? I sat down with [GUEST ROLE] to explore that question and share practical ideas.
+
+Meet [GUEST NAME], introduced by [THIRD-PARTY SOURCE OR ORGANIZATION] as [CREDIBILITY DETAIL]. Their experience with [AREA OF EXPERIENCE] brings a helpful outside view.
+
+Watch or listen to our conversation here: [INTERVIEW LINK]. We discuss [DISCUSSION POINT ONE], [DISCUSSION POINT TWO], and [USEFUL TAKEAWAY].
+
+Best,
+[YOUR NAME]
+
+P.S. You may also like [RELATED RESOURCE ONE], [RELATED RESOURCE TWO], and [RELATED RESOURCE THREE]: [RESOURCE COLLECTION LINK].
+```
+
+### Share a collection of interviews
+
+**Intent:** Guide readers through a set of interviews, related links, and a
+community.
+
+```text
+Subject: A collection of conversations about [TOPIC]
+
+Hello [FIRST NAME],
+
+I gathered these conversations to help you find clear ideas on [TOPIC], without having to search in many places. Start with the section that fits your question.
+
+EXPLORE THE COLLECTION
+[COLLECTION LINK]
+
+If you want one place to begin, read [FEATURED GUEST]'s transcript on [FEATURED SUBJECT]: [TRANSCRIPT LINK].
+
+More to explore:
+- [GUEST ONE] on [SUBJECT ONE] and [TAKEAWAY ONE].
+- [GUEST TWO] on [SUBJECT TWO] and [TAKEAWAY TWO].
+- [GUEST THREE] on [SUBJECT THREE], plus [RELATED RESOURCE].
+
+If this collection helps, please share it with [RELEVANT PERSON OR GROUP] or leave a comment about what you want covered next.
+
+Warmly,
+[YOUR NAME]
+
+P.S. Join [COMMUNITY NAME] to keep learning with others working on [SHARED GOAL]: [COMMUNITY LINK].
+```
+
+### Offer a course as a product bonus
+
+**Intent:** Offer a free learning program tied to trying a product, then show
+what it contains.
+
+```text
+Subject: A free [PROGRAM TYPE] when you try [PRODUCT]
+
+Hello [FIRST NAME],
+
+When you try [PRODUCT], you can also get [PROGRAM NAME] at no added cost. It is a practical way to learn [SKILL OR OUTCOME] while you put [PRODUCT USE] into action.
+
+Claim your program here: [CLAIM LINK].
+
+[COURSE ASSET COLLAGE DESCRIPTION]
+
+Here is what you will work through:
+- [LESSON OR GUIDE ONE] to help you [BENEFIT ONE].
+- [WORKSHEET OR TOOL TWO] for planning [BENEFIT TWO].
+- [EXAMPLE OR RESOURCE THREE] so you can practice [BENEFIT THREE].
+- [BONUS MATERIAL FOUR] to support [BENEFIT FOUR].
+
+We built the course around [BEHIND THE SCENES DESIGN DETAIL], so each part leads into the next and helps you make steady progress.
+
+See the full program details here: [PROGRAM DETAILS LINK].
+
+Enjoy,
+[YOUR NAME]
+```
+
+### Help finish an order
+
+**Intent:** Find out if something blocked checkout, offer help, and provide the
+return link.
+
+```text
+Subject: Need help finishing your [PRODUCT] order?
+
+Hello [FIRST NAME],
+
+It looks like you started an order for [PRODUCT] but did not finish checking out. Was anything unclear or did you run into a problem?
+
+Just reply to this email and our team will help with [COMMON QUESTION OR ISSUE].
+
+Your order includes [INCLUDED ITEM ONE], [INCLUDED ITEM TWO], and [SUPPORT OR BONUS], so you have what you need to [CUSTOMER OUTCOME].
+
+You can pick up where you left off here: [CHECKOUT LINK].
+
+Thanks,
+The [TEAM NAME] team
+```
 
 ### Round up useful resources
 
-**Intent:** Help readers find useful content in one place.
+**Intent:** Give away practical resources and ask readers to use one.
 
-**Order:** Set up the topic; share each resource with a short cue; invite the
-reader to open one.
+```text
+Subject: New free tools for [TOPIC]
 
-### Answer product questions
+Hello [FIRST NAME],
 
-**Intent:** Clear up doubts about a product.
+I have been sharing practical help on [TOPIC] because useful ideas should be easy to try before you make a bigger commitment. Here are some recent free resources.
 
-**Order:** Name a question or concern; give a plain answer; explain the next step
-for learning more or buying.
+- [RESOURCE ONE]: use it to [USE ONE]. [RESOURCE ONE LINK]
+- [RESOURCE TWO]: follow it to [USE TWO]. [RESOURCE TWO LINK]
+- [RESOURCE THREE]: try it when you need to [USE THREE]. [RESOURCE THREE LINK]
+
+Choose one that fits your current need and put it into practice today. Small steps can help you see what works for [DESIRED RESULT].
+
+Reply and tell me where you get stuck. I will do my best to point you toward a useful next step.
+
+Best,
+[YOUR NAME]
+```
+
+### Answer questions and check fit
+
+**Intent:** Answer questions about an offer, list who it suits, and invite a
+qualified reader to book.
+
+```text
+Subject: Is [OFFER NAME] right for you?
+
+Hello [FIRST NAME],
+
+Here are answers to the questions people often ask about [OFFER NAME].
+
+What is included? [OFFER ANSWER]
+Who created it? [CREATOR BACKGROUND]
+Why was it made? [REASON]
+Is it a fit for me? [FIT ANSWER]
+How is it different from [ALTERNATIVE]? [DIFFERENCE]
+What does it cost? [PRICE AND PAYMENT DETAILS]
+How does the process work? [PROCESS STEPS]
+What results can I expect? [PROOF AND LIMITS]
+What should I do next? [NEXT STEP]
+
+This may fit you if you:
+- [FIT CHECK ONE]
+- [FIT CHECK TWO]
+- [FIT CHECK THREE]
+
+If those points sound like you, book a conversation here: [BOOKING LINK]. We can talk through your questions and decide together whether to proceed.
+
+Best,
+[YOUR NAME]
+
+P.S. [IMPORTANT CONDITIONS, EXCLUSIONS, OR ELIGIBILITY DETAILS].
+```
 
 ### Send a time-limited sale
 
-**Intent:** Tell readers an offer ends at a set time.
+**Intent:** Explain a deadline, offer terms, a risk-reducer, and a stack of
+included items.
 
-**Order:** Name the offer; state the time limit; give the value or terms; link to
-act before it ends.
+```text
+Subject: Save [DISCOUNT] on [OFFER] through [DEADLINE]
 
-### Invite someone to a strategy call
+Hello [FIRST NAME],
 
-**Intent:** Ask a reader to book a call about their needs or goals.
+You can get [OFFER] for [DISCOUNT OR PRICE] until [DEADLINE]. See the details and claim your place now: [EARLY OFFER LINK].
 
-**Order:** Name who the call is for; say what the call can help with; invite the
-reader to book.
+I am making this offer because [REASON ONE] and [REASON TWO]. After [PRICE OR ACCESS CHANGE], the offer will [WHAT CHANGES], so this is a good time to decide if it fits.
 
-### Link a problem to a resource
+Watch this short explanation of what is included: [EXPLAINER VIDEO LINK].
 
-**Intent:** Connect a reader's problem with a helpful resource.
+You can review the refund terms here: [REFUND TERMS].
 
-**Order:** Name the problem; show why it matters; offer the resource; explain
-how to get it.
+With [OFFER], you can [BENEFIT ONE], [BENEFIT TWO], and [BENEFIT THREE]. You also receive:
+- [CORE ITEM ONE] — [ITEM VALUE ONE]
+- [CORE ITEM TWO] — [ITEM VALUE TWO]
+- [BONUS ITEM ONE] — [BONUS VALUE ONE]
+- [BONUS ITEM TWO] — [BONUS VALUE TWO]
 
-### Explain a process with video
+The listed value is an estimate of the included parts, not a promise of a specific result.
 
-**Intent:** Make a process easier to grasp with a video.
+Take a look and decide whether it is right for you: [OFFER LINK].
 
-**Order:** Name the process or question; introduce the video; give the link and
-what to look for.
+Best,
+[YOUR NAME]
 
-### Share an article or process guide
+P.S. The offer ends [DEADLINE]. If you need help deciding or have a question, contact us at [SUPPORT PATH].
+```
 
-**Intent:** Teach a process through an article or written guide.
+### Invite a qualified reader to a strategy call
 
-**Order:** Name the topic; say what the guide covers; link to read it.
+**Intent:** Explain a free session, its value, optional next offer, fit, and
+preparation.
 
-### Show results as proof
+```text
+Subject: A free session to plan your next step
 
-**Intent:** Use a result or example to show what may be possible.
+Hello [FIRST NAME],
 
-**Order:** Present the result; give context for it; connect it to the reader's
-goal; offer a next step.
+In a free [SESSION LENGTH] strategy session, we can look at [TOPIC ONE], [TOPIC TWO], and [TOPIC THREE]. You will leave with [PRACTICAL OUTCOME]. There is no charge for this conversation.
 
-### Ask an audience question
+Choose a time here: [BOOKING LINK].
 
-**Intent:** Start a reply and learn what readers think or need.
+I offer these sessions to learn about [AUDIENCE NEED] and help people find a useful direction. If you want more support afterward, you can choose [OPTIONAL FOLLOW-ON SERVICE] with [FOLLOW-ON ITEMS OR SUPPORT] at [FOLLOW-ON PRICE]. That is separate and entirely optional.
 
-**Order:** Ask one clear question; say how to reply.
+There is no pressure to buy anything. We will focus on your situation and what makes sense for you.
 
-### Get a webinar attendance commitment
+Before the call, [PREPARATION STEP]. Please join from [JOINING INSTRUCTIONS] and let us know if your plans change.
 
-**Intent:** Help people who signed up plan to attend.
+This session is likely a fit if you:
+- [QUALIFICATION POINT ONE]
+- [QUALIFICATION POINT TWO]
+- [QUALIFICATION POINT THREE]
 
-**Order:** Remind them of the event; state when and how to join; ask them to
-commit or add it to their plans.
+If that sounds useful, book your free session here: [BOOKING LINK].
 
-### Follow up with someone who left early
+Best,
+[YOUR NAME]
+```
 
-**Intent:** Help an attendee who missed part of an event catch up.
+### Connect a problem to a video and related offer
 
-**Order:** Note that they left before the end; point to what they missed or a
-way to review it; give a next step.
+**Intent:** Name a relatable problem, share a helpful video, ask for feedback,
+and add a qualified next offer.
 
-### Follow up with someone who missed an event
+```text
+Subject: A short video for [COMMON CHALLENGE]
 
-**Intent:** Reconnect with a person who did not attend.
+Hello [FIRST NAME],
 
-**Order:** Acknowledge the missed event; offer a replay or key resource if
-available; explain what to do next.
+Have you ever [RELATABLE SITUATION]? It can be frustrating when [SPECIFIC DIFFICULTY], especially while you are trying to [DESIRED TASK].
 
-### Recap a webinar offer
+I made a short video showing a way to approach it: [VIDEO LINK]. It covers [VIDEO POINT ONE] and [VIDEO POINT TWO].
 
-**Intent:** Help attendees review an offer made during a webinar.
+I hope it gives you a useful place to start. If you watch it, reply and let me know whether it helped or what is still unclear.
 
-**Order:** Recall the event; restate the offer and its parts; give the terms or
-deadline if known; link to learn more or act.
+Best,
+[YOUR NAME]
 
-## Uncertain entries
+P.S. If you are working toward [QUALIFYING GOAL] and need help with [RELATED NEED], you can learn about [RELATED PRODUCT] here: [PRODUCT INFORMATION LINK].
+```
 
-### Bonus with purchase
+### Teach a process with a visual template
 
-**Status:** Uncertain. The entry is named, but its structure is not clear from
-the review. No ordered elements are assigned.
+**Intent:** Present a planning template, show its diagram, give ordered steps,
+and explain how to use it.
 
-### Untitled or unclassified
+```text
+Subject: Use this template to map [PROCESS]
 
-**Status:** Uncertain. There is no clear title or pattern to classify. Its
-intent and order are unknown.
+Hello [FIRST NAME],
+
+The main resource here is a ready-to-use [TEMPLATE TYPE] for planning [PROCESS OR RESULT]. Get your copy: [TEMPLATE LINK].
+
+The process follows this path: [STAGE ONE] → [STAGE TWO] → [STAGE THREE] → [STAGE FOUR]. The diagram shows how each stage leads to the next: [PROCESS DIAGRAM LINK].
+
+Use this checklist as you work through it:
+1. [STAGE ONE ACTION] — check that [STAGE ONE CHECK].
+2. [STAGE TWO ACTION] — add [STAGE TWO INPUT].
+3. [STAGE THREE ACTION] — review [STAGE THREE CHECK].
+4. [STAGE FOUR ACTION] — choose [STAGE FOUR NEXT STEP].
+
+Start by filling in [FIRST TEMPLATE SECTION]. Then follow the stages in order, using the video to see how I apply each part: [PROCESS VIDEO LINK].
+
+Best,
+[YOUR NAME]
+```
+
+### Help a writer use a six-part article
+
+**Intent:** Turn a common writing block into an article, action steps, and a
+qualified follow-on offer.
+
+```text
+Subject: A six-part guide for getting unstuck
+
+Hello [FIRST NAME],
+
+A blank page can make it hard to begin, even when you know the subject well. I wrote a guide to help you move from a rough idea to a clear piece of writing.
+
+Read the article: [ARTICLE LINK]. It walks through six parts:
+1. Choose [GUIDE PART ONE].
+2. Define [GUIDE PART TWO].
+3. Gather [GUIDE PART THREE].
+4. Shape [GUIDE PART FOUR].
+5. Write [GUIDE PART FIVE].
+6. Review [GUIDE PART SIX].
+
+Pick one piece of writing and apply the first step today. You can use the rest of the guide as you move forward.
+
+A personal note: [PERSONAL EXPERIENCE OR ENCOURAGEMENT].
+
+Best,
+[YOUR NAME]
+
+P.S. If you are [QUALIFYING CONDITION] and want support with [RELATED NEED], see [RELATED OFFER]: [OFFER LINK].
+```
+
+### Prove results with a campaign walkthrough
+
+**Intent:** Show a campaign video, three measures, context, and who may be a
+good partner.
+
+```text
+Subject: What this [CAMPAIGN TYPE] campaign achieved
+
+Hello [FIRST NAME],
+
+Here is a walkthrough of how we planned and ran a [CAMPAIGN TYPE] campaign: [CAMPAIGN VIDEO LINK].
+
+The results included [METRIC ONE], [METRIC TWO], and [METRIC THREE]. These measures show [WHAT THE NUMBERS INDICATE].
+
+Rather than focusing only on [VANITY OR EXPECTED MEASURE], compare the results with [BASELINE OR GOAL]. The difference suggests [CAREFUL INTERPRETATION], while [LIMITATION OR CONTEXT] is important to keep in mind.
+
+Best,
+[YOUR NAME]
+
+P.S. This approach may suit a partner who [PARTNER FIT]. Learn how we work together here: [PARTNER INFORMATION LINK].
+```
+
+### Ask readers to choose a goal
+
+**Intent:** Ask for one reply and use the answers to guide future learning
+material.
+
+```text
+Subject: What would you like to work on next?
+
+Hello [FIRST NAME],
+
+Which one goal matters most to you right now?
+
+- [GOAL ONE]
+- [GOAL TWO]
+- [GOAL THREE]
+- [GOAL FOUR]
+
+Just reply to this email with the one you choose. A few words about why are welcome, too.
+
+Your answers help me decide what guides, examples, and lessons to make next, so the material can meet you where you are.
+
+Thank you,
+[YOUR NAME]
+```
+
+### Ask registered guests to attend
+
+**Intent:** Confirm registration, build a two-way commitment, and ask guests
+to attend and take part.
+
+```text
+Subject: You are registered for [WEBINAR NAME]
+
+Hello [FIRST NAME],
+
+Your place for [WEBINAR NAME] on [DATE AND TIME] is confirmed. Add it to your calendar here: [CALENDAR LINK].
+
+We are both setting aside time for this session. Please reply [ATTENDANCE CONFIRMATION WORD] to let me know you plan to be there.
+
+I will bring [PREPARATION OR MATERIALS] and make the session clear, useful, and focused. There is no pressure to buy or agree with anything; the goal is to help you understand [TOPIC OR OUTCOME].
+
+I will be ready with [SPECIFIC PREPARATION], and you will get the most from joining live, asking questions, and taking part.
+
+Please plan to attend, bring [SUGGESTED MATERIAL], and share your questions in [ENGAGEMENT METHOD].
+
+See you then,
+[YOUR NAME]
+```
+
+### Help an early leaver catch up
+
+**Intent:** Check for tech trouble, offer the replay and bonus material, explain
+the controls, and show attendee feedback.
+
+```text
+Subject: Here is the full [WEBINAR NAME] replay
+
+Hello [FIRST NAME],
+
+I noticed you had to leave [WEBINAR NAME] before it ended. Did a technical issue get in the way? I know that can be frustrating, and I hope everything is all right.
+
+You can watch the full replay, including the sections you missed and [BONUS MATERIAL]: [REPLAY LINK].
+
+Use the player controls to pause, rewind, or jump to [SECTION OR TIMESTAMP]. You can also download [RELATED MATERIAL] here: [MATERIAL LINK].
+
+People who joined shared comments such as [ATTENDEE COMMENT ONE] and [ATTENDEE COMMENT TWO]. I hope the replay is useful for you, too.
+
+Best,
+[YOUR NAME]
+```
+
+### Reach a person who missed a webinar
+
+**Intent:** Acknowledge the missed event, explain the value, and make the free
+replay easy to watch.
+
+```text
+Subject: You can still watch [WEBINAR NAME]
+
+Hello [FIRST NAME],
+
+Sorry we did not see you at [WEBINAR NAME]. Things come up, so I wanted to make sure you still have access to what we covered.
+
+The session explains [KEY VALUE OR SKILL] and shows how to approach [IMPORTANT CHALLENGE]. Watching it can help you decide what next step makes sense for your situation.
+
+Please take a few minutes to watch the replay here: [REPLAY LINK].
+
+The training is free to watch, and there is no need to sign up for anything else to use the ideas.
+
+Best,
+[YOUR NAME]
+```
+
+### Recap an offer after a webinar
+
+**Intent:** Thank attendees, list the offer parts and values, give a careful
+total-value note, and invite questions.
+
+```text
+Subject: Your next steps after [WEBINAR NAME]
+
+Hello [FIRST NAME],
+
+Thank you for joining [WEBINAR NAME] and sharing your time with us. [HUMAN ASIDE ABOUT THE SESSION].
+
+As promised, attendees can access [SPECIAL OFFER] to help you [DESIRED OUTCOME] through [PROCESS OR METHOD].
+
+Your offer includes:
+- [ITEM ONE] — [ITEM ONE VALUE]
+- [ITEM TWO] — [ITEM TWO VALUE]
+- [ITEM THREE] — [ITEM THREE VALUE]
+- [BONUS ITEM] — [BONUS VALUE]
+
+Together, these parts have an estimated value of [TOTAL VALUE]. This estimate reflects the listed components; it is not a promise of your individual results.
+
+Review the details and take the next step here: [OFFER CTA LINK].
+
+Best,
+[YOUR NAME]
+
+P.S. If you have questions about [OFFER OR FIT], reply to this email or contact [SUPPORT CONTACT].
+```
+
+## No email template
+
+### Untitled cover-art card
+
+This card contains cover art, not an email. It has no subject, body, or email
+sequence to model. Do not use it as a fill-in template until email content is
+found.
